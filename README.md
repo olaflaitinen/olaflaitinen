@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on developing transparent AI systems that prioritize ethical considerations and user trust.
-👯 I’m looking to collaborate on projects that integrate explainable AI into healthcare applications, ensuring both efficacy and ethical integrity.
-🤝 I’m looking for help with exploring interdisciplinary approaches to AI ethics, particularly from perspectives in sociology and philosophy.
-🌱 I’m currently learning about the latest advancements in AI interpretability techniques and their applications across various industries.
-💬 Ask me about the challenges and solutions in making AI decisions transparent and understandable to diverse user groups.
-⚡ Fun fact: Did you know that the term “robot” originates from the Czech word “robota,” meaning forced labor or drudgery?
+🔭 I’m currently working on developing transparent AI systems that prioritize ethical considerations and user trust.<br>
+👯 I’m looking to collaborate on projects that integrate explainable AI into healthcare applications, ensuring both efficacy and ethical integrity.<br>
+🤝 I’m looking for help with exploring interdisciplinary approaches to AI ethics, particularly from perspectives in sociology and philosophy.<br>
+🌱 I’m currently learning about the latest advancements in AI interpretability techniques and their applications across various industries.<br>
+💬 Ask me about the challenges and solutions in making AI decisions transparent and understandable to diverse user groups.<br>
+⚡ Fun fact: Did you know that the term “robot” originates from the Czech word “robota,” meaning forced labor or drudgery?<br>
 
 
 ## 🌐 Socials:
