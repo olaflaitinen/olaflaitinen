@@ -1,8 +1,8 @@
 ## Hey there 👋, I'm [Olaf!](https://www.linkedin.com/in/olaflaitinen)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olaflaitinen)
-[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00a0df?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/)
-[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00a0df?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/olaflaitinen)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/olaflaitinen)
 
 ### Glad to see you here!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaflaitinen&label=Profile%20views&color=0e75b6&style=flat" alt="olaflaitinen" /> </p>
