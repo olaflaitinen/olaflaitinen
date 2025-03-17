@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Ask me about LIME, SHAP, and counterfactuals in explainable AI (XAI), ethical AI governance and bias mitigation, human-AI collaboration frameworks, React/Vue integrations for XAI dashboards, or proteomics data analysis using mass spectrometry workflows.**
 
-- 📫 How to reach me **📧 olaf.laitinen@dtu.dk or x034yyut@liu.se | 🐦 @olaflaitinen**
+- 📫 How to reach me **📧 olala@dtu.dk or x034yyut@liu.se | 🐦 @olaflaitinen**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/olaflaitinen/](https://www.linkedin.com/in/olaflaitinen/)
 
