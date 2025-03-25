@@ -68,7 +68,7 @@ Like my work?
   <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&hide_border=true" />
+  <img height="180em" src="[https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&hide_border=true](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=olaflaitinen&card_width=496)" />
 </details>
 
 <details>
