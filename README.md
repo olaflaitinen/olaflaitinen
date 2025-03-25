@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Olaf!](https://www.linkedin.com/in/olaflaitinen)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olaflaitinen)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goylfli)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00a0df?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Olaf-Laitinen)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=WSqps1YAAAAJ)
 
