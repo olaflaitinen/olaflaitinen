@@ -1,48 +1,30 @@
-## Hey there 👋, I'm [Olaf!](https://www.linkedin.com/in/olaflaitinen)
+## Hey there 👋, I'm [Olaf Laitinen](https://www.linkedin.com/in/olaflaitinen)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goylfli)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olaflaitinen)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00a0df?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Olaf-Laitinen)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=WSqps1YAAAAJ)
 
-### Glad to see you here!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olaflaitinen&label=Profile%20views&color=0e75b6&style=flat" alt="olaflaitinen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olaflaitinen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-I am a Senior Research Scientist specializing in AI, Proteomics, and Explainable AI at DTU Bioengineering. My work bridges rigorous research and innovative applications in multi‑omics integration, transforming the frontiers of biomedical discovery and ethical AI. With a solid academic foundation in Computing, Electrical Engineering, and Machine Learning, I lead cross‑disciplinary teams to secure competitive funding, publish in top-tier journals, and develop next‑generation AI frameworks.
+### Senior Research Scientist | AI, Proteomics & Explainable AI
 
-I'm passionate about advancing scientific research, mentoring emerging talent, and forging collaborations that push the boundaries of what AI can achieve in healthcare and beyond. When I'm not immersed in data or fine-tuning machine learning models, you'll likely find me engaging with the latest research articles, attending international conferences, or brainstorming ideas for novel AI applications.
+I am a Senior Research Scientist at **DTU Bioengineering**, where I lead research at the intersection of Artificial Intelligence and Proteomics. My work focuses on developing and applying novel machine learning models for multi-omics data integration, aiming to uncover new biological insights and advance biomedical discovery.
 
-Feel free to connect with me @olaflaitinen on LinkedIn or drop a message to discuss groundbreaking research and innovative AI projects!
+With a PhD in Computational Biology and a strong background in both engineering and machine learning, I specialize in creating robust, interpretable AI frameworks. I have a proven track record of securing competitive research funding, publishing in high-impact journals, and mentoring the next generation of scientists. I am passionate about fostering collaborations that translate complex data into tangible solutions in healthcare.
 
-Joined GitHub **recently**.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/olaflaitinen) or explore my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=WSqps1YAAAAJ).
 
-Since then I've contributed to numerous research projects, authored multiple peer-reviewed publications, and collaborated with international experts in AI and data science.
+<img align="right" height="250" width="375" alt="A GIF representing a researcher working with data and scientific equipment" src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/master/gifs/researcher.gif" />
+
+### My Core Focus & Interests
+
+- 🔭 &nbsp; **Current Research:** Developing novel deep learning architectures for protein function annotation and integrating Explainable AI (XAI) methods to interpret complex multi-omics models.
+- 🌱 &nbsp; **I’m looking to collaborate on:** Projects involving federated learning for secure medical data analysis, and the development of ethical AI frameworks for clinical decision support.
+- 💬 &nbsp; **Ask me about:** Proteomics, multi-omics integration, deep learning, explainable AI, or academic research collaborations. I'm always open to discussing new ideas!
+- 📫 &nbsp; **How to reach me:** Feel free to open an issue [here](https://github.com/olaflaitinen/olaflaitinen/issues) or email me at `olaf.laitinen[at]dtu.dk`.
+- 👾 &nbsp; **Fun fact:** I believe the most elegant solutions in bioinformatics often mimic nature's own efficiency.
 
 <hr>
-<h3 align="left">✨ Random Research Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Research Quote" />
-</p>
-<hr>
-
-Like my work?
-
-<a href="https://www.buymeacoffee.com/olaflaitinen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="research scientist" src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/master/gifs/researcher.gif" />
-
-### Talking about My Research & Life:
-
-- 🛠 &nbsp; I’m currently pushing the boundaries of AI in proteomics and healthcare.
-- 🚀 &nbsp; I’m exploring cutting-edge topics like Explainable AI and Federated Learning.
-- 💬 &nbsp; Ask me anything about multi‑omics, advanced ML models, or scientific research [here](https://github.com/olaflaitinen/olaflaitinen/issues)! I'm always open to collaboration.
-- 👾 &nbsp; Fun fact: Precision in data science is as crucial as precision in the lab.
-- 📫 &nbsp; Reach out: x034yyut@liu.se.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; Delving into innovative research and pioneering AI solutions.
-- 📰 &nbsp; Reading and writing scientific articles and engaging in tech discussions.
-- 🍕 &nbsp; International conferences, hackathons, and collaborative research projects.
 
 ### Languages and Tools:
 
@@ -90,3 +72,18 @@ Like my work?
 ### Show some ❤️ by starring some of the repositories!
   
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
