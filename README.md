@@ -42,15 +42,15 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/olaflaiti
   <summary><b>⚡ GitHub Stats</b></summary>
 
   <br />
-  <img align="180em" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&locale=en" alt="olaflaitinen" /> <br>
-  <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&langs_count=8" alt="olaflaitinen" />
+  <img align="200em" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&locale=en" alt="olaflaitinen" /> <br>
+  <img align="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&langs_count=8" alt="olaflaitinen" />
 </details>
 
 <details>
   <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
-  <img height="180em" src="[https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&hide_border=true](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=olaflaitinen&card_width=496)" />
+  <img height="200em" src="[https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&hide_border=true](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=olaflaitinen&card_width=496)" />
 </details>
 
 <details>
