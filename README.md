@@ -43,7 +43,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/olaflaiti
 
   <br />
   <img align="180em" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&locale=en" alt="olaflaitinen" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+  <img align="180em" src="[https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&locale=en" alt="olaflaitinen](https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&langs_count=8)" />
 </details>
 
 <details>
