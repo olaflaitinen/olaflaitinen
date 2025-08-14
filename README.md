@@ -13,7 +13,7 @@ Structure:
 <div align="center">
   <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/master/gifs/researcher.gif" width="400" alt="A GIF representing a researcher working with data and scientific equipment">
   
-  # ** Gustav Olaf Yunus Laitinen-Fredriksson Lundström Imanov **
+  # **Gustav Olaf Yunus Laitinen-Fredriksson Lundström Imanov**
   ### **Bioinformatician to Clinical Genomics within Cell and Neurobiology | AI in Proteomics, Genomics & Medical Imaging | XAI**
 
   <p>
