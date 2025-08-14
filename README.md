@@ -42,7 +42,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/olaflaiti
   <summary><b>⚡ GitHub Stats</b></summary>
 
   <br />
-  <img align="180em" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&locale=en" alt="olaflaitinen" />
+  <img align="180em" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&locale=en" alt="olaflaitinen" /> <br>
   <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&langs_count=8" alt="olaflaitinen" />
 </details>
 
