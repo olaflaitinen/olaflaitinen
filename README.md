@@ -389,6 +389,7 @@ This is a comprehensive portfolio of projects reflecting my hands-on experience 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=olaflaitinen&theme=tokyonight&card_width=496" alt="GitHub Streak" />
@@ -418,7 +419,7 @@ This is a comprehensive portfolio of projects reflecting my hands-on experience 
   <h3><b>Let's Connect and Collaborate!</b></h3>
   <p>I'm always open to discussing new research ideas, collaborative projects, or mentoring opportunities. Feel free to reach out.</p>
   <p>
-    <a href="https://www.linkedin.com/in/olaflaitinen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="https://www.linkedin.com/in/olaflaitinen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
     <a href="mailto:olafyunus.laitinenimanov@liu.se"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
     <a href="https://github.com/olaflaitinen/olaflaitinen/issues"><img src="https://img.shields.io/badge/-Open_an_Issue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues Badge"></a>
   </p>
