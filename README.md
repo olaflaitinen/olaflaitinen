@@ -13,8 +13,8 @@ Structure:
 <div align="center">
   <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/master/gifs/researcher.gif" width="400" alt="A GIF representing a researcher working with data and scientific equipment">
   
-  # **O. Yunus L. Imanov (Olaf Laitinen)**
-  ### **Senior Research Scientist | AI in Proteomics, Genomics & Medical Imaging | XAI**
+  # ** Gustav Olaf Yunus Laitinen-Fredriksson Lundström Imanov **
+  ### **Bioinformatician to Clinical Genomics within Cell and Neurobiology | AI in Proteomics, Genomics & Medical Imaging | XAI**
 
   <p>
     <a href="https://www.linkedin.com/in/olaflaitinen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
