@@ -1,5 +1,14 @@
 <div align="center">
 
+<!-- Animated Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/animated-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/animated-banner.svg">
+  <img src="./assets/animated-banner.svg" width="100%" alt="Animated Banner" />
+</picture>
+
+<br/>
+
 <!-- Animated Typing Header -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+at+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare">
@@ -76,10 +85,11 @@ With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of
 
 ---
 
-## GitHub Statistics
+## GitHub Statistics & Metrics
 
 <div align="center">
 
+<!-- Main Stats Row -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
@@ -94,6 +104,7 @@ With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of
 
 <br/>
 
+<!-- Language & Activity Row -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=github_dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=default&hide_border=true&langs_count=10">
@@ -101,19 +112,89 @@ With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-light&hide_border=true&area=true">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=olaflaitinen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=olaflaitinen&theme=default&hide_border=true&layout=compact">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=olaflaitinen&theme=github_dark&hide_border=true&layout=compact" />
 </picture>
 
 </div>
 
+<!-- GitHub Metrics Detailed -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- GitHub Profile Summary Cards -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark" width="100%">
+</picture>
+
+<br/>
+
+<!-- Additional Metrics Cards -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olaflaitinen&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olaflaitinen&theme=default">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olaflaitinen&theme=nord_dark" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olaflaitinen&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olaflaitinen&theme=default">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olaflaitinen&theme=nord_dark" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olaflaitinen&theme=nord_dark&utcOffset=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olaflaitinen&theme=default&utcOffset=2">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olaflaitinen&theme=nord_dark&utcOffset=2" />
+</picture>
+
+<br/>
+
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-light&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true" width="100%">
+</picture>
+
+</div>
+
+<!-- GitHub Trophy -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=flat&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</picture>
+
+</div>
+
+<!-- GitHub Stats Summary -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&line_height=27&custom_title=GitHub+Statistics">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&line_height=27&custom_title=GitHub+Statistics">
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&line_height=27" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=donut&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=donut&theme=default&hide_border=true&langs_count=8">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=donut&theme=github_dark&hide_border=true&langs_count=8" />
 </picture>
 
 </div>
@@ -290,6 +371,13 @@ July 2019 - June 2021<br/>
 
 <div align="center">
 
+<!-- Animated Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="100%" />
+</picture>
+
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1e1e)
@@ -297,6 +385,9 @@ July 2019 - June 2021<br/>
 ![SQL](https://img.shields.io/badge/SQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1e1e)
 ![C++](https://img.shields.io/badge/C++-75%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1e1e1e)
 ![Bash](https://img.shields.io/badge/Bash-70%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1e1e1e)
+![Java](https://img.shields.io/badge/Java-65%25-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=1e1e1e)
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e1e1e)
+![MATLAB](https://img.shields.io/badge/MATLAB-60%25-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=1e1e1e)
 
 ### AI & Machine Learning
 
@@ -305,12 +396,18 @@ July 2019 - June 2021<br/>
 ![Keras](https://img.shields.io/badge/Keras-Expert-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=1e1e1e)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1e1e1e)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Advanced-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1e1e1e)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1e1e1e)
+![CUDA](https://img.shields.io/badge/CUDA-Advanced-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1e1e1e)
+![JAX](https://img.shields.io/badge/JAX-Proficient-EE4C2C?style=for-the-badge&logoColor=white&labelColor=1e1e1e)
 
-### Bioinformatics
+### Bioinformatics & Computational Biology
 
 ![Nextflow](https://img.shields.io/badge/Nextflow-Expert-24B064?style=for-the-badge&logo=nextflow&logoColor=white&labelColor=1e1e1e)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-Advanced-1A5490?style=for-the-badge&logo=r&logoColor=white&labelColor=1e1e1e)
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-Proficient-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=1e1e1e)
+![Biopython](https://img.shields.io/badge/Biopython-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1e1e)
+![Scanpy](https://img.shields.io/badge/Scanpy-Advanced-FF7F00?style=for-the-badge&logoColor=white&labelColor=1e1e1e)
+![GATK](https://img.shields.io/badge/GATK-Proficient-5A5A5A?style=for-the-badge&logoColor=white&labelColor=1e1e1e)
 
 ### Cloud & MLOps
 
@@ -320,18 +417,68 @@ July 2019 - June 2021<br/>
 ![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e1e1e)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1e1e1e)
 ![Terraform](https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=1e1e1e)
+![MLflow](https://img.shields.io/badge/MLflow-Advanced-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1e1e1e)
+![Airflow](https://img.shields.io/badge/Airflow-Proficient-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=1e1e1e)
 
-### Tech Stack Icons
+### Databases & Data Engineering
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,gcp,aws,azure,docker,kubernetes,git" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e1e1e)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1e1e)
+![Redis](https://img.shields.io/badge/Redis-Proficient-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1e1e1e)
+![Spark](https://img.shields.io/badge/Spark-Advanced-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=1e1e1e)
+![Snowflake](https://img.shields.io/badge/Snowflake-Proficient-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=1e1e1e)
+
+### Development Tools & Frameworks
+
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1e1e)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e1e)
+![VS_Code](https://img.shields.io/badge/VS_Code-Advanced-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1e1e1e)
+![Jupyter](https://img.shields.io/badge/Jupyter-Expert-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1e1e1e)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1e1e1e)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1e1e1e)
+
+### Comprehensive Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,gcp,aws,azure,docker,kubernetes,git,github,vscode,postgres,mongodb,redis,linux,bash,cpp,java,js" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=sklearn,opencv,matlab,fastapi,flask,nginx,grafana,prometheus,jenkins,gitlab" />
+
+<!-- Technical Proficiency Graph -->
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-chart-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/skills-chart-dark.svg">
+  <img src="./assets/skills-chart-dark.svg" width="90%" alt="Technical Skills Chart" />
+</picture>
+
+<!-- Animated Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6&height=2&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=footer" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-## Languages
+## Languages & Programming Proficiency
 
 <div align="center">
+
+<!-- Code Statistics Visualization -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/code-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/code-stats.svg">
+  <img src="./assets/code-stats.svg" width="85%" alt="Code Statistics" />
+</picture>
+
+<br/><br/>
+
+### Spoken Languages
 
 | Language | Proficiency | Level |
 |----------|-------------|-------|
@@ -345,6 +492,15 @@ July 2019 - June 2021<br/>
 | **German** | Limited Working | 60% |
 | **Norwegian** | Limited Working | 60% |
 
+<!-- Language Proficiency Visualization -->
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=pie&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=pie&theme=default&hide_border=true&langs_count=6">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=pie&theme=github_dark&hide_border=true&langs_count=6" />
+</picture>
+
 </div>
 
 ---
@@ -353,7 +509,30 @@ July 2019 - June 2021<br/>
 
 <div align="center">
 
+<!-- Animated Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,0&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=2&section=header" width="100%" />
+</picture>
+
 ### Medical AI & Healthcare
+
+<!-- Career Timeline Visualization -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-dark.svg">
+  <img src="./assets/timeline-dark.svg" width="85%" alt="Career Timeline" />
+</picture>
+
+<br/><br/>
+
+<!-- Impact Metrics Dashboard -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-metrics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/impact-metrics.svg">
+  <img src="./assets/impact-metrics.svg" width="85%" alt="Impact Metrics" />
+</picture>
 
 </div>
 
@@ -703,10 +882,20 @@ Scouts of Azerbaijan<br/>
 
 ---
 
-## Contribution Activity
+## Contribution Activity & Code Stats
 
 <div align="center">
 
+<!-- Animated Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header&text=Contributions%20%26%20Activity&fontSize=35&fontColor=58a6ff&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6&height=120&section=header&text=Contributions%20%26%20Activity&fontSize=35&fontColor=0969da&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header&text=Contributions%20%26%20Activity&fontSize=35&fontColor=58a6ff&animation=twinkling" width="100%" />
+</picture>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-light&hide_border=true&area=true">
@@ -715,10 +904,46 @@ Scouts of Azerbaijan<br/>
 
 <br/>
 
+<!-- Detailed Profile Summary -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=default">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark" width="100%">
+</picture>
+
+<br/>
+
+<!-- GitHub Metrics - Multiple Views -->
+<table>
+<tr>
+<td width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olaflaitinen&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olaflaitinen&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olaflaitinen&theme=nord_dark" width="100%">
+</picture>
+
+</td>
+<td width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=olaflaitinen&repo=olaflaitinen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=olaflaitinen&repo=olaflaitinen&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=olaflaitinen&repo=olaflaitinen&theme=github_dark&hide_border=true" width="100%">
+</picture>
+
+</td>
+</tr>
+</table>
+
+<!-- Contribution Heatmap -->
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/olaflaitinen">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969da/olaflaitinen">
+  <img src="https://ghchart.rshah.org/58a6ff/olaflaitinen" alt="GitHub Contribution Chart" width="100%">
 </picture>
 
 </div>
