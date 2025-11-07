@@ -1,0 +1,89 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="darkGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+
+    <linearGradient id="darkAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:1" />
+    </linearGradient>
+
+    <filter id="darkGlow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .dark-title {
+        font: bold 48px 'Segoe UI', system-ui, sans-serif;
+        fill: #c9d1d9;
+        filter: url(#darkGlow);
+      }
+      .dark-subtitle {
+        font: 24px 'Segoe UI', system-ui, sans-serif;
+        fill: #8b949e;
+      }
+      .dark-role {
+        font: 18px 'Consolas', 'Courier New', monospace;
+        fill: #58a6ff;
+      }
+      @keyframes darkPulse {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 0.4; }
+      }
+      .dark-pulse {
+        animation: darkPulse 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#darkGrad1)"/>
+
+  <!-- Grid Pattern -->
+  <defs>
+    <pattern id="darkGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#21262d" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#darkGrid)" opacity="0.3"/>
+
+  <!-- Decorative Elements -->
+  <circle cx="100" cy="80" r="50" fill="#58a6ff" opacity="0.1" class="dark-pulse"/>
+  <circle cx="1100" cy="220" r="70" fill="#1f6feb" opacity="0.1" class="dark-pulse"/>
+
+  <!-- Main Title -->
+  <text x="600" y="100" text-anchor="middle" class="dark-title">
+    Olaf Yunus Laitinen-Imanov
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="140" text-anchor="middle" class="dark-subtitle">
+    CTO @ Skolyn | Postdoctoral Researcher | ERC Policy Expert
+  </text>
+
+  <!-- Roles -->
+  <text x="600" y="180" text-anchor="middle" class="dark-role">
+    Medical AI · Clinical Genomics · Explainable AI · Multi-Omics
+  </text>
+
+  <!-- Bottom Accent Line -->
+  <rect x="300" y="240" width="600" height="4" fill="url(#darkAccent)" opacity="0.6" rx="2"/>
+
+  <!-- Tech Stack Icons -->
+  <g transform="translate(400, 270)">
+    <circle cx="0" cy="0" r="12" fill="#3776AB" opacity="0.8"/>
+    <circle cx="50" cy="0" r="12" fill="#EE4C2C" opacity="0.8"/>
+    <circle cx="100" cy="0" r="12" fill="#4285F4" opacity="0.8"/>
+    <circle cx="150" cy="0" r="12" fill="#232F3E" opacity="0.8"/>
+    <circle cx="200" cy="0" r="12" fill="#326CE5" opacity="0.8"/>
+    <circle cx="250" cy="0" r="12" fill="#00ADD8" opacity="0.8"/>
+    <circle cx="300" cy="0" r="12" fill="#24B064" opacity="0.8"/>
+  </g>
+</svg>
