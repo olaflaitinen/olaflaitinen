@@ -2,9 +2,9 @@
 
 <!-- Animated Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/animated-banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/animated-banner.svg">
-  <img src="./assets/animated-banner.svg" width="100%" alt="Animated Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/animated-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/animated-banner.svg">
+  <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/animated-banner.svg" width="100%" alt="Animated Banner" />
 </picture>
 
 <br/>
@@ -112,9 +112,9 @@ With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=olaflaitinen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=olaflaitinen&theme=default&hide_border=true&layout=compact">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=olaflaitinen&theme=github_dark&hide_border=true&layout=compact" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olaflaitinen&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olaflaitinen&theme=default">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olaflaitinen&theme=nord_dark" />
 </picture>
 
 </div>
@@ -122,13 +122,7 @@ With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of
 <!-- GitHub Metrics Detailed -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
+<br/>
 
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
@@ -449,9 +443,9 @@ July 2019 - June 2021<br/>
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-chart-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/skills-chart-dark.svg">
-  <img src="./assets/skills-chart-dark.svg" width="90%" alt="Technical Skills Chart" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/skills-chart-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/skills-chart-dark.svg">
+  <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/skills-chart-dark.svg" width="90%" alt="Technical Skills Chart" />
 </picture>
 
 <!-- Animated Divider -->
@@ -471,9 +465,9 @@ July 2019 - June 2021<br/>
 
 <!-- Code Statistics Visualization -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/code-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/code-stats.svg">
-  <img src="./assets/code-stats.svg" width="85%" alt="Code Statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/code-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/code-stats.svg">
+  <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/code-stats.svg" width="85%" alt="Code Statistics" />
 </picture>
 
 <br/><br/>
@@ -520,18 +514,18 @@ July 2019 - June 2021<br/>
 
 <!-- Career Timeline Visualization -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-dark.svg">
-  <img src="./assets/timeline-dark.svg" width="85%" alt="Career Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/timeline-dark.svg">
+  <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/timeline-dark.svg" width="85%" alt="Career Timeline" />
 </picture>
 
 <br/><br/>
 
 <!-- Impact Metrics Dashboard -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/impact-metrics.svg">
-  <img src="./assets/impact-metrics.svg" width="85%" alt="Impact Metrics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/impact-metrics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/impact-metrics.svg">
+  <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/impact-metrics.svg" width="85%" alt="Impact Metrics" />
 </picture>
 
 </div>
