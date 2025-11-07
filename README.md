@@ -2,9 +2,9 @@
 
 <!-- Animated Header -->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC">
- <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC">
- <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+">
+ <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+">
+ <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+" />
 </picture>
 
 <h3>
