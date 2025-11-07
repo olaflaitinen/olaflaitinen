@@ -17,8 +17,8 @@
 </picture>
 
 <h3>
-  <i>CTO & Co-Founder at Skolyn | Postdoctoral Researcher | ERC Policy Expert<br/>
-  Medical AI · Clinical Genomics · Explainable AI · Federated Learning · Multi-Omics</i>
+  <i>Chief Technology Officer & Co-Founder | Postdoctoral Research Fellow | ERC Seconded National Expert<br/>
+  Specializing in Medical AI, Clinical Genomics, Explainable AI, Federated Learning, and Multi-Omics Integration</i>
 </h3>
 
 <!-- Profile Views Counter -->
@@ -54,17 +54,17 @@
 <tr>
 <td width="70%">
 
-I am a **Postdoctoral Researcher**, **CTO & Co-Founder**, and **Research Scientist** driving innovation at the intersection of **artificial intelligence**, **bioinformatics**, and **clinical medicine**. My mission is to build **explainable**, **trustworthy AI systems** that improve patient outcomes and transform healthcare delivery.
+As a **Postdoctoral Research Fellow**, **Chief Technology Officer**, and **Research Scientist**, I advance interdisciplinary research at the convergence of **artificial intelligence**, **computational biology**, and **translational medicine**. My research program focuses on developing **explainable, ethically-grounded AI systems** that demonstrably enhance clinical decision-making and patient outcomes while ensuring algorithmic transparency and regulatory compliance.
 
-**Current Roles:**
-- **CTO & Co-Founder** @ Skolyn (AI HealthTech - Clinical Co-Pilot)
-- **Seconded National Expert** @ European Research Council (ERC) - Policy Analysis
-- **Postdoctoral Researcher** @ Uppsala University (Medical AI & Imaging)
-- **Bioinformatician** @ Linköping University (Clinical Genomics)
-- **Research Scientist** @ Google Health AI (Generative AI Evaluations)
-- **Data Science Specialist** @ DTU Bioengineering (Proteomics)
+**Current Academic & Professional Appointments:**
+- **Chief Technology Officer & Co-Founder** — Skolyn AB (AI-Driven Clinical Decision Support Platform)
+- **Seconded National Expert** — European Research Council Executive Agency (Research Policy & Impact Assessment)
+- **Postdoctoral Research Fellow** — Uppsala University, Division of Visual Information and Interaction (Medical Imaging & XAI)
+- **Clinical Bioinformatician** — Linköping University Hospital (Rare Disease Genomics & Precision Medicine)
+- **Research Scientist** — Google Health AI (Safety & Efficacy Evaluation of Generative Health Agents)
+- **Data Science Research Associate** — Technical University of Denmark, Department of Bioengineering (Proteomics & Systems Biology)
 
-With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of Luxembourg; Human-XAI Collaboration at DTU), an **MSc in Statistics & Machine Learning** (Linköping), and a **BSc in Computing & Electrical Engineering** (Tampere), I combine deep technical expertise with strategic leadership.
+Currently pursuing **dual doctoral degrees** in Systems & Molecular Biomedicine (University of Luxembourg) and Human-XAI Collaboration (Technical University of Denmark), complementing my **MSc in Statistics & Machine Learning** (Linköping University) and **BSc in Computing & Electrical Engineering** (Tampere University). This interdisciplinary foundation enables bridging technical innovation with clinical translation and evidence-based policy development.
 
 </td>
 <td width="30%">
@@ -725,63 +725,11 @@ Automated MRI segmentation with 3D U-Net
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Olaf Yunus<br/>Laitinen-Imanov))
-    Medical AI
-      Explainable AI
-        SHAP
-        LIME
-        Integrated Gradients
-        Captum
-      Medical Imaging
-        Neuroradiology
-        Ultrasound
-        Multi-modal Fusion
-      Clinical Decision Support
-        Diagnostic Assistance
-        Risk Prediction
-        Treatment Planning
-    Bioinformatics
-      Clinical Genomics
-        Variant Calling
-        WGS/WES Analysis
-        Rare Disease Diagnostics
-      Proteomics
-        Mass Spectrometry
-        Differential Analysis
-        Biomarker Discovery
-      Multi-Omics
-        Data Integration
-        Network Analysis
-        Systems Biology
-    Technology Leadership
-      Product Strategy
-        Roadmap Planning
-        Market Analysis
-        User Research
-      Team Management
-        ML Engineers
-        Data Scientists
-        Clinical Experts
-      Fundraising
-        Pitch Development
-        Investor Relations
-        Grant Writing
-    Research & Policy
-      European Research
-        ERC Evaluation
-        Policy Analysis
-        Impact Assessment
-      Science Policy
-        Evidence-based Policy
-        Research Evaluation
-        Strategic Foresight
-      Publications
-        Peer Review
-        Scientific Writing
-        Conference Presentations
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/competencies-mindmap-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/competencies-mindmap-light.svg">
+  <img src="https://raw.githubusercontent.com/olaflaitinen/olaflaitinen/claude/initial-setup-011CUtjgwmgsTSKqQiUtzpTg/assets/competencies-mindmap-dark.svg" width="95%" alt="Core Competencies Mindmap" />
+</picture>
 
 </div>
 
@@ -819,11 +767,11 @@ mindmap
 
 </div>
 
-**Teaching Innovation:**
-- Created 25+ Jupyter Notebook assignments integrating real-world biomedical datasets
-- Integrated XAI techniques into curriculum for interpretable ML
-- >90% student satisfaction ratings
-- Nominated for Faculty Excellence in Teaching Award 2025
+**Pedagogical Contributions & Innovation:**
+- Developed 25+ interactive Jupyter Notebook modules incorporating authentic biomedical datasets for experiential learning
+- Pioneered integration of Explainable AI methodologies into machine learning curriculum, emphasizing interpretability and ethical considerations
+- Achieved consistently high student evaluations (>90% satisfaction) across theoretical and applied courses
+- Recognized with nomination for Faculty Excellence in Teaching Award (2025) for innovative pedagogical approaches
 
 ---
 
@@ -948,13 +896,13 @@ Scouts of Azerbaijan<br/>
 
 <div align="center">
 
-<h3>I'm interested in collaborating on:</h3>
+<h3>Collaboration Interests & Professional Engagement</h3>
 
-**Research Collaborations** in Medical AI, Explainable AI, and Multi-Omics<br/>
-**Consulting & Advisory** for HealthTech Startups and AI Strategy<br/>
-**Academic Partnerships** and Joint PhD/Postdoc Supervision<br/>
-**Policy Development** for European Research and AI Governance<br/>
-**Open-Source Contributions** in Bioinformatics and ML Infrastructure
+**Research Collaborations:** Interdisciplinary projects in medical AI, explainable machine learning, federated learning architectures, and multi-omics integration<br/>
+**Strategic Advisory:** Consulting engagements for HealthTech ventures, AI product strategy, regulatory compliance (MDR/IVDR, FDA), and clinical validation studies<br/>
+**Academic Partnerships:** Joint PhD/postdoctoral supervision, collaborative grant applications (H2020, Horizon Europe, NIH, NSF), and co-authored publications<br/>
+**Policy & Governance:** Evidence-based policy development for European research frameworks, AI ethics committees, and healthcare technology assessment<br/>
+**Open-Source Development:** Contributions to bioinformatics pipelines, ML infrastructure, reproducible research frameworks, and FAIR data initiatives
 
 <br/>
 
@@ -991,7 +939,7 @@ Scouts of Azerbaijan<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer" width="100%"/>
 </picture>
 
-**If you find my work interesting, please consider starring some repositories!**
+**If you find my research and contributions valuable, please consider starring relevant repositories or citing my publications.**
 
 <br/>
 
@@ -1003,6 +951,6 @@ Scouts of Azerbaijan<br/>
 
 <br/>
 
-<sub>Last updated: December 2025 | Built with passion and AI</sub>
+<sub>Last updated: December 2025 | Curriculum Vitae available upon request | ORCID: 0009-0006-5184-0810</sub>
 
 </div>

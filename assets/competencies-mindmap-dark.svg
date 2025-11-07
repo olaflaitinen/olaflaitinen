@@ -1,0 +1,160 @@
+<svg width="1000" height="800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients for vibrant colors -->
+    <radialGradient id="centerGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:1"/>
+    </radialGradient>
+
+    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:1"/>
+    </linearGradient>
+
+    <linearGradient id="bioGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1"/>
+    </linearGradient>
+
+    <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1"/>
+    </linearGradient>
+
+    <linearGradient id="researchGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#db2777;stop-opacity:1"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="800" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="500" y="40" font-family="'SF Pro Display', -apple-system, sans-serif" font-size="28" font-weight="700" fill="#c9d1d9" text-anchor="middle">
+    Core Competencies & Expertise
+  </text>
+
+  <!-- Center Node -->
+  <circle cx="500" cy="400" r="80" fill="url(#centerGrad)" filter="url(#shadow)">
+    <animate attributeName="r" values="80;85;80" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="500" y="395" font-family="'SF Mono', monospace" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">Olaf Yunus</text>
+  <text x="500" y="412" font-family="'SF Mono', monospace" font-size="13" font-weight="500" fill="#ffffff" text-anchor="middle">Laitinen-Imanov</text>
+
+  <!-- Medical AI Branch (Top Right) -->
+  <g id="medicalAI">
+    <!-- Main node -->
+    <ellipse cx="750" cy="200" rx="90" ry="50" fill="url(#aiGrad)" filter="url(#shadow)" opacity="0.95"/>
+    <text x="750" y="205" font-family="'SF Pro Display', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">Medical AI</text>
+
+    <!-- Sub-branches -->
+    <ellipse cx="850" cy="120" rx="70" ry="35" fill="#f97316" opacity="0.8"/>
+    <text x="850" y="118" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Explainable AI</text>
+    <text x="850" y="132" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">SHAP · LIME · Captum</text>
+
+    <ellipse cx="900" cy="200" rx="70" ry="35" fill="#ea580c" opacity="0.8"/>
+    <text x="900" y="198" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Medical Imaging</text>
+    <text x="900" y="212" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">MRI · Ultrasound · CT</text>
+
+    <ellipse cx="850" cy="280" rx="75" ry="35" fill="#dc2626" opacity="0.8"/>
+    <text x="850" y="278" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Clinical Decision</text>
+    <text x="850" y="292" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Diagnostics · Risk · Planning</text>
+
+    <!-- Connecting lines -->
+    <line x1="580" y1="370" x2="680" y2="220" stroke="#f97316" stroke-width="2" opacity="0.6"/>
+    <line x1="750" y1="200" x2="780" y2="140" stroke="#f97316" stroke-width="1.5" opacity="0.5"/>
+    <line x1="750" y1="200" x2="830" y2="200" stroke="#ea580c" stroke-width="1.5" opacity="0.5"/>
+    <line x1="750" y1="200" x2="780" y2="260" stroke="#dc2626" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- Bioinformatics Branch (Bottom Right) -->
+  <g id="bioinformatics">
+    <!-- Main node -->
+    <ellipse cx="750" cy="600" rx="95" ry="50" fill="url(#bioGrad)" filter="url(#shadow)" opacity="0.95"/>
+    <text x="750" y="605" font-family="'SF Pro Display', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">Bioinformatics</text>
+
+    <!-- Sub-branches -->
+    <ellipse cx="880" cy="520" rx="75" ry="35" fill="#10b981" opacity="0.8"/>
+    <text x="880" y="518" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Clinical Genomics</text>
+    <text x="880" y="532" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">WGS · Variants · Rare</text>
+
+    <ellipse cx="920" cy="600" rx="70" ry="35" fill="#059669" opacity="0.8"/>
+    <text x="920" y="598" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Proteomics</text>
+    <text x="920" y="612" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Mass Spec · Biomarkers</text>
+
+    <ellipse cx="880" cy="680" rx="70" ry="35" fill="#047857" opacity="0.8"/>
+    <text x="880" y="678" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Multi-Omics</text>
+    <text x="880" y="692" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Integration · Networks</text>
+
+    <!-- Connecting lines -->
+    <line x1="570" y1="440" x2="680" y2="580" stroke="#10b981" stroke-width="2" opacity="0.6"/>
+    <line x1="750" y1="600" x2="805" y2="540" stroke="#10b981" stroke-width="1.5" opacity="0.5"/>
+    <line x1="750" y1="600" x2="850" y2="600" stroke="#059669" stroke-width="1.5" opacity="0.5"/>
+    <line x1="750" y1="600" x2="810" y2="660" stroke="#047857" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- Technology Leadership Branch (Top Left) -->
+  <g id="techLeadership">
+    <!-- Main node -->
+    <ellipse cx="250" cy="200" rx="95" ry="50" fill="url(#techGrad)" filter="url(#shadow)" opacity="0.95"/>
+    <text x="250" y="195" font-family="'SF Pro Display', sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">Technology</text>
+    <text x="250" y="212" font-family="'SF Pro Display', sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">Leadership</text>
+
+    <!-- Sub-branches -->
+    <ellipse cx="150" cy="120" rx="70" ry="35" fill="#8b5cf6" opacity="0.8"/>
+    <text x="150" y="118" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Product Strategy</text>
+    <text x="150" y="132" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Roadmap · Market · UX</text>
+
+    <ellipse cx="100" cy="200" rx="70" ry="35" fill="#7c3aed" opacity="0.8"/>
+    <text x="100" y="198" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Team Management</text>
+    <text x="100" y="212" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">ML · Data · Clinical</text>
+
+    <ellipse cx="150" cy="280" rx="70" ry="35" fill="#6d28d9" opacity="0.8"/>
+    <text x="150" y="278" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Fundraising</text>
+    <text x="150" y="292" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Pitch · Investors · Grants</text>
+
+    <!-- Connecting lines -->
+    <line x1="430" y1="360" x2="330" y2="230" stroke="#8b5cf6" stroke-width="2" opacity="0.6"/>
+    <line x1="250" y1="200" x2="220" y2="140" stroke="#8b5cf6" stroke-width="1.5" opacity="0.5"/>
+    <line x1="250" y1="200" x2="170" y2="200" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+    <line x1="250" y1="200" x2="220" y2="260" stroke="#6d28d9" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- Research & Policy Branch (Bottom Left) -->
+  <g id="researchPolicy">
+    <!-- Main node -->
+    <ellipse cx="250" cy="600" rx="90" ry="50" fill="url(#researchGrad)" filter="url(#shadow)" opacity="0.95"/>
+    <text x="250" y="595" font-family="'SF Pro Display', sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">Research &</text>
+    <text x="250" y="612" font-family="'SF Pro Display', sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">Policy</text>
+
+    <!-- Sub-branches -->
+    <ellipse cx="120" cy="520" rx="75" ry="35" fill="#ec4899" opacity="0.8"/>
+    <text x="120" y="518" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">European Research</text>
+    <text x="120" y="532" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">ERC · Policy · Impact</text>
+
+    <ellipse cx="80" cy="600" rx="70" ry="35" fill="#db2777" opacity="0.8"/>
+    <text x="80" y="598" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Science Policy</text>
+    <text x="80" y="612" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Evidence · Evaluation</text>
+
+    <ellipse cx="120" cy="680" rx="70" ry="35" fill="#be185d" opacity="0.8"/>
+    <text x="120" y="678" font-family="'SF Mono', monospace" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Publications</text>
+    <text x="120" y="692" font-family="'SF Mono', monospace" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Peer Review · Writing</text>
+
+    <!-- Connecting lines -->
+    <line x1="440" y1="450" x2="330" y2="580" stroke="#ec4899" stroke-width="2" opacity="0.6"/>
+    <line x1="250" y1="600" x2="195" y2="540" stroke="#ec4899" stroke-width="1.5" opacity="0.5"/>
+    <line x1="250" y1="600" x2="150" y2="600" stroke="#db2777" stroke-width="1.5" opacity="0.5"/>
+    <line x1="250" y1="600" x2="190" y2="660" stroke="#be185d" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- Animated pulse effect on center -->
+  <circle cx="500" cy="400" r="80" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0">
+    <animate attributeName="r" values="80;95;110" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.3;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
