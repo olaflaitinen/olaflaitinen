@@ -1,0 +1,92 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        font: bold 72px 'Segoe UI', sans-serif;
+        fill: white;
+        filter: url(#glow);
+      }
+      .subtitle {
+        font: 32px 'Segoe UI', sans-serif;
+        fill: rgba(255, 255, 255, 0.9);
+      }
+      .code {
+        font: 18px 'Courier New', monospace;
+        fill: #4ade80;
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-20px); }
+      }
+
+      .float {
+        animation: float 3s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.5; }
+      }
+
+      .pulse {
+        animation: pulse 2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#grad1)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="60" fill="rgba(255, 255, 255, 0.1)" class="float"/>
+  <circle cx="1100" cy="300" r="80" fill="rgba(255, 255, 255, 0.1)" class="float"/>
+  <circle cx="1000" cy="100" r="40" fill="rgba(255, 255, 255, 0.1)" class="pulse"/>
+
+  <!-- Main content -->
+  <text x="600" y="150" text-anchor="middle" class="title">
+    AI Engineer
+  </text>
+
+  <text x="600" y="210" text-anchor="middle" class="subtitle">
+    Machine Learning • Bioinformatics • Healthcare AI
+  </text>
+
+  <!-- Code snippet -->
+  <text x="600" y="280" text-anchor="middle" class="code">
+    &gt; Building the future with AI, one model at a time 🚀
+  </text>
+
+  <!-- Decorative elements -->
+  <rect x="300" y="320" width="600" height="3" fill="url(#grad2)" opacity="0.6"/>
+
+  <!-- Tech icons representation -->
+  <g transform="translate(400, 350)">
+    <circle cx="0" cy="0" r="15" fill="#3776AB" opacity="0.8"/>
+    <circle cx="50" cy="0" r="15" fill="#FF6F00" opacity="0.8"/>
+    <circle cx="100" cy="0" r="15" fill="#EE4C2C" opacity="0.8"/>
+    <circle cx="150" cy="0" r="15" fill="#4285F4" opacity="0.8"/>
+    <circle cx="200" cy="0" r="15" fill="#232F3E" opacity="0.8"/>
+    <circle cx="250" cy="0" r="15" fill="#326CE5" opacity="0.8"/>
+    <circle cx="300" cy="0" r="15" fill="#00ADD8" opacity="0.8"/>
+    <circle cx="350" cy="0" r="15" fill="#7B42BC" opacity="0.8"/>
+  </g>
+</svg>
