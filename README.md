@@ -2,14 +2,14 @@
 
 <!-- Animated Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC">
+ <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC">
+ <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Olaf+Yunus+Laitinen-Imanov;CTO+%40+Skolyn+%7C+AI+HealthTech+Innovator;Postdoctoral+Researcher+in+Medical+AI;ERC+Policy+Expert+%7C+Google+Health+AI+Scientist;Building+Trustworthy+AI+for+Healthcare+%F0%9F%A7%AC" />
 </picture>
 
 <h3>
-  <i>CTO & Co-Founder at Skolyn | Postdoctoral Researcher | ERC Policy Expert<br/>
-  Medical AI · Clinical Genomics · Explainable AI · Federated Learning · Multi-Omics</i>
+ <i>CTO & Co-Founder at Skolyn | Postdoctoral Researcher | ERC Policy Expert<br/>
+ Medical AI · Clinical Genomics · Explainable AI · Federated Learning · Multi-Omics</i>
 </h3>
 
 <!-- Profile Views -->
@@ -17,25 +17,25 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/olafylimanov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0006-5184-0810"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=WSqps1YAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://www.researchgate.net/profile/Olaf-Laitinen"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-  <a href="mailto:olafylimanov@skolyn.se"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+ <a href="https://www.linkedin.com/in/olafylimanov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://orcid.org/0009-0006-5184-0810"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+ <a href="https://scholar.google.com/citations?hl=en&user=WSqps1YAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+ <a href="https://www.researchgate.net/profile/Olaf-Laitinen"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+ <a href="mailto:olafylimanov@skolyn.se"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- Location & Contact -->
 <p>
-  📍 Greater Linköping Metropolitan Area, Sweden<br/>
-  🏢 Fårsaxvägen 31, 586 66 Linköping<br/>
-  📞 +46 76 236 80 88 | 📧 olafylimanov@skolyn.se
+ Greater Linköping Metropolitan Area, Sweden<br/>
+ Fårsaxvägen 31, 586 66 Linköping<br/>
+ +46 76 236 80 88 | olafylimanov@skolyn.se
 </p>
 
 </div>
 
 ---
 
-## 🎯 Professional Summary
+## Professional Summary
 
 <table>
 <tr>
@@ -44,27 +44,27 @@
 I am a **Postdoctoral Researcher**, **CTO & Co-Founder**, and **Research Scientist** driving innovation at the intersection of **artificial intelligence**, **bioinformatics**, and **clinical medicine**. My mission is to build **explainable**, **trustworthy AI systems** that improve patient outcomes and transform healthcare delivery.
 
 **Current Roles:**
-- 🏥 **CTO & Co-Founder** @ Skolyn (AI HealthTech - Clinical Co-Pilot)
-- 🇪🇺 **Seconded National Expert** @ European Research Council (ERC) - Policy Analysis
-- 🔬 **Postdoctoral Researcher** @ Uppsala University (Medical AI & Imaging)
-- 🧬 **Bioinformatician** @ Linköping University (Clinical Genomics)
-- 🤖 **Research Scientist** @ Google Health AI (Generative AI Evaluations)
-- 📊 **Data Science Specialist** @ DTU Bioengineering (Proteomics)
+- **CTO & Co-Founder** @ Skolyn (AI HealthTech - Clinical Co-Pilot)
+- **Seconded National Expert** @ European Research Council (ERC) - Policy Analysis
+- **Postdoctoral Researcher** @ Uppsala University (Medical AI & Imaging)
+- **Bioinformatician** @ Linköping University (Clinical Genomics)
+- **Research Scientist** @ Google Health AI (Generative AI Evaluations)
+- **Data Science Specialist** @ DTU Bioengineering (Proteomics)
 
 With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of Luxembourg; Human-XAI Collaboration at DTU), an **MSc in Statistics & Machine Learning** (Linköping), and a **BSc in Computing & Electrical Engineering** (Tampere), I combine deep technical expertise with strategic leadership.
 
 </td>
 <td width="30%">
 
-### 🏆 Quick Stats
-- 📚 **6+** Publications
-- 🎓 **2** PhDs (ongoing)
-- 🏅 **40+** Certifications
-- 💰 **€3M+** Grants Secured
-- 👥 **15+** Teams Led
-- 🌍 **50+** Projects
-- 📈 **500+** Clinical Cases
-- ⚡ **2TB+** Data Processed
+### Quick Stats
+- **6+** Publications
+- **2** PhDs (ongoing)
+- **40+** Certifications
+- **€3M+** Grants Secured
+- **15+** Teams Led
+- **50+** Projects
+- **500+** Clinical Cases
+- **2TB+** Data Processed
 
 </td>
 </tr>
@@ -72,23 +72,23 @@ With **dual PhDs in progress** (Systems & Molecular Biomedicine at University of
 
 ---
 
-## 💼 Current Positions
+## Current Positions
 
 <details open>
-<summary><h3>🚀 Chief Technology Officer (CTO) & Co-Founder - Skolyn</h3></summary>
+<summary><h3> Chief Technology Officer (CTO) & Co-Founder - Skolyn</h3></summary>
 
 **January 2025 - Present** | Baku Economic Zone, Azerbaijan
 
 As CTO and Co-Founder of **Skolyn**, I lead the technology strategy and R&D for our mission: **eliminating diagnostic error through explainable clinical AI**. Our platform serves as a "Clinical Co-Pilot," combining multimodal medical imaging with transparent reasoning.
 
 **Key Achievements:**
-- 🏗️ Architected **Skolyn AI Platform** processing **127+ pathological indicators** in <3 seconds
-- 🎯 Achieved **>95% diagnostic accuracy** with full **XAI interpretability**
-- 📊 Scaled to **50,000+ scans** across Nordic and DACH hospital pilots
-- 💼 Delivered **<8% churn**, **85% gross margins**, and strong expansion revenue
-- 🔐 Implemented **GDPR/HIPAA-compliant** federated learning pipelines
-- 🏥 Led toward **CE Mark**, **ISO 13485**, and **FDA 510(k)** readiness
-- 💰 Positioned for **$2M Seed round** and forthcoming Series A
+- Architected **Skolyn AI Platform** processing **127+ pathological indicators** in <3 seconds
+- Achieved **>95% diagnostic accuracy** with full **XAI interpretability**
+- Scaled to **50,000+ scans** across Nordic and DACH hospital pilots
+- Delivered **<8% churn**, **85% gross margins**, and strong expansion revenue
+- Implemented **GDPR/HIPAA-compliant** federated learning pipelines
+- Led toward **CE Mark**, **ISO 13485**, and **FDA 510(k)** readiness
+- Positioned for **$2M Seed round** and forthcoming Series A
 
 **Technical Leadership:**
 - Directed team of ML engineers, backend developers, and clinical data scientists
@@ -99,18 +99,18 @@ As CTO and Co-Founder of **Skolyn**, I lead the technology strategy and R&D for 
 </details>
 
 <details open>
-<summary><h3>🇪🇺 Seconded National Expert - European Research Council (ERC)</h3></summary>
+<summary><h3> Seconded National Expert - European Research Council (ERC)</h3></summary>
 
 **November 2025 - Present** | Brussels Metropolitan Area
 
 As a **Seconded National Expert** at the **European Research Council Executive Agency (ERCEA)**, I focus on evidence-based policy development and strategic evaluation of Horizon Europe's **€16B research portfolio**.
 
 **Key Responsibilities:**
-- 📊 Analyze **12,000+ ERC projects**, **75,000+ researchers**, **200,000+ publications**
-- 📈 Develop ML-based evaluation workflows for research impact assessment
-- 📝 Prepare policy briefs translating complex data into actionable insights
-- 🎯 Coordinate initiatives on gender equality, open science, early-career researcher participation
-- 🔬 Support ERC Scientific Council and European Commission decision-making
+- Analyze **12,000+ ERC projects**, **75,000+ researchers**, **200,000+ publications**
+- Develop ML-based evaluation workflows for research impact assessment
+- Prepare policy briefs translating complex data into actionable insights
+- Coordinate initiatives on gender equality, open science, early-career researcher participation
+- Support ERC Scientific Council and European Commission decision-making
 
 **Technical Expertise:**
 - Advanced statistical modeling and bibliometric network analysis
@@ -120,20 +120,20 @@ As a **Seconded National Expert** at the **European Research Council Executive A
 </details>
 
 <details open>
-<summary><h3>🔬 Postdoctoral Researcher - Uppsala University</h3></summary>
+<summary><h3> Postdoctoral Researcher - Uppsala University</h3></summary>
 
 **July 2025 - Present** | Greater Uppsala Metropolitan Area
 
 At **Uppsala University's Division of Visual Information and Interaction (Vi3)**, I lead research in **medical imaging**, **computer vision**, and **explainable AI** for neuroradiology.
 
 **Research Highlights:**
-- 🧠 Developed **3+ image processing pipelines** for MRI analysis
-- ⚡ Reduced manual annotation effort by **25-30%**
-- 🎯 Achieved **>95% AUC** for neurodegenerative biomarker detection
-- 🔐 Led **federated learning** benchmark across 5 Swedish hospitals (>0.9 accuracy under GDPR)
-- 📝 Submitted **2 manuscripts** (Medical Image Analysis, NeuroImage)
-- 🎤 Presented at **MICCAI 2025**, **ECR 2026**, **Nordic AI in Medicine Summit**
-- 👥 Mentor **2 PhD candidates** in deep learning for brain tumor detection
+- Developed **3+ image processing pipelines** for MRI analysis
+- Reduced manual annotation effort by **25-30%**
+- Achieved **>95% AUC** for neurodegenerative biomarker detection
+- Led **federated learning** benchmark across 5 Swedish hospitals (>0.9 accuracy under GDPR)
+- Submitted **2 manuscripts** (Medical Image Analysis, NeuroImage)
+- Presented at **MICCAI 2025**, **ECR 2026**, **Nordic AI in Medicine Summit**
+- Mentor **2 PhD candidates** in deep learning for brain tumor detection
 
 **Technical Stack:**
 - 3D CNNs and transformer architectures
@@ -145,17 +145,17 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 
 ---
 
-## 🎓 Education
+## Education
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 Doctor of Philosophy (PhD)
+### Doctor of Philosophy (PhD)
 **University of Luxembourg**<br/>
 *Systems and Molecular Biomedicine*<br/>
-📅 February 2025 - January 2028<br/>
-🏆 GPA: 4.0/4.0 | Merit Scholarship
+ February 2025 - January 2028<br/>
+ GPA: 4.0/4.0 | Merit Scholarship
 
 **Thesis:** "Integrative Network Analysis of Transcriptomic and Proteomic Data to Uncover Dysregulated Signaling Cascades in Early-Stage Neurodegeneration"
 
@@ -168,11 +168,11 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 </td>
 <td width="50%">
 
-### 🎓 Doctor of Philosophy (PhD)
+### Doctor of Philosophy (PhD)
 **DTU - Technical University of Denmark**<br/>
 *Human-XAI Collaboration*<br/>
-📅 April 2025 - March 2028<br/>
-🏆 GPA: 4.0/4.0 | Research Excellence Award
+ April 2025 - March 2028<br/>
+ GPA: 4.0/4.0 | Research Excellence Award
 
 **Thesis:** "Designing Adaptive Human-AI Systems for Collaborative Problem Solving in Fetal Ultrasound Imaging"
 
@@ -187,11 +187,11 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 <tr>
 <td width="50%">
 
-### 📊 Master of Science (MSc)
+### Master of Science (MSc)
 **Linköping University**<br/>
 *Statistics and Machine Learning*<br/>
-📅 August 2024 - June 2026<br/>
-🏆 GPA: 3.95/4.0 | Excellence Scholarship
+ August 2024 - June 2026<br/>
+ GPA: 3.95/4.0 | Excellence Scholarship
 
 **Thesis:** "Application of Explainable AI for Predictive Diagnostics in Oncology using Clinical Data"
 
@@ -205,11 +205,11 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 </td>
 <td width="50%">
 
-### 💻 Bachelor of Science (BSc)
+### Bachelor of Science (BSc)
 **Tampere University**<br/>
 *Computing and Electrical Engineering*<br/>
-📅 August 2021 - June 2024<br/>
-🏆 GPA: 3.9/4.0 | President's Medal '24
+ August 2021 - June 2024<br/>
+ GPA: 3.9/4.0 | President's Medal '24
 
 **Thesis:** "SecureSense: Design of Wireless Sensor Network for Intelligent Safety Applications"
 
@@ -223,10 +223,10 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 <tr>
 <td colspan="2">
 
-### 🌍 International Baccalaureate (IB)
+### International Baccalaureate (IB)
 **International School of Helsinki**<br/>
-📅 July 2019 - June 2021<br/>
-🏆 Score: 40/45 (Top 6% Cohort) | Academic Excellence in STEM
+ July 2019 - June 2021<br/>
+ Score: 40/45 (Top 6% Cohort) | Academic Excellence in STEM
 
 **Higher Level:** Mathematics, Biology, English<br/>
 **Extended Essay:** "Modeling Population Dynamics via Differential Equations"<br/>
@@ -238,7 +238,7 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 
 ---
 
-## 💻 Technical Expertise
+## Technical Expertise
 
 <div align="center">
 
@@ -278,54 +278,54 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 
 ---
 
-## 🌍 Languages
+## Languages
 
 <div align="center">
 
 | Language | Proficiency | Level |
 |----------|-------------|-------|
-| 🇫🇮 **Finnish** | Native or Bilingual | ████████████ 100% |
-| 🇦🇿 **Azerbaijani** | Native or Bilingual | ████████████ 100% |
-| 🇬🇧 **English** | Full Professional | ███████████░ 95% |
-| 🇸🇪 **Swedish** | Full Professional | ███████████░ 95% |
-| 🇩🇰 **Danish** | Professional Working | ██████████░░ 85% |
-| 🇹🇷 **Turkish** | Professional Working | ██████████░░ 85% |
-| 🇫🇷 **French** | Professional Working | █████████░░░ 75% |
-| 🇩🇪 **German** | Limited Working | ███████░░░░░ 60% |
-| 🇳🇴 **Norwegian** | Limited Working | ███████░░░░░ 60% |
+| **Finnish** | Native or Bilingual | 100% |
+| **Azerbaijani** | Native or Bilingual | 100% |
+| **English** | Full Professional | 95% |
+| **Swedish** | Full Professional | 95% |
+| **Danish** | Professional Working | 85% |
+| **Turkish** | Professional Working | 85% |
+| **French** | Professional Working | 75% |
+| **German** | Limited Working | 60% |
+| **Norwegian** | Limited Working | 60% |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&theme=default&hide_border=true">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&theme=github-dark-blue&hide_border=true" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&theme=default&hide_border=true">
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=olaflaitinen&theme=github-dark-blue&hide_border=true" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=github_dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=default&hide_border=true&langs_count=10">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=github_dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=default&hide_border=true&langs_count=10">
+ <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-light&hide_border=true&area=true">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-light&hide_border=true&area=true">
+ <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true" />
 </picture>
 
 </div>
@@ -333,20 +333,20 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=flat&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=flat&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=olaflaitinen&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </picture>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🔬 Medical AI & Healthcare
+### Medical AI & Healthcare
 
 </div>
 
@@ -354,7 +354,7 @@ At **Uppsala University's Division of Visual Information and Interaction (Vi3)**
 <tr>
 <td width="33%">
 
-#### 🩺 Skolyn Clinical Co-Pilot
+#### Skolyn Clinical Co-Pilot
 **Enterprise AI Platform**
 
 Multimodal medical imaging analysis with XAI
@@ -366,7 +366,7 @@ Multimodal medical imaging analysis with XAI
 </td>
 <td width="33%">
 
-#### 🧠 XAI for Fetal Ultrasound
+#### XAI for Fetal Ultrasound
 **Published Research**
 
 Explainable AI framework for biometry prediction
@@ -378,7 +378,7 @@ Explainable AI framework for biometry prediction
 </td>
 <td width="33%">
 
-#### 🤖 GenAI Health Agent Eval
+#### GenAI Health Agent Eval
 **Google Health AI**
 
 Large-scale safety evaluation framework
@@ -392,7 +392,7 @@ Large-scale safety evaluation framework
 <tr>
 <td width="33%">
 
-#### 🔐 Federated Learning for Hospitals
+#### Federated Learning for Hospitals
 **Privacy-Preserving AI**
 
 Multi-institutional collaborative training
@@ -404,7 +404,7 @@ Multi-institutional collaborative training
 </td>
 <td width="33%">
 
-#### 🧬 Multi-Omics Network Integrator
+#### Multi-Omics Network Integrator
 **Neurodegeneration Research**
 
 Integration of transcriptomic & proteomic data
@@ -416,7 +416,7 @@ Integration of transcriptomic & proteomic data
 </td>
 <td width="33%">
 
-#### 🏥 3D Brain Tumor Segmentation
+#### 3D Brain Tumor Segmentation
 **Neuroradiology Pipeline**
 
 Automated MRI segmentation with 3D U-Net
@@ -430,7 +430,7 @@ Automated MRI segmentation with 3D U-Net
 </table>
 
 <details>
-<summary><h3>🧬 Bioinformatics & Genomics Projects (Click to Expand)</h3></summary>
+<summary><h3> Bioinformatics & Genomics Projects (Click to Expand)</h3></summary>
 
 #### Clinical Genomics
 - **Nextflow-Neurogenomics-Pipeline** - nf-core compliant WGS analysis (500+ clinical samples)
@@ -451,7 +451,7 @@ Automated MRI segmentation with 3D U-Net
 </details>
 
 <details>
-<summary><h3>☁️ MLOps & Infrastructure Projects (Click to Expand)</h3></summary>
+<summary><h3> MLOps & Infrastructure Projects (Click to Expand)</h3></summary>
 
 #### Cloud Infrastructure
 - **MLOps-VertexAI-Production** - End-to-end MLOps on GCP Vertex AI
@@ -471,7 +471,7 @@ Automated MRI segmentation with 3D U-Net
 </details>
 
 <details>
-<summary><h3>🔒 Ethics, Governance & Compliance Projects (Click to Expand)</h3></summary>
+<summary><h3> Ethics, Governance & Compliance Projects (Click to Expand)</h3></summary>
 
 #### Privacy & Security
 - **GDPR-ML-Compliance-Kit** - GDPR compliance framework for ML projects
@@ -487,11 +487,11 @@ Automated MRI segmentation with 3D U-Net
 
 ---
 
-## 📚 Publications & Research Output
+## Publications & Research Output
 
 <div align="center">
 
-### 📖 Peer-Reviewed Publications
+### Peer-Reviewed Publications
 
 </div>
 
@@ -506,7 +506,7 @@ Automated MRI segmentation with 3D U-Net
 5. **Schmidt, K., Imanov, O. Y. L., & Schneider, I.** (2024). *Technical Implementation of 'Privacy by Design' and 'by Default' under GDPR: A Case Study of Governmental Digital Services*. **Proceedings on Privacy Enhancing Technologies (PoPETs)**, 2024(3), 45-62. [DOI: 10.56553/popets-2024-0071](https://doi.org/10.56553/popets-2024-0071)
 
 <details>
-<summary><b>📄 Book Chapters & Conference Papers</b></summary>
+<summary><b> Book Chapters & Conference Papers</b></summary>
 
 #### Book Chapters
 - **Imanov, O. Y. L., & Kumar, S.** (2025). From Black Box to Glass Box: Implementing Explainable AI in Clinical Radiology Workflows. In A. Gupta & L. Wang (Eds.), *Artificial Intelligence in Medical Diagnostics: A Practical Guide* (pp. 145-168). Springer Nature.
@@ -522,188 +522,188 @@ Automated MRI segmentation with 3D U-Net
 
 ---
 
-## 🎓 Certifications & Professional Development
+## Certifications & Professional Development
 
 <div align="center">
 
-### 🏅 Professional Certifications (40+)
+### Professional Certifications (40+)
 
 </div>
 
 <details>
-<summary><h4>☁️ Cloud & MLOps (12 Certifications)</h4></summary>
+<summary><h4> Cloud & MLOps (12 Certifications)</h4></summary>
 
 #### Google Cloud Platform
-- ✅ Google Cloud Professional Machine Learning Engineer
-- ✅ Google Cloud Professional Data Engineer
-- ✅ Google Cloud Professional Cloud Architect
-- ✅ Google Cloud Professional DevOps Engineer
-- ✅ Google Cloud Professional Security Engineer
+- Google Cloud Professional Machine Learning Engineer
+- Google Cloud Professional Data Engineer
+- Google Cloud Professional Cloud Architect
+- Google Cloud Professional DevOps Engineer
+- Google Cloud Professional Security Engineer
 
 #### Amazon Web Services
-- ✅ AWS Certified Machine Learning - Specialty
-- ✅ AWS Certified Solutions Architect - Professional
-- ✅ AWS Certified DevOps Engineer - Professional
+- AWS Certified Machine Learning - Specialty
+- AWS Certified Solutions Architect - Professional
+- AWS Certified DevOps Engineer - Professional
 
 #### Microsoft Azure
-- ✅ Microsoft Certified: Azure AI Engineer Associate
-- ✅ Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft Certified: DevOps Engineer Expert
 
 #### Container Orchestration
-- ✅ Certified Kubernetes Administrator (CKA)
-- ✅ Certified Kubernetes Application Developer (CKAD)
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
 
 </details>
 
 <details>
-<summary><h4>🤖 AI & Machine Learning (10+ Certifications)</h4></summary>
+<summary><h4> AI & Machine Learning (10+ Certifications)</h4></summary>
 
-- ✅ Deep Learning Specialization (DeepLearning.AI)
-- ✅ Natural Language Processing Specialization (DeepLearning.AI)
-- ✅ Computer Vision Specialization (Vanderbilt University)
-- ✅ Reinforcement Learning Specialization (University of Alberta)
-- ✅ TensorFlow Developer Professional Certificate
-- ✅ XAI: Explainable Artificial Intelligence (H2O.ai)
-- ✅ GANs Specialization (DeepLearning.AI)
-- ✅ Probabilistic Graphical Models (Stanford)
-
-</details>
-
-<details>
-<summary><h4>🧬 Bioinformatics & Genomics (8 Certifications)</h4></summary>
-
-- ✅ Genomic Data Science Specialization (Johns Hopkins)
-- ✅ Bioinformatics Specialization (UC San Diego)
-- ✅ Single-Cell RNA-Seq Analysis (Wellcome Sanger Institute)
-- ✅ NextFlow & nf-core for Reproducible Workflows
-- ✅ Proteomics: Methods and Applications in Medicine (KAIST)
-- ✅ AlphaFold & Protein Structure Prediction (EMBL-EBI)
-- ✅ QIIME 2 for Microbiome Analysis
-- ✅ FAIR Data Principles for Life Sciences
+- Deep Learning Specialization (DeepLearning.AI)
+- Natural Language Processing Specialization (DeepLearning.AI)
+- Computer Vision Specialization (Vanderbilt University)
+- Reinforcement Learning Specialization (University of Alberta)
+- TensorFlow Developer Professional Certificate
+- XAI: Explainable Artificial Intelligence (H2O.ai)
+- GANs Specialization (DeepLearning.AI)
+- Probabilistic Graphical Models (Stanford)
 
 </details>
 
 <details>
-<summary><h4>🔒 Security & Privacy (6 Certifications)</h4></summary>
+<summary><h4> Bioinformatics & Genomics (8 Certifications)</h4></summary>
 
-- ✅ Certified Information Systems Security Professional (CISSP)
-- ✅ Certified Information Privacy Professional/Europe (CIPP/E)
-- ✅ Certified Information Privacy Manager (CIPM)
-- ✅ Certified Ethical Hacker (CEH)
-- ✅ CompTIA Security+
-- ✅ GDPR Practitioner Certificate
+- Genomic Data Science Specialization (Johns Hopkins)
+- Bioinformatics Specialization (UC San Diego)
+- Single-Cell RNA-Seq Analysis (Wellcome Sanger Institute)
+- NextFlow & nf-core for Reproducible Workflows
+- Proteomics: Methods and Applications in Medicine (KAIST)
+- AlphaFold & Protein Structure Prediction (EMBL-EBI)
+- QIIME 2 for Microbiome Analysis
+- FAIR Data Principles for Life Sciences
+
+</details>
+
+<details>
+<summary><h4> Security & Privacy (6 Certifications)</h4></summary>
+
+- Certified Information Systems Security Professional (CISSP)
+- Certified Information Privacy Professional/Europe (CIPP/E)
+- Certified Information Privacy Manager (CIPM)
+- Certified Ethical Hacker (CEH)
+- CompTIA Security+
+- GDPR Practitioner Certificate
 
 </details>
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Olaf Yunus<br/>Laitinen-Imanov))
-    Medical AI
-      Explainable AI
-        SHAP
-        LIME
-        Integrated Gradients
-        Captum
-      Medical Imaging
-        Neuroradiology
-        Ultrasound
-        Multi-modal Fusion
-      Clinical Decision Support
-        Diagnostic Assistance
-        Risk Prediction
-        Treatment Planning
-    Bioinformatics
-      Clinical Genomics
-        Variant Calling
-        WGS/WES Analysis
-        Rare Disease Diagnostics
-      Proteomics
-        Mass Spectrometry
-        Differential Analysis
-        Biomarker Discovery
-      Multi-Omics
-        Data Integration
-        Network Analysis
-        Systems Biology
-    Technology Leadership
-      Product Strategy
-        Roadmap Planning
-        Market Analysis
-        User Research
-      Team Management
-        ML Engineers
-        Data Scientists
-        Clinical Experts
-      Fundraising
-        Pitch Development
-        Investor Relations
-        Grant Writing
-    Research & Policy
-      European Research
-        ERC Evaluation
-        Policy Analysis
-        Impact Assessment
-      Science Policy
-        Evidence-based Policy
-        Research Evaluation
-        Strategic Foresight
-      Publications
-        Peer Review
-        Scientific Writing
-        Conference Presentations
+ root((Olaf Yunus<br/>Laitinen-Imanov))
+ Medical AI
+ Explainable AI
+ SHAP
+ LIME
+ Integrated Gradients
+ Captum
+ Medical Imaging
+ Neuroradiology
+ Ultrasound
+ Multi-modal Fusion
+ Clinical Decision Support
+ Diagnostic Assistance
+ Risk Prediction
+ Treatment Planning
+ Bioinformatics
+ Clinical Genomics
+ Variant Calling
+ WGS/WES Analysis
+ Rare Disease Diagnostics
+ Proteomics
+ Mass Spectrometry
+ Differential Analysis
+ Biomarker Discovery
+ Multi-Omics
+ Data Integration
+ Network Analysis
+ Systems Biology
+ Technology Leadership
+ Product Strategy
+ Roadmap Planning
+ Market Analysis
+ User Research
+ Team Management
+ ML Engineers
+ Data Scientists
+ Clinical Experts
+ Fundraising
+ Pitch Development
+ Investor Relations
+ Grant Writing
+ Research & Policy
+ European Research
+ ERC Evaluation
+ Policy Analysis
+ Impact Assessment
+ Science Policy
+ Evidence-based Policy
+ Research Evaluation
+ Strategic Foresight
+ Publications
+ Peer Review
+ Scientific Writing
+ Conference Presentations
 ```
 
 </div>
 
 ---
 
-## 🌟 Achievements & Impact
+## Achievements & Impact
 
 <div align="center">
 
-| 🎯 Category | 📊 Metrics |
+| Category | Metrics |
 |-------------|-----------|
-| 💰 **Funding Secured** | €3M+ in research grants (ERC, DFF, FCAI, Business Finland) |
-| 📚 **Publications** | 6+ peer-reviewed papers + 2 book chapters |
-| 🏆 **Awards** | DTU Fellowship, President's Medal, Google Peer Bonus, FCAI Spotlight |
-| 👥 **Leadership** | Led 15+ engineers, mentored 10+ students, supervised 2 PhDs |
-| 🏥 **Clinical Impact** | 500+ patient cases analyzed, 50K+ scans processed |
-| 📊 **Data Scale** | 2+ TB genomic data, 10+ TB proteomics, multi-TB imaging |
-| 🎯 **Accuracy** | >95% diagnostic accuracy, >0.9 federated learning performance |
-| ⚡ **Efficiency** | 25-30% reduction in manual workload, 20% faster pipelines |
+| **Funding Secured** | €3M+ in research grants (ERC, DFF, FCAI, Business Finland) |
+| **Publications** | 6+ peer-reviewed papers + 2 book chapters |
+| **Awards** | DTU Fellowship, President's Medal, Google Peer Bonus, FCAI Spotlight |
+| **Leadership** | Led 15+ engineers, mentored 10+ students, supervised 2 PhDs |
+| **Clinical Impact** | 500+ patient cases analyzed, 50K+ scans processed |
+| **Data Scale** | 2+ TB genomic data, 10+ TB proteomics, multi-TB imaging |
+| **Accuracy** | >95% diagnostic accuracy, >0.9 federated learning performance |
+| **Efficiency** | 25-30% reduction in manual workload, 20% faster pipelines |
 
 </div>
 
 ---
 
-## 🎤 Teaching & Mentorship
+## Teaching & Mentorship
 
 <div align="center">
 
 | Role | Institution | Courses & Activities |
 |------|-------------|---------------------|
-| 👨‍🏫 **Adjunct Instructor** | Linköping University | **TAMS11** Probability & Statistics<br/>**TAMS17** Statistical Theory<br/>**TAMS39** Multivariate Methods<br/>**TDDE15** Data Analysis with Python<br/>**150+ students per semester** |
-| 🎓 **PhD Supervisor** | Uppsala University | Mentoring 2 PhD candidates in deep learning for medical imaging |
-| 👥 **Research Mentor** | FCAI | Guiding junior researchers on RL & computer vision projects |
-| 📝 **Thesis Advisor** | Linköping University | Co-supervised MSc thesis on XAI applications |
+| ‍ **Adjunct Instructor** | Linköping University | **TAMS11** Probability & Statistics<br/>**TAMS17** Statistical Theory<br/>**TAMS39** Multivariate Methods<br/>**TDDE15** Data Analysis with Python<br/>**150+ students per semester** |
+| **PhD Supervisor** | Uppsala University | Mentoring 2 PhD candidates in deep learning for medical imaging |
+| **Research Mentor** | FCAI | Guiding junior researchers on RL & computer vision projects |
+| **Thesis Advisor** | Linköping University | Co-supervised MSc thesis on XAI applications |
 
 </div>
 
 **Teaching Innovation:**
-- 📊 Created 25+ Jupyter Notebook assignments integrating real-world biomedical datasets
-- 🎯 Integrated XAI techniques into curriculum for interpretable ML
-- 🏆 >90% student satisfaction ratings
-- 🥇 Nominated for Faculty Excellence in Teaching Award 2025
+- Created 25+ Jupyter Notebook assignments integrating real-world biomedical datasets
+- Integrated XAI techniques into curriculum for interpretable ML
+- >90% student satisfaction ratings
+- Nominated for Faculty Excellence in Teaching Award 2025
 
 ---
 
-## 🌐 Community & Leadership
+## Community & Leadership
 
 <div align="center">
 
@@ -752,58 +752,58 @@ Scouts of Azerbaijan<br/>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-light&hide_border=true&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true" width="100%">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-light&hide_border=true&area=true">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=olaflaitinen&theme=github-compact&hide_border=true&area=true" width="100%">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark" width="100%">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=default">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olaflaitinen&theme=nord_dark" width="100%">
 </picture>
 
 </div>
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 <div align="center">
 
 <h3>I'm interested in collaborating on:</h3>
 
-🤝 **Research Collaborations** in Medical AI, Explainable AI, and Multi-Omics<br/>
-💼 **Consulting & Advisory** for HealthTech Startups and AI Strategy<br/>
-🎓 **Academic Partnerships** and Joint PhD/Postdoc Supervision<br/>
-🏛️ **Policy Development** for European Research and AI Governance<br/>
-💡 **Open-Source Contributions** in Bioinformatics and ML Infrastructure
+ **Research Collaborations** in Medical AI, Explainable AI, and Multi-Omics<br/>
+ **Consulting & Advisory** for HealthTech Startups and AI Strategy<br/>
+ **Academic Partnerships** and Joint PhD/Postdoc Supervision<br/>
+ **Policy Development** for European Research and AI Governance<br/>
+ **Open-Source Contributions** in Bioinformatics and ML Infrastructure
 
 <br/>
 
 <a href="https://www.linkedin.com/in/olafylimanov">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:olafylimanov@skolyn.se">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+ <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://scholar.google.com/citations?hl=en&user=WSqps1YAAAAJ">
-  <img src="https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+ <img src="https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
 </a>
 <a href="https://orcid.org/0009-0006-5184-0810">
-  <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+ <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
 </a>
 
 <br/><br/>
 
-### 📊 Profile Visitors
+### Profile Visitors
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Folaflaitinen&label=Profile%20Visitors&labelColor=%2358a6ff&countColor=%230969da&style=flat-square&labelStyle=upper)
 
@@ -812,15 +812,15 @@ Scouts of Azerbaijan<br/>
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:54aeff&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer" width="100%"/>
+ <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer">
+ <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:54aeff&height=100&section=footer">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer" width="100%"/>
 </picture>
 
-**⭐ If you find my work interesting, please consider starring some repositories!**
+** If you find my work interesting, please consider starring some repositories!**
 
 <br/>
 
-<sub>Last updated: December 2025 | Built with ❤️ and AI</sub>
+<sub>Last updated: December 2025 | Built with and AI</sub>
 
 </div>
