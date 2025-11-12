@@ -883,6 +883,6 @@ Scouts of Azerbaijan<br/>
 
 <br/>
 
-<sub>Last updated: November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | December 2025 | Curriculum Vitae available upon request | ORCID: 0009-0006-5184-0810</sub>
+<sub>Last updated: November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | December 2025 | Curriculum Vitae available upon request | ORCID: 0009-0006-5184-0810</sub>
 
 </div>
