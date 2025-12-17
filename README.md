@@ -514,7 +514,7 @@ Google Health AI | Lead: Dr. Emily Chen
 </p>
 
 <p>
-  <sub>Last updated: December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025</sub>
+  <sub>Last updated: December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | December 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025 | November 2025</sub>
 </p>
 
 </div>
