@@ -2,7 +2,7 @@
 
 # Olaf Yunus Laitinen-Imanov
 
-Chief Technology Officer and Co-Founder (Skolyn AB) · Postdoctoral Research Fellow (Uppsala University) · Seconded National Expert (European Research Council Executive Agency)  
+Chief Technology Officer and Co-Founder (Skolyn LLC) · Postdoctoral Research Fellow (Uppsala University) · Seconded National Expert (European Research Council Executive Agency)  
 Clinical Bioinformatician (Linköping University Hospital) · Data Science Specialist (DTU Bioengineering)
 
 Greater Linköping Metropolitan Area, Sweden · Baku, Azerbaijan
@@ -46,7 +46,7 @@ My work spans end-to-end research engineering: problem formulation, dataset gove
 
 | Role | Organization | Focus | Dates |
 |---|---|---|---|
-| Chief Technology Officer and Co-Founder | Skolyn AB | Explainable AI clinical decision support, interoperable deployment (HL7/FHIR), scalable inference | Jan 2025–Present |
+| Chief Technology Officer and Co-Founder | Skolyn | Explainable AI clinical decision support, interoperable deployment (HL7/FHIR), scalable inference | Jan 2025–Present |
 | Seconded National Expert | European Research Council Executive Agency | Portfolio evaluation workflows, evidence-based policy support for large-scale research programs | Nov 2025–Present |
 | Postdoctoral Research Fellow | Uppsala University | Medical imaging, neuroradiology, explainability, federated benchmarking across hospitals | Jul 2025–Present |
 | Clinical Bioinformatician | Linköping University Hospital | Clinical genomics operations, rare disease diagnosis, Nextflow/nf-core pipelines | 2025–Present |
@@ -56,7 +56,7 @@ My work spans end-to-end research engineering: problem formulation, dataset gove
 
 ## Engineering Contributions (selected)
 
-### Skolyn AB (AI-driven clinical decision support)
+### Skolyn (AI-driven clinical decision support)
 - Technical leadership for a clinical decision support platform targeting diagnostic error reduction through interpretable ML.
 - System design emphasizing: low-latency inference, traceable outputs, audit-ready explainability, and clinical interoperability.
 - Stack: Python · PyTorch · Docker · Kubernetes · HL7/FHIR
