@@ -154,7 +154,7 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=octave&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matrix&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -163,11 +163,11 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-8E44AD?style=flat&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8E44AD?style=flat&logo=jax&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=lightgbm&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
@@ -178,10 +178,10 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 ![nf-core](https://img.shields.io/badge/nf--core-24B064?style=flat&logo=nf-core&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1A5490?style=flat&logo=r&logoColor=white)
 ![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat&logo=python&logoColor=white)
-![GATK](https://img.shields.io/badge/GATK-E03C31?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
-![Samtools](https://img.shields.io/badge/Samtools-2C3E50?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
-![BWA](https://img.shields.io/badge/BWA-34495E?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
-![MaxQuant](https://img.shields.io/badge/MaxQuant-8E44AD?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-E03C31?style=flat&logo=dna&logoColor=white)
+![Samtools](https://img.shields.io/badge/Samtools-2C3E50?style=flat&logo=dna&logoColor=white)
+![BWA](https://img.shields.io/badge/BWA-34495E?style=flat&logo=dna&logoColor=white)
+![MaxQuant](https://img.shields.io/badge/MaxQuant-8E44AD?style=flat&logo=moleculer&logoColor=white)
 
 ### Cloud & Infrastructure
 
@@ -194,10 +194,10 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 ### HPC & Parallel Computing
 
-![SLURM](https://img.shields.io/badge/SLURM-0078D4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
-![MPI](https://img.shields.io/badge/MPI-0077B5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-0078D4?style=flat&logo=serverless&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-0077B5?style=flat&logo=openmpi&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-0072C6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-0072C6?style=flat&logo=openmp&logoColor=white)
 
 ### Databases & Data Engineering
 
@@ -210,7 +210,7 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 ### Data Visualization & Analysis
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -245,7 +245,7 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNnYxNkgweiIvPjwvc3ZnPg==&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
