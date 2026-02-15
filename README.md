@@ -146,74 +146,76 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 ---
 
+## Technical Expertise
+
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Machine Learning & Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-000000?style=flat&logo=google&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8E44AD?style=flat&logo=jax&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-15B3E6?style=flat&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-4A4A4A?style=flat&logo=lightgbm&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
 ### Bioinformatics & Computational Biology
 
-![Nextflow](https://img.shields.io/badge/Nextflow-2C2D72?style=flat&logo=nextflow&logoColor=white)
-![nf-core](https://img.shields.io/badge/nf--core-24B064?style=flat&logo=nf-core&logoColor=white)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-0092E6?style=flat&logo=bioconductor&logoColor=white)
-![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat&logo=python&logoColor=white)
-![GATK](https://img.shields.io/badge/GATK-3498DB?style=flat&logoColor=white)
-![Samtools](https://img.shields.io/badge/Samtools-555555?style=flat&logoColor=white)
-![BWA](https://img.shields.io/badge/BWA-2C3E50?style=flat&logoColor=white)
-![MaxQuant](https://img.shields.io/badge/MaxQuant-8E44AD?style=flat&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-00A98F?style=flat&logo=nextflow&logoColor=white)
+![nf--core](https://img.shields.io/badge/nf--core-24B064?style=flat&logo=nfcore&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-1A5490?style=flat&logo=bioconductor&logoColor=white)
+![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat)
+![GATK](https://img.shields.io/badge/GATK-E03C31?style=flat)
+![Samtools](https://img.shields.io/badge/Samtools-2C3E50?style=flat)
+![BWA](https://img.shields.io/badge/BWA-34495E?style=flat)
+![MaxQuant](https://img.shields.io/badge/MaxQuant-8E44AD?style=flat)
 
 ### Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 ### HPC & Parallel Computing
 
-![SLURM](https://img.shields.io/badge/SLURM-000000?style=flat&logo=linux&logoColor=white)
-![MPI](https://img.shields.io/badge/MPI-0077B5?style=flat&logo=cplusplus&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-0078D4?style=flat)
+![MPI](https://img.shields.io/badge/MPI-0077B5?style=flat)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-36454F?style=flat&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-0072C6?style=flat)
 
 ### Databases & Data Engineering
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache%20Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### Data Visualization & Analysis
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat)
 
 ### Development Tools & Version Control
 
@@ -221,15 +223,15 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 
 ### ML Operations & Experiment Tracking
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Weights%20%26%20Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat)
 
 ### Operating Systems & Environments
 
