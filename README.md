@@ -146,58 +146,56 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 ---
 
-## Technical Expertise
-
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matrix&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Machine Learning & Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-8E44AD?style=flat&logo=jax&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?style=flat&logo=google&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=lightgbm&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-15B3E6?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-4A4A4A?style=flat&logo=lightgbm&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
 ### Bioinformatics & Computational Biology
 
-![Nextflow](https://img.shields.io/badge/Nextflow-00A98F?style=flat&logo=nextflow&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-2C2D72?style=flat&logo=nextflow&logoColor=white)
 ![nf-core](https://img.shields.io/badge/nf--core-24B064?style=flat&logo=nf-core&logoColor=white)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-1A5490?style=flat&logo=r&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-0092E6?style=flat&logo=bioconductor&logoColor=white)
 ![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat&logo=python&logoColor=white)
-![GATK](https://img.shields.io/badge/GATK-E03C31?style=flat&logo=dna&logoColor=white)
-![Samtools](https://img.shields.io/badge/Samtools-2C3E50?style=flat&logo=dna&logoColor=white)
-![BWA](https://img.shields.io/badge/BWA-34495E?style=flat&logo=dna&logoColor=white)
-![MaxQuant](https://img.shields.io/badge/MaxQuant-8E44AD?style=flat&logo=moleculer&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-3498DB?style=flat&logoColor=white)
+![Samtools](https://img.shields.io/badge/Samtools-555555?style=flat&logoColor=white)
+![BWA](https://img.shields.io/badge/BWA-2C3E50?style=flat&logoColor=white)
+![MaxQuant](https://img.shields.io/badge/MaxQuant-8E44AD?style=flat&logoColor=white)
 
 ### Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 ### HPC & Parallel Computing
 
-![SLURM](https://img.shields.io/badge/SLURM-0078D4?style=flat&logo=serverless&logoColor=white)
-![MPI](https://img.shields.io/badge/MPI-0077B5?style=flat&logo=openmpi&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-000000?style=flat&logo=linux&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-0077B5?style=flat&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-0072C6?style=flat&logo=openmp&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-36454F?style=flat&logoColor=white)
 
 ### Databases & Data Engineering
 
@@ -210,7 +208,7 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 ### Data Visualization & Analysis
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
