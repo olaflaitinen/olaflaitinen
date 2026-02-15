@@ -274,9 +274,9 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&cache_seconds=21600)
+![GitHub Stats](https://<SENIN-VERCEL-DOMAIN>.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&cache_seconds=21600)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=21600)
+![Top Languages](https://<SENIN-VERCEL-DOMAIN>.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=21600)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=olaflaitinen&theme=default&hide_border=true)
 
