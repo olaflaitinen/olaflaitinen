@@ -274,11 +274,11 @@ GPA: 3.9/4.0 | President's Medal '24 | Dean's List | Merit Scholar
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaflaitinen&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olaflaitinen&layout=compact&theme=default&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=olaflaitinen&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=olaflaitinen&theme=default&hide_border=true)
 
 </div>
 
