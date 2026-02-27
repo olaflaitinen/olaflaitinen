@@ -9,6 +9,7 @@ Technical University of Denmark | University of Luxembourg | Skolyn
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=WSqps1YAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Olaf-Yunus-Laitinen-Imanov)
 
+[![Gustav Olaf Yunus Laitinen-Fredriksson Lundström Imanov profile views](https://u8views.com/api/v1/github/profiles/176420103/views/day-week-month-total-count.svg)](https://u8views.com/github/olaflaitinen)
 ---
 
 ## About Me
