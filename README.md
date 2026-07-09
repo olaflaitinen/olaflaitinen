@@ -69,7 +69,7 @@ Research succeeds through collaboration across disciplines. Econometricians, com
 ## Current Positions
 
 ### Research Assistant @ Stockholm University
-**Stockholm, Sweden | Apr 2026 -- Present | Full-time, Hybrid**
+**Stockholm, Sweden | Apr 2026 - Present | Full-time, Hybrid**
 
 Working under David Seim, Jens Wikström, and Gabriel Zucman at the Department of Economics, I lead analytical development within a comprehensive research program investigating wealth inequality, tax policy, and intergenerational economic mobility in Sweden. Access to Statistics Sweden (SCB) secure MONA partition enables analysis of administrative tax and wealth records covering the Swedish population with unprecedented longitudinal depth and accuracy.
 
@@ -108,7 +108,7 @@ Working under David Seim, Jens Wikström, and Gabriel Zucman at the Department o
 ---
 
 ### Advisor, Committee for Welfare in the Nordic Region @ The Nordic Council
-**Copenhagen, Denmark | Apr 2026 -- Present | Full-time, Hybrid**
+**Copenhagen, Denmark | Apr 2026 - Present | Full-time, Hybrid**
 
 Serving as Policy Advisor to the Committee for Welfare in the Nordic Region at the Nordic Council in Copenhagen, supporting multilateral parliamentary cooperation among 87 elected delegates representing 8 Nordic jurisdictions (Denmark, Finland, Iceland, Norway, Sweden, Faroe Islands, Greenland, and Åland). The Committee represents approximately 27 million Nordic citizens and coordinates welfare policy across national governments through the Nordic Council of Ministers.
 
@@ -153,7 +153,7 @@ Serving as Policy Advisor to the Committee for Welfare in the Nordic Region at t
 ---
 
 ### Teaching Assistant (Amanuens) @ Linköping University
-**Linköping, Sweden | Jun 2026 -- Present | Part-time, Hybrid**
+**Linköping, Sweden | Jun 2026 - Present | Part-time, Hybrid**
 
 Contributing to academic instruction and curriculum development within the Division of Statistics and Machine Learning (STIMA) at the Department of Computer and Information Science (IDA), supporting second-cycle international master's programme courses. Serve as primary pedagogical support for advanced machine learning and computational statistics instruction delivered to cohorts of 150+ students per term.
 
@@ -208,7 +208,7 @@ Contributing to academic instruction and curriculum development within the Divis
 ---
 
 ### Second Lieutenant (Fänrik), Swedish Air Force @ Swedish Armed Forces
-**Luleå, Sweden | May 2026 -- Present | Contract, Hybrid**
+**Luleå, Sweden | May 2026 - Present | Contract, Hybrid**
 
 Serving as Fänrik (Second Lieutenant) in the Norrbotten Air Force Wing (F 21) in Luleå, commanding elements of the 211th Fighter Squadron operating 18 Saab JAS 39 Gripen multi-role tactical fighter aircraft. Position involves complex operational coordination, tactical decision-making, resource management, and leadership in high-risk environment aligned with NATO operational standards and Swedish air defence strategic doctrine.
 
@@ -264,12 +264,12 @@ Serving as Fänrik (Second Lieutenant) in the Norrbotten Air Force Wing (F 21) i
 ---
 
 ### Peer Reviewer @ Cureus Journal of Computer Science
-**Stockholm, Sweden | Mar 2026 -- Present | Part-time, Remote**
+**Stockholm, Sweden | Mar 2026 - Present | Part-time, Remote**
 
 Serving as invited Peer Reviewer for the Cureus Journal of Computer Science, evaluating manuscripts in machine learning, statistical modeling, and computational algorithms.
 
 *Technical Evaluation & Assessment*
-* Evaluating 8--10 manuscripts per quarter with average turnaround of 5.2 days
+* Evaluating 8-10 manuscripts per quarter with average turnaround of 5.2 days
 * Auditing experimental design structural soundness
 * Verifying mathematical proof validity and data preprocessing workflow integrity
 * Assessing computational architecture across diverse implementations
@@ -296,7 +296,7 @@ Serving as invited Peer Reviewer for the Cureus Journal of Computer Science, eva
 ## Previous Roles Highlights
 
 ### Chief Technology Officer & Co-Founder @ Skolyn
-**Baku Ekonomic Zone, Azerbaijan | Jan 2025 -- Present | Full-time, Hybrid**
+**Baku Ekonomic Zone, Azerbaijan | Jan 2025 - Present | Full-time, Hybrid**
 
 Leading technology vision, product architecture, and engineering execution for AI-driven medical imaging platform.
 
@@ -314,7 +314,7 @@ Leading technology vision, product architecture, and engineering execution for A
 ---
 
 ### Machine Learning Engineer @ Säkerhetspolisen (Swedish Security Service)
-**Stockholm, Sweden | Mar 2026 -- May 2026 & Jun 2024 -- Jul 2024 | Contract**
+**Stockholm, Sweden | Mar 2026 - May 2026 & Jun 2024 - Jul 2024 | Contract**
 
 **2026 Engagement (3 months)**
 Designed and optimized production-ready machine learning solutions for threat analysis and intelligence operations.
@@ -348,7 +348,7 @@ Engineered localized, production-ready ML pipelines supporting analytical workfl
 ---
 
 ### Senior AI Engineer @ WUF13 Azerbaijan
-**Baku, Azerbaijan | Feb 2026 -- Apr 2026 | Contract, On-site**
+**Baku, Azerbaijan | Feb 2026 - Apr 2026 | Contract, On-site**
 
 Engineered data-driven and AI solutions during critical pre-operational phase of 13th World Urban Forum (UN-Habitat).
 
@@ -375,9 +375,9 @@ Engineered data-driven and AI solutions during critical pre-operational phase of
 ---
 
 ### Research Scientist & Associate Research Scientist @ Finnish Center for Artificial Intelligence (FCAI)
-**Helsinki, Finland | Jul 2024 -- Sep 2023 (overlapping periods)**
+**Helsinki, Finland | Jul 2024 - Sep 2023 (overlapping periods)**
 
-**Senior Research Scientist (Jul 2024 -- Aug 2024, 2 months)**
+**Senior Research Scientist (Jul 2024 - Aug 2024, 2 months)**
 Directed scientific research and strategic AI initiatives bridging ML discovery with clinical validation.
 
 *Leadership & Funding*
@@ -395,7 +395,7 @@ Directed scientific research and strategic AI initiatives bridging ML discovery 
 * Published as lead author in Nature Medicine and Patterns
 * Presented at ICML and MICCAI
 
-**Associate Research Scientist (May 2024 -- Jun 2024, 2 months)**
+**Associate Research Scientist (May 2024 - Jun 2024, 2 months)**
 Led research at intersection of federated learning, medical imaging, and multi-omics integration.
 
 *Key Projects*
@@ -418,7 +418,7 @@ Led research at intersection of federated learning, medical imaging, and multi-o
 ---
 
 ### Research Scientist @ Finnish Center for Artificial Intelligence (FCAI)
-**Helsinki, Finland | Jan 2023 -- Sep 2023 | Contract**
+**Helsinki, Finland | Jan 2023 - Sep 2023 | Contract**
 
 Led applied research at intersection of human-AI collaboration, federated optimization, and trustworthy RL for clinical decision support.
 
@@ -445,7 +445,7 @@ Led applied research at intersection of human-AI collaboration, federated optimi
 ---
 
 ### Research Scientist, Generative AI Evaluations @ Google Health
-**Mountain View, California | Nov 2024 -- Jan 2025 | Contract, Hybrid**
+**Mountain View, California | Nov 2024 - Jan 2025 | Contract, Hybrid**
 
 Led empirical validation and comprehensive safety benchmarking of frontier medical language models (Med-Gemini family, AMIE conversational AI system). Work focused on establishing rigorous evaluation protocols and safety frameworks for responsible deployment of generative AI in clinical contexts.
 
@@ -476,7 +476,7 @@ Led empirical validation and comprehensive safety benchmarking of frontier medic
 ---
 
 ### Technical Program Manager II, Healthcare @ Google Cloud
-**Mountain View, California | Aug 2024 -- Oct 2024 | Contract, Hybrid**
+**Mountain View, California | Aug 2024 - Oct 2024 | Contract, Hybrid**
 
 Managed cross-functional programme delivery for enterprise-grade clinical search and multimodal API integration platform (Vertex AI Search for Healthcare). Role involved coordinating complex software engineering delivery, technical infrastructure optimisation, and stakeholder alignment across 8 engineering teams and diverse product stakeholders.
 
@@ -523,7 +523,7 @@ Managed cross-functional programme delivery for enterprise-grade clinical search
 ---
 
 ### Senior Communication Manager @ Nordic Energy Research
-**Oslo, Norway | Sep 2024 -- Dec 2024 | Full-time, Hybrid**
+**Oslo, Norway | Sep 2024 - Dec 2024 | Full-time, Hybrid**
 
 Directed strategic communication and dissemination of research initiatives under Nordic Council of Ministers.
 
@@ -548,7 +548,7 @@ Directed strategic communication and dissemination of research initiatives under
 ---
 
 ### Delegate @ COP29 Azerbaijan
-**Baku, Azerbaijan | Sep 2024 -- Dec 2024 | Contract, On-site**
+**Baku, Azerbaijan | Sep 2024 - Dec 2024 | Contract, On-site**
 
 Coordinated diplomatic engagement and knowledge-sharing at joint Nordic Pavilion during United Nations Climate Change Conference.
 
@@ -573,7 +573,7 @@ Coordinated diplomatic engagement and knowledge-sharing at joint Nordic Pavilion
 ---
 
 ### Researcher (Multi-Agent AI Systems) @ Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)
-**Darmstadt, Germany | Oct 2023 -- Jun 2024 | Full-time, Hybrid**
+**Darmstadt, Germany | Oct 2023 - Jun 2024 | Full-time, Hybrid**
 
 Led algorithmic design, simulation, and empirical evaluation of decentralized artificial intelligence architectures.
 
@@ -602,7 +602,7 @@ Led algorithmic design, simulation, and empirical evaluation of decentralized ar
 ---
 
 ### Data Science Specialist in Proteomics @ DTU Bioengineering
-**Kongens Lyngby, Denmark | Feb 2025 -- Mar 2026 | Part-time, Remote**
+**Kongens Lyngby, Denmark | Feb 2025 - Mar 2026 | Part-time, Remote**
 
 Engineered reproducible data analysis pipelines for quantitative mass spectrometry research.
 
@@ -629,7 +629,7 @@ Engineered reproducible data analysis pipelines for quantitative mass spectromet
 ---
 
 ### Military Advisor (Artificial Intelligence & Language Models) @ Bundeswehr
-**Berlin, Germany | Nov 2025 -- Jan 2026 | Freelance, Remote**
+**Berlin, Germany | Nov 2025 - Jan 2026 | Freelance, Remote**
 
 Supported strategic evaluation and technical positioning of sovereign defense-related AI capabilities.
 
@@ -655,7 +655,7 @@ Supported strategic evaluation and technical positioning of sovereign defense-re
 ---
 
 ### Bioinformatician (Clinical Genomics) @ Linköping University
-**Linköping, Sweden | Oct 2025 -- Jan 2026 | Contract, Hybrid**
+**Linköping, Sweden | Oct 2025 - Jan 2026 | Contract, Hybrid**
 
 Engineered analysis pipelines for translational precision medicine and diagnostics (SciLifeLab platform).
 
@@ -682,7 +682,7 @@ Engineered analysis pipelines for translational precision medicine and diagnosti
 ---
 
 ### Seconded National Expert (Policy Analysis) @ European Research Council
-**Brussels, Belgium | Aug 2025 -- Sep 2025 | Contract, Hybrid**
+**Brussels, Belgium | Aug 2025 - Sep 2025 | Contract, Hybrid**
 
 Led evidence-based quantitative assessments evaluating scientific impact of funded frontier research.
 
@@ -709,7 +709,7 @@ Led evidence-based quantitative assessments evaluating scientific impact of fund
 ---
 
 ### Adjunct Instructor @ Linköping University
-**Linköping, Sweden | Feb 2025 -- Jul 2025 | Part-time, Hybrid**
+**Linköping, Sweden | Feb 2025 - Jul 2025 | Part-time, Hybrid**
 
 Delivered academic instruction across multiple core quantitative courses in two departments.
 
@@ -735,7 +735,7 @@ Delivered academic instruction across multiple core quantitative courses in two 
 ---
 
 ### Kaggle Hackathons Trusted Tester
-**Remote | Feb 2026 -- Mar 2026 | Part-time**
+**Remote | Feb 2026 - Mar 2026 | Part-time**
 
 Participated in technical evaluation and validation of new platform features for AI hackathons.
 
@@ -762,7 +762,7 @@ Participated in technical evaluation and validation of new platform features for
 ---
 
 ### Kaggle Benchmarks Trusted Tester
-**Remote | Oct 2025 -- Jan 2026 | Part-time**
+**Remote | Oct 2025 - Jan 2026 | Part-time**
 
 Led evaluation of pre-release AI assessment frameworks standardizing model benchmarking.
 
@@ -878,7 +878,7 @@ All research projects are hosted on GitHub under [@olaflaitinen](https://github.
 
 * **Policy Relevance.** Projects are designed to inform Swedish policy discussions and Nordic multilateral governance, grounding research in real-world policy questions and producing outputs directly usable by decision-makers.
 
-### Stockholm University Research Projects (Ongoing, May 2026 -- Present)
+### Stockholm University Research Projects (Ongoing, May 2026 - Present)
 
 #### Arvsdynamik: Bayesian Intergenerational Income & Wealth Mobility
 
@@ -2389,9 +2389,9 @@ Gradient boosting, deep state-space models, conformal prediction, quantile regre
 ## Education
 
 ### PhD Studies (In Progress)
-**Doctor of Philosophy -- Systems and Molecular Biomedicine**  
-*University of Luxembourg, Luxembourg Centre for Systems Biomedicine (LCSB) & Disease Hypothesis Modelling Lab (DHML)* | Feb 2025 -- Jan 2028  
-**Funding:** FNR AFR (Fonds National de la Recherche Luxembourg -- Aide à la Formation-Recherche) Fellowship 2025  
+**Doctor of Philosophy - Systems and Molecular Biomedicine**  
+*University of Luxembourg, Luxembourg Centre for Systems Biomedicine (LCSB) & Disease Hypothesis Modelling Lab (DHML)* | Feb 2025 - Jan 2028  
+**Funding:** FNR AFR (Fonds National de la Recherche Luxembourg - Aide à la Formation-Recherche) Fellowship 2025  
 **Distinction:** Guillaume Dupaix Award (competitive award recognising research excellence)
 
 **Doctoral Thesis Title:** "Computational Models of Cellular Signaling for Predictive Biomedicine: Integrating Multi-Omics Data for Patient Stratification and Therapeutic Target Identification"
@@ -2421,8 +2421,8 @@ The research programme develops computational systems biology approaches for pre
 The doctoral thesis integrates these components into unified framework enabling: (1) patient phenotyping from multi-omics data, (2) mechanistic disease model specification, (3) treatment response prediction, (4) therapeutic target identification, and (5) precision medicine application. Full technical documentation and code released publicly upon completion.
 
 ### Master's Degree
-**Master of Science -- Statistics and Machine Learning**  
-*Linköping University* | Aug 2024 -- Jun 2026  
+**Master of Science - Statistics and Machine Learning**  
+*Linköping University* | Aug 2024 - Jun 2026  
 GPA: 3.95/4.0 | Christer Gilén Scholarship '25 | IDA Best Thesis Award
 
 *Thesis:* "Scalable Probabilistic Models for Industrial and Healthcare Applications"
@@ -2444,8 +2444,8 @@ GPA: 3.95/4.0 | Christer Gilén Scholarship '25 | IDA Best Thesis Award
 * Feature engineering and selection pipelines
 
 ### Military Officer Training (Bachelor's Equivalent)
-**Bachelor of Military Science -- Air Force Officer Training**  
-*Swedish Defence University, Karlberg Military Academy* | Aug 2023 -- Jun 2026  
+**Bachelor of Military Science - Air Force Officer Training**  
+*Swedish Defence University, Karlberg Military Academy* | Aug 2023 - Jun 2026  
 Distinction | MHS K Hederssabel '26 | Top 10% Cohort | Dean's List
 
 *Specialization:* Air Force Officer Training, Military Science and Air Operations Leadership
@@ -2462,8 +2462,8 @@ Distinction | MHS K Hederssabel '26 | Top 10% Cohort | Dean's List
 * NATO integration and interoperability
 
 ### Bachelor's Degree (Computing & Engineering)
-**Bachelor of Science -- Computing and Electrical Engineering**  
-*Tampere University* | Aug 2021 -- Jun 2024  
+**Bachelor of Science - Computing and Electrical Engineering**  
+*Tampere University* | Aug 2021 - Jun 2024  
 GPA: 4.90/5.0 | Distinction | Huawei Best Bachelor's Thesis Award '24
 
 *Thesis:* "SecureSense: Design of a Wireless Sensor Network for Intelligent Safety Applications"
@@ -2478,8 +2478,8 @@ GPA: 4.90/5.0 | Distinction | Huawei Best Bachelor's Thesis Award '24
 * Embedded systems
 
 ### Bachelor's Degree (Information Technology)
-**Bachelor of Science -- Information Technology**  
-*Azerbaijan Technical University* | Sep 2021 -- Jun 2025  
+**Bachelor of Science - Information Technology**  
+*Azerbaijan Technical University* | Sep 2021 - Jun 2025  
 Full State Scholarship
 
 *Coursework*
@@ -2491,8 +2491,8 @@ Full State Scholarship
 * Network security
 
 ### International Baccalaureate
-**High School Diploma -- International Baccalaureate**  
-*International School of Helsinki* | Sep 2019 -- Jun 2021  
+**High School Diploma - International Baccalaureate**  
+*International School of Helsinki* | Sep 2019 - Jun 2021  
 Distinction | IB Score: 40/45 | Academic Excellence in STEM '21
 
 *Extended Essay:* "Modeling Population Dynamics via Differential Equations"
@@ -2567,26 +2567,26 @@ Distinction | IB Score: 40/45 | Academic Excellence in STEM '21
 All major research projects, analytical frameworks, and technical contributions are maintained on GitHub under [@olaflaitinen](https://github.com/olaflaitinen). Key repositories include:
 
 **Stockholm University Research Projects**
-* `arvsdynamik` -- Intergenerational mobility framework
-* `bolagsskatteanalys` -- Corporate tax avoidance detection
-* `demografiprognos` -- Demographic forecasting
-* `förmånsanalys` -- Welfare incidence analysis
-* `förmögenhetsanalys` -- Wealth concentration estimation
-* `generationsskifte` -- Generational wealth transfer analysis
-* `hushållsekonomi` -- Household microsimulation
-* `inkomstklyftan` -- Income inequality decomposition
-* `kapitalinkomst` -- Capital income anomaly detection
-* `lönedynamik` -- Wage decomposition with transformers
-* `mikrosimulering` -- Microsimulation engine (Rust + Python)
-* `mobilitetsmodellen` -- DML mobility drivers
-* `omfördelningsmodellen` -- Distributional impact simulator
-* `pensionsrättvisa` -- Pension system simulation
-* `skateflyktsdetektor` -- Tax compliance toolkit
-* `skatteprogressivitet` -- Tax progressivity framework
-* `skattereform` -- Tax reform evaluation
-* `toppinkomstandelen` -- Top-income share estimation
-* `välfärdsmodellen` -- Welfare state simulator
-* `inkomstprognos` -- Income forecasting
+* `arvsdynamik` - Intergenerational mobility framework
+* `bolagsskatteanalys` - Corporate tax avoidance detection
+* `demografiprognos` - Demographic forecasting
+* `förmånsanalys` - Welfare incidence analysis
+* `förmögenhetsanalys` - Wealth concentration estimation
+* `generationsskifte` - Generational wealth transfer analysis
+* `hushållsekonomi` - Household microsimulation
+* `inkomstklyftan` - Income inequality decomposition
+* `kapitalinkomst` - Capital income anomaly detection
+* `lönedynamik` - Wage decomposition with transformers
+* `mikrosimulering` - Microsimulation engine (Rust + Python)
+* `mobilitetsmodellen` - DML mobility drivers
+* `omfördelningsmodellen` - Distributional impact simulator
+* `pensionsrättvisa` - Pension system simulation
+* `skateflyktsdetektor` - Tax compliance toolkit
+* `skatteprogressivitet` - Tax progressivity framework
+* `skattereform` - Tax reform evaluation
+* `toppinkomstandelen` - Top-income share estimation
+* `välfärdsmodellen` - Welfare state simulator
+* `inkomstprognos` - Income forecasting
 
 **Medical & Healthcare**
 * Clinical genomics analysis pipelines
