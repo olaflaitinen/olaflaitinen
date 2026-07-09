@@ -8,11 +8,61 @@ GitHub: [@olaflaitinen](https://github.com/olaflaitinen)
 
 ## Overview
 
-I am a research engineer and applied machine learning scientist with expertise spanning econometrics, public policy analysis, biomedical informatics, and distributed AI systems. My work bridges rigorous quantitative research with production-grade software engineering, translating complex research questions into reproducible, scalable computational pipelines.
+I am a research engineer, machine learning scientist, and applied econometrician with deep expertise spanning quantitative public finance, biomedical informatics, distributed AI systems, and evidence-based policy analysis. My research program bridges theoretical rigor with production-grade software engineering, translating complex economic and biomedical research questions into reproducible, scalable computational pipelines designed for both scholarly publication and real-world policy implementation.
 
-Currently, I contribute to high-impact research initiatives at Stockholm University, the Nordic Council, and Finnish research institutions, developing sophisticated analytical frameworks for policy evaluation, healthcare innovation, and fundamental AI research. My technical practice emphasizes reproducibility, methodological rigor, and cross-domain collaboration across economics, computer science, biology, and international governance.
+### Research Focus
 
-This portfolio documents my research projects, published work (under review), technical contributions, and core competencies across machine learning, econometrics, causal inference, distributed systems, and applied statistics.
+My research encompasses three complementary domains:
+
+**1. Public Finance & Policy Evaluation.** Developing computational frameworks for estimating intergenerational wealth and income mobility in Sweden, quantifying tax avoidance patterns through graph neural networks, modeling the distributional impacts of fiscal reforms, and evaluating welfare programme incidence and behavioural responses. This work combines econometric causal inference with sophisticated microsimulation systems.
+
+**2. Machine Learning for Healthcare & Biology.** Designing federated learning systems for privacy-preserving clinical data analysis, developing graph-based models for multi-omics data integration, constructing deep learning architectures for medical image interpretation and genomic variant classification, and building explainable AI systems meeting strict clinical validation standards.
+
+**3. Computational Systems & Infrastructure.** Engineering high-performance microsimulation engines in Rust, designing distributed machine learning pipelines operating under strict security and privacy constraints, developing production ML systems with comprehensive uncertainty quantification, and implementing robust MLOps frameworks for offline and air-gapped environments.
+
+### Professional Approach
+
+My technical practice emphasizes:
+
+* **Reproducibility & Computational Transparency.** Every analysis includes versioned code, seeded random number generation, content-addressed data pipelines, and comprehensive documentation enabling complete replication of results.
+* **Methodological Rigor.** Causal inference frameworks meet pre-registration standards, sensitivity analyses address unobserved confounding, and all estimates include formal uncertainty quantification.
+* **Open Science.** All code is publicly archived on GitHub with MIT or GPL licensing, research materials are shared openly, and methodological innovations are documented for community reuse.
+* **Cross-Disciplinary Collaboration.** I work effectively across economics, computer science, statistics, biology, public health, and policy communities, translating between technical and stakeholder vocabularies.
+* **Real-World Impact.** Research outputs inform Nordic policy discussions, clinical decision-making, and international governance mechanisms.
+
+### Current Engagements
+
+I contribute to high-impact research initiatives including a 20-project analytical framework portfolio at Stockholm University covering Swedish wealth inequality, intergenerational mobility, and tax policy; advisory roles in Nordic multilateral governance; teaching responsibilities in machine learning and statistics at Linköping University; and active peer review and technical evaluation roles in computational science.
+
+This portfolio documents my research projects, published work (currently under peer review), technical infrastructure contributions, and core competencies across machine learning, econometrics, causal inference, distributed systems, and applied statistics.
+
+---
+
+## Research Philosophy & Methodological Commitments
+
+### Principles Guiding Research Practice
+
+My research practice is grounded in core principles emphasizing scientific integrity, methodological transparency, reproducibility, and real-world impact. These principles shape all research activities from question formulation through dissemination.
+
+**Scientific Rigor & Methodological Soundness**
+
+Research questions are approached with appropriate methodological rigor matched to available data and identifying assumptions. Econometric work employs modern causal inference frameworks (difference-in-differences with heterogeneous treatment effects, machine learning causal inference, sensitivity analysis) rather than relying on classical methods with restrictive assumptions. Machine learning applications incorporate uncertainty quantification, calibration analysis, and evaluation protocols preventing overfitting. Bayesian approaches are employed when prior information is available and appropriate. Sensitivity analyses systematically examine robustness to alternative assumptions.
+
+**Computational Transparency & Reproducibility**
+
+Every analysis is implemented with complete transparency enabling independent replication. Research code is written to professional software engineering standards (version control, testing, documentation) and released publicly under open licenses (MIT, GPL). Seeded random number generation ensures deterministic results. All dependencies are version-pinned. Intermediate computational artefacts are content-addressed enabling fault diagnosis. Results are produced through automated pipelines preventing manual transcription errors.
+
+**Open Science & Community Engagement**
+
+Research findings are disseminated openly and accessibly. Pre-prints are posted on arXiv prior to journal submission enabling rapid scientific feedback. Code repositories are published on GitHub with comprehensive documentation. Replication materials (data, code, documentation) are shared openly. Research is registered prospectively (pre-analysis plans on OSF) separating confirmatory from exploratory analyses. Negative results and failures are documented transparently. The research community is engaged throughout the research process through seminars, workshops, and collaborative feedback.
+
+**Ethical Responsibility & Real-World Impact**
+
+Research addresses substantive policy questions with real-world consequences. Methodological innovations are motivated by practical research needs rather than pursued for their own sake. Work with sensitive data (administrative records, health information, security intelligence) proceeds under strict ethical oversight and privacy protection. Research outputs are designed to be useful for policy-makers and practitioners. Limitations and caveats are clearly communicated to prevent misuse.
+
+**Interdisciplinary Collaboration & Communication**
+
+Research succeeds through collaboration across disciplines. Econometricians, computer scientists, biologists, clinicians, and policy experts bring complementary expertise. Clear communication across disciplinary boundaries is essential. Technical depth is maintained while ensuring findings are accessible to non-specialist audiences. Policy briefs translate complex analyses into decision-maker vocabularies.
 
 ---
 
@@ -21,109 +71,195 @@ This portfolio documents my research projects, published work (under review), te
 ### Research Assistant @ Stockholm University
 **Stockholm, Sweden | Apr 2026 -- Present | Full-time, Hybrid**
 
-Working under David Seim, Jens Wikström, and Gabriel Zucman at the Department of Economics, I analyze administrative microdata from Statistics Sweden (SCB) via the secure MONA partition. My responsibilities span:
+Working under David Seim, Jens Wikström, and Gabriel Zucman at the Department of Economics, I lead analytical development within a comprehensive research program investigating wealth inequality, tax policy, and intergenerational economic mobility in Sweden. Access to Statistics Sweden (SCB) secure MONA partition enables analysis of administrative tax and wealth records covering the Swedish population with unprecedented longitudinal depth and accuracy.
 
-*Data Infrastructure & Engineering*
-* Querying administrative registers spanning 9.5+ million individuals over 35 years
-* Constructing panel models containing 150+ million observations
-* Implementing version-controlled, scalable data pipelines addressing non-random attrition and selective missingness
-* Maintaining rigorous data lineage and computational reproducibility across distributed workflows
+*Data Infrastructure & Scientific Computing*
 
-*Econometric & Machine Learning Implementation*
-* Executing structural estimation and simulation pipelines across 20+ analytical frameworks
-* Implementing microeconometric models in Stata, R, Python, and Rust
-* Deploying machine learning methods including gradient boosting, graph neural networks, and deep learning approaches
-* Managing statistical forecasting and anomaly-detection methodologies
+* **Register-Level Data Architecture.** Querying integrated administrative registers spanning 9.5+ million individuals with continuous observation across 35+ years, encompassing complete employment, earnings, property ownership, firm registration, wealth valuation, and tax compliance records. Raw register grain exceeds 150 million annual observations across all dimensions.
 
-*Research Support & Dissemination*
-* Supporting 4+ peer-reviewed publications on topics including wealth concentration, tax enforcement, intergenerational mobility, and supplemental insurance
-* Producing publication-ready data visualizations and econometric tables
-* Contributing to empirical sections of working papers targeting top-tier journals
-* Collaborating with international co-authors on policy evaluation frameworks
+* **Data Quality & Missingness.** Implementing rigorous protocols addressing non-random attrition patterns (mortality, emigration, register entry dynamics), selective missingness in reported asset values, lifecycle income mismeasurement, and temporal inconsistencies in multi-generational linkages. Statistical methods include multiple imputation under missing-at-random assumptions, sensitivity analysis bounds, and inverse-probability weighting.
 
-**Skills Applied:** Econometrics, Stata, R, Python, SQL, Data Engineering, Causal Inference, Structural Estimation
+* **Computational Reproducibility.** Maintaining version-controlled, audit-tracked data pipelines with deterministic seeding for all stochastic operations (Monte Carlo, bootstrap, MCMC sampling). Content-addressed intermediate artefacts enable rapid fault detection and exact result replication. Code repositories include comprehensive documentation of data provenance, transformation rules, and validation checks.
+
+*Econometric Analysis & Structural Estimation*
+
+* **Framework Implementation.** Leading technical execution across 20+ major analytical frameworks spanning intergenerational mobility estimation, corporate tax avoidance detection, demographic forecasting, welfare programme incidence, wealth concentration measurement, and distributional reform impact simulation.
+
+* **Method Implementation.** Implementing sophisticated econometric approaches including: modern difference-in-differences with heterogeneous treatment effects (Callaway-Sant'Anna, de Chaisemartin-D'Haultfœuille specifications), machine learning causal inference (double machine learning, causal forests), polynomial bunching estimators, quantile regression frameworks, and structural discrete choice models.
+
+* **Computational Methods.** Deploying specialized numerical approaches: Bayesian hierarchical models with MCMC and variational inference, graph neural networks for relational data (corporate ownership networks, family connections), deep learning for high-dimensional feature learning, and high-performance microsimulation in Rust with vectorised operations.
+
+* **Language-Specific Development.** Directing technical implementation in Stata (econometric estimation, survey-weighted analysis), R (statistical inference, visualization, literate programming), Python (PyTorch, JAX, scikit-learn, econometric packages), and Rust (high-performance microsimulation engine with Python bindings via pyo3).
+
+*Research Outputs & Dissemination*
+
+* **Publication Pipeline.** Contributing to 4+ peer-reviewed publications (all currently under journal review) investigating: (1) personal holding companies and tax progressivity, (2) wealth tax enforcement effectiveness, (3) intergenerational transfer mechanisms and inequality persistence, (4) supplemental health insurance incidence and distributional consequences.
+
+* **Technical Outputs.** Producing publication-ready econometric tables with complete specification documentation, uncertainty quantification (standard errors, confidence intervals, bootstrap estimates), and robustness checks. Creating data visualizations for policy audiences including rank-rank mobility curves, wealth concentration Lorenz functions, and reform impact distributional charts.
+
+* **Code & Methods Documentation.** Writing comprehensive technical appendices describing data construction, econometric specifications, sensitivity analyses, and replication procedures. All code released openly on GitHub under MIT licensing with complete dependency versioning for reproducibility.
+
+* **Collaborative Scholarship.** Coordinating with international research partners (Gabriel Zucman's global inequality research network), maintaining version control across multi-author codebases, managing GitHub workflows for manuscript preparation, and supporting journal submission processes.
+
+**Technical Stack:** Stata, R, Python (PyTorch, NumPyro, JAX, scikit-learn, pandas, polars), Rust, SQL, Git/GitHub  
+**Methodological Domains:** Econometrics, Causal Inference, Bayesian Inference, Structural Estimation, Microsimulation, Machine Learning  
+**Research Focus:** Public Finance, Inequality, Intergenerational Mobility, Tax Policy, Wealth Distribution
 
 ---
 
 ### Advisor, Committee for Welfare in the Nordic Region @ The Nordic Council
 **Copenhagen, Denmark | Apr 2026 -- Present | Full-time, Hybrid**
 
-Serving as Advisor to the Committee for Welfare in the Nordic Region at the Nordic Council in Copenhagen, supporting multilateral parliamentary cooperation among 87 delegates from eight Nordic nations (Denmark, Finland, Iceland, Norway, Sweden, Faroe Islands, Greenland, Åland).
+Serving as Policy Advisor to the Committee for Welfare in the Nordic Region at the Nordic Council in Copenhagen, supporting multilateral parliamentary cooperation among 87 elected delegates representing 8 Nordic jurisdictions (Denmark, Finland, Iceland, Norway, Sweden, Faroe Islands, Greenland, and Åland). The Committee represents approximately 27 million Nordic citizens and coordinates welfare policy across national governments through the Nordic Council of Ministers.
 
-*Policy Analysis & Legislative Coordination*
-* Coordinating work plans and agenda preparation for committee sessions
-* Aligning policy initiatives across 5 political party groups
-* Analyzing welfare resilience, integration, and public health across Nordic jurisdictions
-* Monitoring 20+ regional social metrics to support socially sustainable Nordic integration
+*Policy Analysis & Evidence Synthesis*
 
-*Evidence-Based Policy Development*
-* Managing end-to-end drafting of policy briefs and legislative recommendations
-* Delivering 14+ strategic recommendations annually to national governments and the Nordic Council of Ministers
-* Grounding recommendations in empirical evidence from registry-based research and public health indices
-* Analyzing demographic indicators from Nordic Statistics database with rigorous statistical methodology
+* **Comparative Welfare Analysis.** Conducting systematic comparative analysis of welfare systems across Nordic countries, identifying structural convergences and policy divergences in unemployment insurance design, sickness benefit administration, social assistance targeting, healthcare integration, and active labour-market policies. Work involves mapping policy parameters, implementation mechanisms, and distributional consequences across jurisdictions.
 
-*Stakeholder Engagement & International Coordination*
-* Coordinating with NordForsk on health data registry integration evaluations
-* Supporting biennial Nordic Welfare Forum tracking institutional trust across 27 million citizens
-* Drafting official statements, briefing notes, and talking points for parliamentary summits
-* Facilitating structured consultations with national ministers and cross-border governance frameworks
+* **Registry-Based Research Integration.** Grounding policy recommendations in empirical findings from linked administrative registers (Nordic Statistics database, national social security records, health data systems). Implementing statistical analysis protocols to assess welfare programme effectiveness, programme take-up patterns, labour market integration outcomes, and health equity dimensions.
 
-**Skills Applied:** Public Policy Analysis, International Relations, Statistical Analysis, Report Writing, Stakeholder Management
+* **Demographic & Institutional Monitoring.** Systematically tracking 20+ Nordic welfare and social indicators including old-age dependency ratios, working-age employment rates, poverty risk metrics, institutional trust indices, healthcare access measures, and social cohesion proxies. Developing monitoring frameworks that support evidence-based assessment of Nordic welfare model sustainability under demographic change and fiscal pressure.
+
+*Legislative & Parliamentary Support*
+
+* **Work Plan Coordination.** Coordinating comprehensive annual work plans and session agendas for the Committee, aligning priorities across 5 political party groups with diverse ideological positions. Managing consultation processes ensuring substantive input from national governments, Nordic Council of Ministers, and expert stakeholder networks.
+
+* **Strategic Recommendation Development.** Managing end-to-end development of 14+ annual strategic recommendations to national governments and the Nordic Council of Ministers. Recommendation development follows rigorous process: literature review, expert consultation, empirical evidence assessment, stakeholder feedback, final committee deliberation and approval.
+
+* **Policy Brief Production.** Drafting technically sound, policy-accessible policy briefs translating complex welfare research into clear strategic options for decision-makers. Briefs address specific policy questions (e.g., optimal unemployment insurance replacement rates, minimum income adequacy levels) with quantified impact estimates and institutional implementation pathways.
+
+*International Coordination & Stakeholder Management*
+
+* **Cross-Border Governance.** Facilitating structured policy coordination among national ministers responsible for welfare, labour market, and social policy portfolios. Designing consultation frameworks overcoming legislative barriers through EU and Nordic legal mechanisms (directives, conventions, best-practice sharing agreements).
+
+* **Research Partnership Coordination.** Coordinating substantive collaboration with NordForsk (Nordic Research and Innovation Council) on health data integration projects, enabling cross-national analysis of health system performance and welfare programme health impacts while maintaining strict privacy compliance (GDPR, national data protection laws).
+
+* **Institutional Assessments.** Supporting biennial Nordic Welfare Forum assessments measuring institutional trust in welfare systems, citizen satisfaction with service delivery, and perceived fairness of benefit distribution. Assessment methodology involves comparative survey research, administrative data integration, and qualitative interviews with welfare administrators.
+
+* **High-Level Diplomatic Support.** Drafting official statements, briefing notes, and speaking points for parliamentary delegations ahead of major Nordic summits (77th annual Session in Stockholm, 2026 Theme Session in Faroe Islands). Preparing background materials addressing urgent welfare policy questions (demographic aging, migration policy integration, labour market digitalisation).
+
+*Analysis & Evaluation Methodology*
+
+* **Comparative Institutional Analysis.** Developing frameworks for systematic comparison of welfare programme design (eligibility rules, benefit formulas, duration limits), implementation infrastructure (administrative agencies, digital systems), and performance metrics (take-up rates, labour market integration, cost-efficiency).
+
+* **Statistical Methods.** Implementing appropriate statistical approaches for different analytical questions: descriptive comparative analysis for programme parameter mapping, hypothesis testing for evaluating regional differences, causal inference methods for assessing policy impacts, and time-series analysis for tracking institutional evolution.
+
+* **Qualitative Research Integration.** Complementing quantitative analysis with qualitative research components including expert interviews with welfare administrators, document analysis of legislative records and policy implementation guidance, and case study analysis of innovative regional welfare programmes.
+
+**Technical Skills:** Policy Analysis, Comparative Institutional Analysis, Demographic Analysis, Statistical Inference, Report Writing, Multilingual Communication, Stakeholder Management  
+**Substantive Expertise:** Nordic Welfare Systems, Unemployment Insurance, Healthcare Integration, Social Assistance, Active Labour Market Policies, Fiscal Sustainability, Nordic Governance Mechanisms  
+**Organizational Context:** 8 Nordic countries, 87 parliamentary delegates, 27 million citizens, 5 political party groups
 
 ---
 
 ### Teaching Assistant (Amanuens) @ Linköping University
 **Linköping, Sweden | Jun 2026 -- Present | Part-time, Hybrid**
 
-Contributing to academic instruction within the Division of Statistics and Machine Learning (STIMA) at the Department of Computer and Information Science (IDA), supporting second-cycle international master's courses.
+Contributing to academic instruction and curriculum development within the Division of Statistics and Machine Learning (STIMA) at the Department of Computer and Information Science (IDA), supporting second-cycle international master's programme courses. Serve as primary pedagogical support for advanced machine learning and computational statistics instruction delivered to cohorts of 150+ students per term.
 
-*Core Teaching Responsibilities*
-* Facilitating 12+ hours weekly of laboratory sessions and seminars
-* Supporting 150+ students per term across two primary courses: Machine Learning (732A99/732A68, 9 credits) and Computational Statistics (732A90, 6 credits)
-* Mentoring students through probabilistic models, decision tree pruning, and cross-validated LASSO classification
-* Delivering pedagogical support in R and Python implementation
+*Pedagogical Infrastructure & Teaching Delivery*
 
-*Curriculum Development & Assessment*
-* Collaborating with course coordinators on advanced machine learning instruction
-* Designing hands-on project assignments on probabilistic graphical models, hidden Markov models, and Gaussian process regression
-* Creating datasets with 10000+ observation instances for practical exercises
-* Systematically evaluating 85+ technical laboratory reports per module
-* Grading implementations of ensemble methods, support vector machines, and kernel-based neural networks
+* **Laboratory & Seminar Leadership.** Leading 12+ hours weekly of hands-on laboratory sessions and problem-solving seminars, providing direct pedagogical support to diverse student populations from 20+ countries. Sessions emphasize bridging theoretical machine learning concepts with practical implementation, debugging, and critical interpretation of computational results.
 
-*Research Support*
-* Supporting STIMA researchers on generative machine learning, spatio-temporal modeling, and deep learning for materials discovery
-* Preparing dataset pipelines for joint publications
-* Performing computational preprocessing ensuring data conforms to statistical assumptions
-* Drafting robust sample solutions and configuring automated grading infrastructure
+* **Core Course Support.** Primary teaching assistant for two consecutive second-cycle courses: (1) 732A99/732A68 Machine Learning (9 ECTS credits, advanced applications of supervised and unsupervised learning), (2) 732A90 Computational Statistics (6 ECTS credits, numerical methods for statistical inference). Responsibilities encompass live coding demonstrations, conceptual explanation, problem troubleshooting, and formative assessment feedback.
 
-**Skills Applied:** Machine Learning, Statistical Modeling, R, Python, Pedagogy, Scientific Communication
+* **Concept Reinforcement.** Providing structured pedagogical support across core machine learning content: probabilistic graphical models and inference algorithms (belief propagation, variational inference), ensemble methods and hyperparameter optimization, regularization and feature selection (LASSO, elastic net, cross-validation), kernel methods and support vector machines, and deep learning architectures for structured data.
+
+* **Implementation Guidance.** Mentoring students through hands-on implementation of sophisticated methods using R (tidyverse, caret, tidymodels, ggplot2) and Python (scikit-learn, PyTorch, pandas, numpy). Emphasizing reproducible research practices, code documentation, version control, and computational efficiency optimization.
+
+*Curriculum Development & Course Innovation*
+
+* **Advanced Course Development.** Collaborating closely with course coordinators on curriculum design for 732A96 Advanced Machine Learning (6 ECTS). Designing and deploying innovative project-based learning assignments emphasizing research-level machine learning applications:
+
+  - Probabilistic Graphical Models & Inference: Students implement Bayesian network inference engines, design exact and approximate inference algorithms, and apply models to real-world network data.
+  
+  - Hidden Markov Models & Sequence Learning: Project-based exploration of HMM applications in time-series analysis, speech processing, and bioinformatics. Students compare forward-backward algorithms, Viterbi decoding, and Baum-Welch estimation.
+  
+  - Gaussian Process Regression: Deep dive into GP methodology including kernel design, marginal likelihood optimization, and uncertainty quantification. Applications include medical signal processing and environmental monitoring.
+
+* **Dataset Design & Curation.** Creating and curating high-quality datasets (10000+ observations, 50+ features) sourced from real-world applications spanning healthcare, finance, materials science, and environmental monitoring. Datasets are cleaned, documented, and version-controlled to support reproducible student work.
+
+* **Assessment Design.** Designing comprehensive assessment rubrics evaluating both technical correctness and scientific communication. Rubrics assess code quality (reproducibility, efficiency, documentation), statistical validity (assumption checking, hypothesis testing, uncertainty quantification), and scholarly communication (writing clarity, result interpretation, limitation acknowledgement).
+
+*Assessment & Evaluation*
+
+* **Technical Report Evaluation.** Systematically grading 85+ technical laboratory reports per course module with detailed constructive feedback addressing: (1) statistical soundness of methodology selection, (2) correctness of computational implementation, (3) appropriateness of result interpretation, (4) quality of data visualization and presentation.
+
+* **Implementation Assessment.** Evaluating student implementations of sophisticated machine learning algorithms including ensemble methods (random forests, gradient boosting), support vector machines with kernel selection, and kernel-based neural networks. Assessment emphasizes both algorithmic correctness and computational efficiency.
+
+* **Feedback Infrastructure.** Providing detailed, constructive feedback on student work within 5 business days using standardized rubrics promoting consistency and clarity. Feedback specifically addresses common misconceptions and provides pathways for improvement.
+
+*Research Support & Scientific Collaboration*
+
+* **Research Infrastructure Development.** Supporting STIMA research groups on projects spanning generative machine learning (diffusion models, variational autoencoders), spatio-temporal modeling (recurrent networks, attention mechanisms), and deep learning for materials discovery (graph neural networks, structure prediction).
+
+* **Data Pipeline Development.** Designing and maintaining reproducible data preprocessing pipelines supporting joint publications. Pipelines address common data quality issues (missing values, outliers, distribution shifts), implement appropriate feature engineering, and ensure compliance with open science standards.
+
+* **Computational Preprocessing.** Performing systematic data validation ensuring adherence to statistical assumptions (normality, homogeneity of variance, independence). Implementing sensitivity analyses where assumptions are violated and documenting remedial approaches.
+
+* **Documentation & Replication.** Drafting robust sample solutions with comprehensive documentation enabling students to understand canonical approaches to problem-solving. Configuring automated testing and continuous integration infrastructure for hands-on assignments.
+
+**Teaching Domains:** Machine Learning, Statistical Inference, Probabilistic Modeling, Computational Statistics  
+**Programming Instruction:** R (tidyverse, caret), Python (scikit-learn, PyTorch, JAX)  
+**Student Population:** 150+ international master's students per term (20+ countries)  
+**Course Levels:** Second-cycle (Master's level) advanced technical courses  
+**Pedagogical Focus:** Theory-practice integration, reproducible research, scientific communication
 
 ---
 
 ### Second Lieutenant (Fänrik), Swedish Air Force @ Swedish Armed Forces
 **Luleå, Sweden | May 2026 -- Present | Contract, Hybrid**
 
-Serving as Fänrik (Second Lieutenant) within the Norrbotten Air Force Wing (F 21), supporting operational coordination and tactical leadership in the 211th Fighter Squadron.
+Serving as Fänrik (Second Lieutenant) in the Norrbotten Air Force Wing (F 21) in Luleå, commanding elements of the 211th Fighter Squadron operating 18 Saab JAS 39 Gripen multi-role tactical fighter aircraft. Position involves complex operational coordination, tactical decision-making, resource management, and leadership in high-risk environment aligned with NATO operational standards and Swedish air defence strategic doctrine.
 
-*Operational Command & Coordination*
-* Managing daily operational readiness and mission-planning for 18 Saab JAS 39 Gripen multi-role fighter aircraft
-* Aligning regional defensive operations with NATO standards and protocols
-* Coordinating flight-line logistics and monitoring real-time meteorological conditions
-* Preparing tactical pre-flight briefings for 12+ pilots per shift
+*Operational Command & Mission Planning*
 
-*Multinational Operations & Training*
-* Facilitating tactical communications and logistics during multinational exercises (Arctic Challenge Exercise 2026, Baltic Air Policing)
-* Coordinating cross-border flight training involving 40+ allied aircraft
-* Ensuring interoperability with NATO Allied Air Command frameworks
-* Managing resource allocation for 25+ ground support personnel
+* **Readiness Management.** Assuming primary responsibility for daily operational readiness assessment and status maintenance for fighter squadron assets. Coordinating with operations officers on mission capability assessment across aircraft, weapons systems, avionics, and support infrastructure. Implementing systematic checks ensuring all platforms achieve required operational availability exceeding 90 percent throughout operational year.
 
-*Safety & Risk Management*
-* Monitoring equipment turnaround times to maintain operational readiness exceeding 90 percent
-* Leading structured training modules in cold-weather survival and tactical ground defense for 30+ active-duty personnel
-* Managing risk assessment databases and analyzing 100+ monthly safety reports
-* Eliminating logistical hazards in high-pressure staging environments
+* **Mission Planning & Execution.** Coordinating tactical mission planning for air defence sorties, training exercises, and multinational operations. Responsibilities include threat assessment, route planning, fuel/weapons load optimization, weather integration, airspace coordination, and integration with other military domains (ground air defence, maritime, cyber). Maintaining situational awareness across dynamic operational environment.
 
-**Skills Applied:** Military Operations, Operational Planning, NATO Standards, Risk Management, Leadership
+* **Flight Line Coordination.** Managing complex flight-line operations including aircraft maintenance dispatch, weapons loading procedures, fuelling operations, and launch/recovery sequencing. Coordinating between pilot crew, maintenance personnel, weapons technicians, and ground controllers. Implementing safety protocols and ensuring compliance with technical order procedures and NATO standardization agreements.
+
+* **Meteorological Integration.** Continuously monitoring real-time meteorological conditions affecting flight operations including wind speed/direction, visibility, precipitation, cloud layers, turbulence, and electromagnetic phenomena. Integrating meteorological data into mission planning and real-time tactical decision-making. Coordinating with meteorological officers on forecasting and nowcasting for operational planning horizons.
+
+*Tactical Leadership & Pre-Flight Briefings*
+
+* **Pilot Briefings.** Preparing comprehensive tactical pre-flight briefings for 12+ pilot personnel per operational shift. Briefing content encompasses: threat assessment (aircraft type, capabilities, suspected positioning), rules of engagement and legal framework, tactical objectives and mission priorities, weather conditions and constraints, communications procedures, emergency procedures, and post-mission debriefing requirements.
+
+* **Tactical Doctrine Application.** Ensuring all tactical decisions align with Swedish Air Force operational doctrine and NATO tactical doctrine. Implementing air defence tactics appropriate to specific threat scenarios (intercept procedures, engagement rules, etc.). Coordinating multi-aircraft tactical formations and maneuvers during complex operations.
+
+* **Crew Leadership.** Providing direct leadership and mentorship to junior officers and enlisted personnel, emphasizing professional military competence, safety consciousness, and adherence to operational standards. Building cohesive command team capable of executing complex missions under high cognitive and physical demands.
+
+*Multinational Operations & NATO Integration*
+
+* **NATO Operations Participation.** Serving as Swedish command representative during major NATO-affiliated multinational exercises including Arctic Challenge Exercise 2026 (largest Nordic air exercise, involving 200+ aircraft from NATO and partner nations) and regular Baltic Air Policing operations (continuous NATO air presence over Baltic states).
+
+* **Tactical Coordination.** Coordinating real-time tactical communications during multinational operations involving 40+ allied aircraft from multiple nations. Managing coordination across diverse procedural frameworks, communication protocols, and tactical doctrine variants. Ensuring smooth interoperability between Swedish systems and NATO Allied Air Command command-and-control infrastructure.
+
+* **Cross-Border Integration.** Supporting Swedish participation in NATO-standardized air operations including fighter escorts, maritime patrol coordination, and airspace sovereignty operations. Implementing standardized NATO procedures (STANAGs) for tactical operations ensuring all actions comply with international law and rules of engagement.
+
+*Resource Management & Logistics*
+
+* **Personnel Management.** Managing direct responsibility for 25+ ground support personnel including aircraft mechanics, weapons specialists, fuelling personnel, and administrative support staff. Assigning taskings, monitoring performance, and ensuring safe working conditions in demanding operational environment.
+
+* **Equipment & Maintenance.** Overseeing maintenance dispatch and equipment turnaround pipelines, prioritizing aircraft for maintenance actions (scheduled, corrective, emergency) to optimize operational availability. Coordinating with engineering personnel on technical issues, tracking spare parts inventory, and expediting critical repairs.
+
+* **Resource Allocation.** Allocating limited resources (fuel, weapons, maintenance hours) across competing operational demands. Optimizing resource utilization to maximize mission capability while maintaining operational efficiency and safety margins.
+
+*Safety, Risk Management & Hazard Control*
+
+* **Risk Assessment.** Maintaining comprehensive risk assessment databases tracking operational incidents, near-misses, and safety findings. Implementing systematic analysis of 100+ monthly safety reports to identify emergent hazards, systemic problems, and corrective action requirements.
+
+* **Safety Program Implementation.** Leading structured safety initiatives including cold-weather survival training (relevant to Arctic operations), tactical ground defence training for 30+ active-duty personnel and conscripts, emergency procedures drills, and hazard mitigation protocols.
+
+* **Hazard Elimination.** Systematically identifying and eliminating logistical hazards in high-pressure staging environments. Implementing engineering controls, administrative procedures, and personal protective equipment to maintain safe working conditions despite operational time pressures.
+
+* **Accident Prevention.** Implementing proactive safety culture emphasizing hazard recognition, near-miss reporting, and continuous improvement. Training personnel on safety-critical procedures and building institutional safety consciousness.
+
+**Military Operations Domains:** Air Defence, Tactical Fighter Operations, NATO Interoperability, Multinational Coordination  
+**Command Responsibilities:** 25+ personnel, 18 aircraft, complex support infrastructure  
+**Operational Scale:** Arctic multinational exercises (200+ aircraft), continuous Baltic operations  
+**Key Competencies:** Tactical decision-making under uncertainty, command presence, safety management, multinational coordination, NATO procedures
 
 ---
 
@@ -308,58 +444,81 @@ Led applied research at intersection of human-AI collaboration, federated optimi
 
 ---
 
-### Research Scientist in Generative AI Evaluations @ Google Health
+### Research Scientist, Generative AI Evaluations @ Google Health
 **Mountain View, California | Nov 2024 -- Jan 2025 | Contract, Hybrid**
 
-Led empirical validation and safety benchmarking of frontier medical language models.
+Led empirical validation and comprehensive safety benchmarking of frontier medical language models (Med-Gemini family, AMIE conversational AI system). Work focused on establishing rigorous evaluation protocols and safety frameworks for responsible deployment of generative AI in clinical contexts.
 
-*Model Evaluation & Safety*
-* Evaluated Med-Gemini multimodal model family and AMIE conversational AI system
-* Designed evaluation protocols using MedQA, MedMCQA, and PubMedQA (12000+ diagnostic queries)
-* Quantified model performance across multi-step clinical reasoning
-* Coordinated human-in-the-loop evaluations with 15 board-certified physicians
-* Measured inter-rater reliability with Cohen's kappa of 0.82 across 1500 simulated consultations
+*Medical AI Safety & Evaluation*
 
-*Error Analysis & Mitigation*
-* Analyzed error modes including hallucinations and omissions
-* Reduced critical clinical misinformation rates by 15%
-* Contributed to multimodal medical imaging evaluation methodologies
+* **Benchmark Development.** Designed comprehensive evaluation protocols for medical language models using standardised clinical benchmarks: MedQA (USMLE-format multiple-choice questions), MedMCQA (Indian medical exam questions), PubMedQA (biomedical paper classification). Processing 12000+ diagnostic reasoning queries spanning diverse medical domains and clinical presentations. Quantifying model performance across: medical knowledge (factual accuracy), clinical reasoning (multi-step problem-solving), diagnostic consistency (stable predictions across query variations), and safety (absence of harmful recommendations).
 
-*Automated Evaluation Pipelines*
-* Built automated pipeline harnesses using Python and JAX
-* Evaluated zero-shot and few-shot clinical reasoning across demographic subgroups
-* Supported safety-aligned RLHF parameter definition
-* Enabled responsible generative AI deployment in digital healthcare
+* **Human Expert Evaluation.** Coordinating panel-based human-in-the-loop evaluation with 15 board-certified physicians across diverse specialities. Physicians evaluated 1500+ simulated clinical consultations comparing model responses to expert clinical standards. Measuring inter-rater reliability (Cohen's kappa = 0.82 indicating substantial agreement on clinical safety and correctness). Stratified evaluation by clinical domain, patient complexity, and rare disease scenarios.
 
-**Skills Applied:** Model Evaluation, NLP, Clinical AI, Python, JAX
+* **Error Mode Analysis.** Systematic classification of model error modes: (1) hallucinations (confident generation of false clinical information), (2) omissions (missing crucial diagnostic considerations), (3) reasoning errors (correct knowledge but flawed inference), (4) misinterpretation (misunderstanding patient symptoms). Detailed error analysis reducing critical clinical misinformation rates by 15% through targeted model improvements and safety interventions.
+
+* **Demographic Fairness Assessment.** Evaluating model performance across demographic subgroups (age, sex, ancestry, socioeconomic status) identifying potential disparities. Bias detection in clinical decision support and treatment recommendations. Fairness metrics (demographic parity, equalized odds, disparate impact) under clinical constraints.
+
+*Technical Implementation & Infrastructure*
+
+* **Automated Evaluation Pipelines.** Developing production evaluation harnesses using Python and JAX enabling: (1) rapid evaluation on new model checkpoints, (2) regression testing preventing performance degradation, (3) benchmark versioning ensuring evaluation reproducibility, (4) statistical significance testing on performance improvements. Pipeline automation reduces evaluation turnaround from weeks to hours enabling rapid model iteration.
+
+* **Zero-Shot & Few-Shot Analysis.** Evaluating model reasoning under diverse prompting regimes: zero-shot (no examples), few-shot (1-10 examples), and chain-of-thought prompting. Assessing in-context learning capabilities and knowledge transfer across clinical scenarios. Few-shot performance comparison to pre-training baseline identifying potential distributional shift.
+
+* **Safety-Aligned Reinforcement Learning.** Collaboration with model training teams on safety-aligned reinforcement learning from human feedback (RLHF). Defining safety reward functions capturing: medical accuracy, clinical reasoning quality, absence of harmful recommendations, appropriate uncertainty communication. Hyperparameter selection balancing clinical safety and capability preservation.
+
+* **Deployment Readiness Assessment.** Comprehensive evaluation determining clinical deployment readiness: (1) performance benchmarks exceeding human physician baselines, (2) safety thresholds for critical error rates, (3) demographic fairness metrics across protected groups, (4) out-of-distribution robustness on novel clinical scenarios. Deployment recommendations with confidence intervals and remaining limitations.
+
+**Technical Skills:** Medical AI, Model Evaluation, Statistical Analysis, Python, JAX, Clinical Benchmarking  
+**Collaboration:** Google Health AI team, Medical Affairs, Clinical Safety teams, External physician panels  
+**Impact:** Informed responsible deployment of generative AI in digital healthcare enabling diagnostic support and patient education
 
 ---
 
-### Technical Program Manager II @ Google Health
+### Technical Program Manager II, Healthcare @ Google Cloud
 **Mountain View, California | Aug 2024 -- Oct 2024 | Contract, Hybrid**
 
-Managed cross-functional delivery of enterprise-grade clinical search and multimodal API integration pipelines.
+Managed cross-functional programme delivery for enterprise-grade clinical search and multimodal API integration platform (Vertex AI Search for Healthcare). Role involved coordinating complex software engineering delivery, technical infrastructure optimisation, and stakeholder alignment across 8 engineering teams and diverse product stakeholders.
 
-*Program Management & Orchestration*
-* Orchestrated engineering roadmap for Vertex AI Search for Healthcare platform
-* Aligned software architectures across 8 core engineering and product teams
-* Monitored sprint velocities and dependency matrices
-* Deployed scalable medical imaging APIs handling 100000+ daily transaction requests
-* Maintained 99.95% service-level objective uptime
+*Programme Planning & Orchestration*
 
-*Infrastructure & Compliance*
-* Directed automated de-identification pipelines for clinical text and imaging
-* Ensured HIPAA and GDPR compliance across pipeline
-* Optimized backend microservices reducing API end-to-end latency from 450ms to 180ms
-* Implemented rigorous risk management identifying 12 critical path dependencies
+* **Roadmap Development.** Orchestrated comprehensive engineering roadmap for Vertex AI Search for Healthcare platform spanning 6-month development cycle. Roadmapping process involved: (1) stakeholder requirement gathering from product management, clinical partners, and enterprise customers, (2) architectural decomposition into implementation modules, (3) dependency identification and critical path analysis, (4) resource planning and team allocation, (5) timeline estimation with risk buffers.
 
-*Technical Leadership*
-* Authored detailed technical specifications, program charters, and engineering dashboards
-* Organized weekly cross-functional synchronization meetings
-* Translated complex software dependencies into predictable delivery roadmaps
-* Facilitated scalable, secure, and reliable AI-powered clinical tools release
+* **Team Coordination.** Aligned software architectures and implementation approaches across 8 distinct engineering teams (search infrastructure, NLP, medical imaging, security, infrastructure, reliability, analytics, operations). Weekly synchronisation meetings resolving cross-team dependencies and integration issues. Preventing scope creep and ensuring adherence to specification and timeline.
 
-**Skills Applied:** Program Management, Cloud Computing, Technical Leadership, System Design
+* **Velocity Monitoring & Forecasting.** Tracking sprint velocity metrics enabling predictive delivery timeline forecasting. Burn-down charts and velocity trending identifying acceleration/deceleration patterns. Risk identification when velocity trends suggest schedule jeopardy.
+
+* **Dependency Matrix Analysis.** Maintaining comprehensive dependency tracking across teams. Critical path identification through PERT analysis. Mitigation strategies for bottleneck dependencies (parallel workstreams, resource reallocation).
+
+*Infrastructure & Production Deployment*
+
+* **Medical Imaging API Development.** Overseeing development of scalable APIs for medical imaging analysis handling 100000+ daily transaction requests at peak load. API specification design balancing functionality and usability. Performance optimisation through: query caching, batch processing, asynchronous operations, and adaptive load shedding during spikes.
+
+* **Service Reliability.** Maintaining 99.95% service-level objective (SLO) uptime through infrastructure redundancy and failover mechanisms. Post-incident review process for incident analysis and corrective action. On-call rotation and incident response procedures.
+
+* **Clinical Data De-Identification.** Directing automated de-identification pipelines for clinical text and medical images preventing unauthorised re-identification. Anonymisation techniques: token-level masking for clinical notes, pixel-level perturbation for images. Validation through re-identification attacks ensuring anonymisation robustness. Compliance documentation for regulators.
+
+* **Compliance & Privacy.** Ensuring HIPAA (Health Insurance Portability and Accountability Act) compliance across clinical data handling. GDPR compliance for EU-based users. Regular compliance audits and security assessments. Data retention policies and deletion procedures. Business associate agreements with healthcare partners. Privacy impact assessments and risk mitigation.
+
+*Performance Optimisation & Reliability*
+
+* **Latency Optimisation.** Reducing API end-to-end latency from 450ms baseline to 180ms through systematic optimisation: (1) backend microservice optimisation (caching, connection pooling, query optimisation), (2) load balancer tuning for request distribution, (3) database indexing and query plan analysis, (4) gRPC protocol adoption enabling efficient serialisation. Latency profiling identified hotspots and guided optimisation priorities.
+
+* **Risk Management Framework.** Implementing structured risk management identifying 12 critical-path dependencies vulnerable to schedule delay: (1) third-party API availability, (2) infrastructure provisioning, (3) security approval processes. Mitigation strategies included: contingency scheduling, pre-approved workarounds, vendor communication protocols, escalation procedures.
+
+* **Technical Documentation.** Authoring detailed technical specifications documenting: API contracts (request/response formats, error handling), architectural diagrams (component interactions, data flow), operations procedures (deployment, monitoring, incident response), compliance documentation. Technical specifications enabled knowledge transfer and operational readiness.
+
+*Stakeholder Management & Communication*
+
+* **Executive Reporting.** Preparing executive summaries and status reports for leadership (product management, finance, executive sponsors). Key metrics: schedule adherence, budget tracking, quality indicators. Risk and issue escalation to appropriate decision-makers.
+
+* **Engineering Dashboards.** Creating comprehensive engineering dashboards visualising: sprint progress and burndown, team capacity and allocation, code quality metrics, test coverage, deployment frequency, incident metrics. Real-time dashboards enabling data-driven decision-making.
+
+* **Cross-Functional Synchronisation.** Organising weekly synchronisation meetings with 8 engineering teams ensuring: status updates, dependency coordination, issue resolution, technical decision documentation. Meeting agendas structured for efficiency. Decision recording enabling accountability.
+
+**Programme Impact:** Delivered secure, scalable, clinically-validated AI-powered medical search platform enabling healthcare enterprises to adopt AI-assisted diagnosis and clinical decision support.  
+**Skills Applied:** Program Management, Technical Architecture, Cloud Infrastructure (GCP), HIPAA Compliance, Agile/Scrum, Stakeholder Management  
+**Collaboration:** 8 engineering teams, product management, clinical advisors, enterprise customers, compliance teams
 
 ---
 
@@ -703,7 +862,21 @@ My research spans computational biology, machine learning for healthcare, AI saf
 
 ## Major Research Projects
 
-All projects are hosted on GitHub under the [@olaflaitinen](https://github.com/olaflaitinen) username. Below are detailed descriptions of 20+ major analytical frameworks spanning public finance, machine learning, and policy evaluation.
+### Project Portfolio Overview
+
+All research projects are hosted on GitHub under [@olaflaitinen](https://github.com/olaflaitinen) with complete source code, documentation, test suites, and reproducibility infrastructure. Below are comprehensive technical descriptions of 20+ major analytical frameworks spanning public finance, machine learning, and policy evaluation.
+
+**Portfolio Characteristics**
+
+* **Methodological Diversity.** Projects employ diverse analytical approaches including Bayesian hierarchical models, machine learning causal inference, econometric structural estimation, graph neural networks, reinforcement learning, and high-performance microsimulation.
+
+* **Computational Scale.** Individual projects process administrative records spanning millions of individuals, billions of transactions, and high-dimensional feature spaces. Infrastructure is designed for reproducible analysis at scale with complete uncertainty quantification.
+
+* **Integration & Modularity.** Projects are designed as modular building blocks enabling composition into larger analytical systems. Common infrastructure layers (Mikrosimulering microsimulation engine, probabilistic programming frameworks, data validation pipelines) support multiple projects.
+
+* **Reproducibility & Open Science.** All projects include complete source code under MIT or GPL licensing, comprehensive documentation, automated test suites, CI/CD pipelines, and versioned dependencies enabling exact reproduction of all results. Research transparency is prioritized throughout.
+
+* **Policy Relevance.** Projects are designed to inform Swedish policy discussions and Nordic multilateral governance, grounding research in real-world policy questions and producing outputs directly usable by decision-makers.
 
 ### Stockholm University Research Projects (Ongoing, May 2026 -- Present)
 
@@ -1862,13 +2035,19 @@ Gradient boosting, deep state-space models, conformal prediction, quantile regre
 
 ### Programming Languages & Data Technologies
 
-**Primary Languages**
-* Python 3.x: Production code, scientific computing, machine learning frameworks
-* Rust: High-performance systems, data engineering, numerical computing
-* R: Statistical analysis, data visualization, literate programming
-* SQL: Complex queries, database design, data warehousing
-* Stata: Econometric analysis, survey-weighted estimation, macros
-* JavaScript/TypeScript: Frontend, backend systems (when necessary)
+**Primary Languages & Technical Proficiency**
+
+* **Python 3.x.** Advanced proficiency with scientific computing stack (NumPy, SciPy). Extensive experience with machine learning frameworks (PyTorch, JAX, scikit-learn, TensorFlow). Econometric and statistical packages (statsmodels, EconML, DoubleML). Data engineering and processing (pandas, polars, DuckDB). Natural language processing (Hugging Face Transformers). Software engineering best practices (testing, documentation, CI/CD, profiling, optimization).
+
+* **Rust.** Expert-level systems programming for performance-critical components. Experience with pyo3 (Python interoperability), async/await patterns, memory safety guarantees. High-performance numerical computing, SIMD vectorisation, WASM compilation. Project management with Cargo, crate ecosystem navigation, and publication to crates.io.
+
+* **R.** Advanced statistical analysis and programming. Data manipulation (tidyverse: dplyr, tidyr, purrr). Visualization (ggplot2, plotly). Statistical modelling (lme4, glmmTMB, brms for Bayesian models). Literate programming (R Markdown, Quarto). Package development and documentation. Integration with academic publishing workflows.
+
+* **SQL & Database Systems.** Complex analytical queries (CTEs, window functions, subqueries). Database design (normalization, indexing, query optimization). Experience with PostgreSQL, DuckDB, and cloud data warehouses (BigQuery, Snowflake). Query optimization for analytical workloads, query plan analysis, and performance profiling.
+
+* **Stata.** Advanced econometric estimation (linear and non-linear models, instrumental variables, difference-in-differences). Survey-weighted analysis and complex survey design. Marginal effects computation and comparative statics. Macro programming for repetitive tasks. Publication-ready table generation (esttab, estpost). Version control integration and reproducible analysis workflows.
+
+* **JavaScript/TypeScript.** Modern web development stack (React, Vue.js, Node.js) for interactive visualizations and web applications. D3.js for custom data visualizations. Electron for desktop applications. API development (Express.js, FastAPI integration). Profiling and performance optimization.
 
 **Scientific Computing & ML Frameworks**
 * PyTorch: Deep learning, transformer networks, custom CUDA kernels
@@ -1958,35 +2137,55 @@ Gradient boosting, deep state-space models, conformal prediction, quantile regre
 
 ### Econometric & Statistical Methods
 
-**Causal Inference**
-* Difference-in-Differences (Modern specifications: Callaway-Sant'Anna, de Chaisemartin-D'Haultfœuille, Borusyak-Jaravel-Spiess)
-* Regression Discontinuity Design (Sharp & Fuzzy)
-* Instrumental Variables (IV, Weak-instrument-robust inference)
-* Synthetic Control Methods
-* Causal Forests & Generalized Random Forests
-* Doubly-Robust Estimation
-* Double Machine Learning
-* Sensitivity Analysis (Rosenbaum bounds, Cinelli-Hazlett)
+**Causal Inference & Treatment Effect Estimation**
 
-**Econometric Models**
-* Two-Way Fixed Effects (Abowd-Kramarz-Margolis decomposition)
-* Difference-in-Differences with heterogeneous treatment effects
-* Event-Study Designs
-* Bunching Estimators
-* Quantile Regression
-* Instrumental Variables & Weak-instrument-robust procedures
-* Limited Dependent Variable Models
-* Panel Data Methods (dynamic panels, correlated random effects)
+* **Modern Difference-in-Differences.** Proficient in contemporary DiD specifications addressing limitations of classical two-way fixed effects models. Implementations include: Callaway-Sant'Anna (handles staggered adoption, heterogeneous treatment timing), de Chaisemartin-D'Haultfœuille (addresses negative weighting in TWFE), Borusyak-Jaravel-Spiess (alternative heterogeneous effects estimator). Event-study designs with validity checks for parallel trends assumption and pre-treatment balance. Diagnostics for treatment effect heterogeneity, timing sensitivity, and unobserved confounding.
 
-**Statistical Inference**
-* Maximum Likelihood Estimation
-* Bayesian Inference & Hierarchical Modelling
-* MCMC Sampling (Gibbs, Metropolis-Hastings, Hamiltonian)
-* Variational Inference
-* Posterior Predictive Checks
-* Bootstrap Resampling
-* Conformal Prediction (split & Mondrian)
-* False Discovery Rate Control
+* **Regression Discontinuity Design.** Sharp and fuzzy RDD implementation with careful attention to bandwidth selection (asymptotically optimal, robust criteria). Local polynomial estimation with various polynomial orders. Kernel selection and sensitivity analysis. McCrary density test for discontinuity-driven sorting. Donut RDD for addressing manipulation concerns. Two-dimensional RD designs. Heterogeneous effects across discontinuity-determined subpopulations.
+
+* **Instrumental Variables & Weak Instrument Robust Inference.** Classical IV estimation (2SLS, GMM). Weak instrument diagnostics (Cragg-Donald test, Kleibergen-Paap test, effective F-statistic). Weak-instrument-robust inference (Anderson-Rubin, Kleinbergen-Paap, Lee bias-corrected estimates). IV validity checks including instrument relevance testing and overidentification tests (Hansen J-test, C-test). Applications to natural experiments and policy discontinuities.
+
+* **Machine Learning-Based Causal Inference.** Double machine learning framework for (partially linear) causal models. Cross-fitting to avoid overfitting bias. Orthogonal scores and Neyman orthogonal conditions. Double debiased estimation for high-dimensional settings. Integration of regularised regression, tree-based learners, and neural networks as nuisance function estimators. Confidence interval construction with asymptotic normality.
+
+* **Causal Forests & Generalised Random Forests.** Heterogeneous treatment effect estimation via causal forests (Athey-Wager). Generalised random forests extending beyond treatment effects to quantiles, survival analysis, policy evaluation. Honest splitting for valid inference. Local linearity assumptions and validity checks. Integration with subsequent analysis (subgroup identification, policy choice).
+
+* **Doubly-Robust Estimation.** Semiparametric doubly-robust estimators combining propensity score weighting and regression adjustment. Rotnitzky-Robins calibration. Doubly-robust AIPW (Augmented Inverse Probability Weighting) estimators. Efficiency considerations and variance reduction. Extension to longitudinal settings and policy evaluation.
+
+* **Sensitivity Analysis.** Rosenbaum bounds for addressing hidden bias from unobserved confounders. Cinelli-Hazlett omitted variable bias benchmarking relative to observed confounders. Formal sensitivity parameters quantifying required confounder strength to reverse estimated effects. Bounding analysis establishing robustness of causal conclusions.
+
+**Econometric Models & Estimation Methods**
+
+* **Two-Way Fixed Effects Models.** Abowd-Kramarz-Margolis (AKM) decomposition of earnings into worker, firm, and match effects. Implementation with connected set identification. Bias correction methods (Kline-Saggio-Sølvsten) addressing incidental parameters problem. Worker and firm heterogeneity quantification. Assortative matching estimation and testing. Applications to wage inequality decomposition and mobility analysis.
+
+* **Difference-in-Differences with Heterogeneous Treatment Effects.** Treatment effect heterogeneity across units and time periods. Identifying average treatment effects on treated (ATT), intent-to-treat (ITT), and complier average causal effects (CACE) under various assumptions. Group-time treatment effects in staggered adoption designs. Graphical diagnostics for parallel trends and robustness checking.
+
+* **Event-Study Designs.** Dynamic treatment effect estimation following policy or programme implementation. Pre-treatment balance testing and statistical validity checks. Multi-period event windows with careful attention to treatment timing, dropout, and attrition. Integration with causal inference framework ensuring unbiased effect estimation.
+
+* **Bunching Analysis.** Polynomial bunching estimators identifying discontinuous responses at eligibility thresholds. Application to tax avoidance detection (bunching response to tax bracket discontinuities). Bandwidth selection and sensitivity analysis. Counterfactual distribution construction. Revenue impact calculation under avoidance hypotheses.
+
+* **Quantile Regression.** Distributional treatment effects across conditional quantiles. Unconditional quantile regression (RIF-regression) for marginal distributional effects. Interquantile range effects identifying where treatment impact concentrates. Bootstrap inference with dependency-robust standard errors. Visualization of treatment heterogeneity across the outcome distribution.
+
+* **Limited Dependent Variable Models.** Binary choice models (logit, probit) and nonlinear probability models. Multinomial choice (multinomial logit, ordered logit) for categorical outcomes. Count models (Poisson, negative binomial) for non-negative integer outcomes. Selection models (Heckman correction) addressing sample selection bias. Marginal effects computation and interpretation.
+
+* **Panel Data Methods.** Fixed effects estimation (within transformation) for linear unobserved heterogeneity. Random effects models under orthogonality assumptions. Correlated random effects specifications allowing unobserved heterogeneity correlation with regressors. Dynamic panels (Arellano-Bond, Blundell-Bond GMM) for lagged dependent variable models. First-difference and system GMM estimators with validity checks.
+
+**Statistical Inference & Uncertainty Quantification**
+
+* **Maximum Likelihood Estimation.** General MLE framework for parametric models. Numerical optimisation (gradient-based, derivative-free). Standard error computation (Hessian, sandwich estimators) for valid inference under model misspecification. Hypothesis testing (Wald, likelihood ratio, score tests) and confidence interval construction. Consistency, asymptotic normality, and efficiency properties. Model adequacy checking through residual diagnostics.
+
+* **Bayesian Inference & Hierarchical Modelling.** Fully Bayesian analysis including prior specification (informative, weakly informative, hierarchical), posterior inference, and uncertainty quantification. Hierarchical structures accommodating grouped data (multi-level models), exchangeability across units, and partial pooling. Hyperprior specification for robust inference. Model comparison through Bayes factors and information criteria (WAIC, LOO-IC).
+
+* **MCMC Sampling.** Markov chain Monte Carlo methods for posterior inference in complex models. Gibbs sampling for conditionally conjugate models. Metropolis-Hastings algorithm with proposal tuning. Hamiltonian Monte Carlo for efficient sampling in high dimensions. Diagnostic checking (trace plots, autocorrelation, effective sample size, potential scale reduction). Convergence assessment and burn-in selection.
+
+* **Variational Inference.** Variational approximation to intractable posteriors via evidence lower bound (ELBO) optimisation. Mean-field approximations for scalable inference. Hierarchical variational models (alpha-divergence, implicit models). Inverse autoregressive flows for flexible posterior approximations. Comparison with MCMC (accuracy-speed tradeoffs).
+
+* **Posterior Predictive Checks.** Predictive performance assessment by simulating data under posterior. Test statistics sensitive to model violations. Comparison of observed to replicated data to detect model misspecification. Graphical posterior predictive checks for comprehensive diagnostics.
+
+* **Bootstrap & Resampling Methods.** Nonparametric bootstrap for distribution-free inference. Percentile intervals, bias-corrected accelerated (BCa) intervals. Stratified and clustered bootstrap for complex data structures. Subsampling and m-out-of-n bootstrap for theoretical validity. Bootstrap hypothesis testing and permutation tests.
+
+* **Conformal Prediction.** Distribution-free prediction intervals with coverage guarantees. Split conformal inference maintaining validity on held-out data. Mondrian conformal prediction stratified by auxiliary variables. Quantile regression combined with conformal methods. Applications to algorithmic decision-making and policy analysis.
+
+* **False Discovery Rate Control.** Multiple testing correction while controlling false discovery rate. Benjamini-Hochberg procedure for dependent test statistics. Adaptive FDR control exploiting properties of data. Application to high-dimensional testing (genetic data, microarray analysis). Power-FDR tradeoffs in multiple testing decision-making.
 
 **Decomposition Methods**
 * Oaxaca-Blinder Decomposition
@@ -2014,32 +2213,57 @@ Gradient boosting, deep state-space models, conformal prediction, quantile regre
 
 ### Machine Learning Specializations
 
-**Deep Learning Architectures**
-* Convolutional Neural Networks (CNNs): Image classification, segmentation, detection
-* Recurrent Networks: LSTMs, GRUs, sequence-to-sequence models
-* Transformer Networks: Self-attention, multi-head attention, positional encoding
-* Vision Transformers: Image classification on transformers
-* Graph Neural Networks: GCN, GraphSAGE, R-GCN, HGT
-* Diffusion Models: Score-based generative models
-* Generative Adversarial Networks: GAN architectures, training
-* Autoencoders: Standard, variational (VAE), sparse autoencoders
-* Normalising Flows: Invertible models, density estimation
+**Deep Learning Architectures & Computational Graphs**
 
-**Classical Machine Learning**
-* Supervised Learning: Linear/Logistic Regression, SVMs, Decision Trees
-* Ensemble Methods: Random Forests, Gradient Boosting (XGBoost, LightGBM), AdaBoost
-* Unsupervised Learning: K-Means, Hierarchical Clustering, DBSCAN, Isolation Forest
-* Semi-Supervised Learning: Self-training, co-training, pseudo-labeling
-* Representation Learning: Autoencoders, embeddings
+* **Convolutional Neural Networks.** Convolutional operation (filter slides, pooling). LeNet, AlexNet, VGG, ResNet architectures. Batch normalisation for training stability. Activation functions (ReLU, variants). Transfer learning from pre-trained models. Fine-tuning strategies and feature extraction. Image classification, semantic segmentation (FCN, U-Net), object detection (YOLO, R-CNN family). Receptive field analysis and interpretability.
 
-**Reinforcement Learning**
-* Markov Decision Processes
-* Value-Based Methods: Q-Learning, DQN
-* Policy-Gradient Methods: Policy Gradient, Actor-Critic, PPO, A3C
-* Soft Actor-Critic (SAC)
-* Multi-Agent Reinforcement Learning (MARL)
-* Inverse Reinforcement Learning
-* Imitation Learning & Behavioural Cloning
+* **Recurrent Networks & Sequence Models.** Recurrent neural networks (RNNs) for sequential data. Vanishing/exploding gradient problems. Long Short-Term Memory (LSTM) with gating mechanisms (input, forget, output gates). Gated Recurrent Units (GRU) for computational efficiency. Bidirectional RNNs for context from both directions. Sequence-to-sequence models with encoder-decoder architecture. Applications to machine translation, time-series forecasting, language modelling.
+
+* **Transformer Networks & Attention Mechanisms.** Self-attention mechanism enabling parallel computation. Multi-head attention for diverse representational subspaces. Positional encoding for sequence position information. Transformer encoder-decoder architecture. BERT and GPT families for pre-training. Vision Transformers (ViT) applying transformers to image patches. Efficient attention variants (linear attention, sparse attention) for computational scaling.
+
+* **Graph Neural Networks.** Message-passing framework and neighbourhood aggregation. Graph Convolutional Networks (GCN) with spectral and spatial formulations. GraphSAGE with adaptive sampling. Relational GCN (R-GCN) for heterogeneous graphs. Heterogeneous Graph Transformer (HGT) for typed multi-relation graphs. Applications to node classification, link prediction, graph classification. Scalability to large graphs and mini-batch training.
+
+* **Generative Models.** Variational Autoencoders (VAE) combining reconstruction and KL divergence terms. Generative Adversarial Networks (GAN) with generator-discriminator training. Diffusion models (score-based, denoising probabilistic) for high-quality generation. Flow-based models with invertible transformations. Likelihood-free inference and variational approximations. Applications to image generation, data augmentation, and synthetic data generation.
+
+* **Normalising Flows.** Invertible neural networks mapping simple base distributions to complex target distributions. Autoregressive flows, coupling layers, continuous normalising flows. Neural ODE and adjoint method for flow parameterisation. Density estimation and variational inference with explicit likelihood. Sampling efficiency and computation-likelihood tradeoffs.
+
+* **Attention & Interpretability.** Attention weight visualisation for model interpretability. Gradient-based saliency maps and activation maximisation. Feature visualisation understanding neuron receptive fields. SHAP (Shapley Additive exPlanations) for model-agnostic interpretability. Attention rollout for vision-language models. Probing classifiers assessing learned representations.
+
+**Classical Machine Learning & Supervised Learning**
+
+* **Linear & Logistic Regression.** Ordinary least squares with closed-form solutions. Ridge regression (L2 regularisation) and Lasso (L1 regularisation) for feature selection. Elastic net combining L1 and L2 penalties. Quantile regression for distributional analysis. Logistic regression for binary classification with probability calibration. Multinomial regression for multi-class problems. Marginal effects and interpretation in nonlinear models.
+
+* **Support Vector Machines.** Linear and kernel SVM for classification and regression. Kernel selection (linear, polynomial, RBF, custom kernels). Soft-margin formulation with regularisation parameter tuning. One-class SVM for novelty detection and anomaly identification. Support vector regression for continuous outcomes. Interpretation of support vectors and decision boundaries.
+
+* **Decision Trees & Rule-Based Models.** CART (Classification and Regression Trees) algorithm. Stopping criteria (minimum samples, minimum impurity decrease). Pruning strategies to avoid overfitting. Surrogate splits for handling missing data. Tree interpretability and decision path analysis. Comparison of different splitting criteria (Gini, entropy, variance reduction).
+
+* **Ensemble Methods.** Random Forests combining multiple decision trees with bootstrap aggregation. Feature importance from variable selection frequency. Out-of-bag error estimation for unbiased performance assessment. Extremely Randomized Trees for computational efficiency. Gradient Boosting (sequential ensemble) with staged predictions. XGBoost and LightGBM implementations with GPU acceleration. AdaBoost for iterative error correction. Ensemble diversity and combination strategies.
+
+**Unsupervised Learning & Representation**
+
+* **Clustering Algorithms.** K-means with initialisation strategies (k-means++) and convergence diagnosis. Hierarchical clustering with various linkage criteria (single, complete, average, Ward). DBSCAN for density-based clustering. Gaussian mixture models with expectation-maximisation. Soft versus hard clustering decisions. Cluster validation metrics (silhouette, Davies-Bouldin, Dunn index).
+
+* **Dimensionality Reduction.** Principal component analysis (PCA) for variance maximisation and interpretability. Kernel PCA for nonlinear dimensionality reduction. t-SNE and UMAP for visualisation. Manifold learning assumptions and preservation of local/global structure. Information loss from dimensionality reduction and reconstruction analysis.
+
+* **Representation Learning.** Autoencoders (fully-connected, convolutional) learning compressed representations. Variational autoencoders (VAE) for generative modelling and latent variable models. Deep autoencoders for hierarchical feature learning. Sparse autoencoders for interpretability. Metric learning for similarity-based representations.
+
+* **Semi-Supervised Learning.** Self-training with model confidence thresholds. Co-training with complementary feature sets. Pseudo-labelling for unlabeled data. Consistency regularisation (mixup, cutout). Ladder networks combining supervised and unsupervised objectives.
+
+**Reinforcement Learning & Sequential Decision Making**
+
+* **Markov Decision Processes & Value Functions.** MDP formulation with states, actions, transitions, and rewards. Value function (state-value, action-value) properties and Bellman equations. Optimal policy characterisation. Discounting and infinite-horizon problems. Value iteration and policy iteration algorithms with convergence guarantees.
+
+* **Value-Based Methods.** Q-learning for off-policy learning with function approximation. Deep Q-Networks (DQN) with experience replay and target networks for stable learning. Double DQN addressing overestimation bias. Dueling DQN separating state-value and advantage components. Noisy networks for exploration. Distributed prioritised experience replay.
+
+* **Policy-Gradient Methods.** Policy gradient theorem and REINFORCE algorithm. Actor-critic methods combining policy-gradient and value-function learning. Advantage function estimation for variance reduction. Asynchronous Advantage Actor-Critic (A3C) for distributed training. Trust region methods (TRPO, PPO) for stable policy updates. Proximal policy optimisation (PPO) with clipped surrogate objective.
+
+* **Soft Actor-Critic & Entropy Regularisation.** Maximum entropy framework combining reward maximisation with policy entropy. Soft Bellman equations with temperature parameter. Automatic temperature tuning (SAC with adaptive alpha). Applications to exploration-exploitation and stability. SAC-off-policy learning for sample efficiency.
+
+* **Multi-Agent Reinforcement Learning.** Independent learners and fully-cooperative settings. Value decomposition networks (QMIX) factorising joint value functions. Communication protocols in cooperative MARL. Competitive games and Nash equilibrium learning. Scalability to large agent populations. Applications to resource allocation and fleet coordination.
+
+* **Inverse Reinforcement Learning.** Reward inference from expert demonstrations. Maximum entropy IRL framework. Apprenticeship learning combining trajectory matching with imitation. Generative adversarial imitation learning (GAIL) without explicit reward specification.
+
+* **Imitation Learning.** Behavioural cloning (supervised learning from demonstrations). Dataset aggregation (DAgger) addressing distribution shift. GAIL combining imitation with adversarial training. One-shot imitation learning and meta-learning for rapid adaptation. Third-person imitation and visual domain adaptation.
 
 **Evaluation & Validation**
 * Cross-Validation (k-fold, time-series, stratified)
@@ -2052,73 +2276,95 @@ Gradient boosting, deep state-space models, conformal prediction, quantile regre
 
 ### Domain Expertise
 
-**Public Finance & Policy Evaluation**
-* Tax system design and simulation
-* Transfer programme analysis
-* Incidence analysis
-* Tax avoidance detection
-* Revenue estimation
-* Welfare impact assessment
-* Policy counterfactual simulation
-* Inequality measurement
+**Public Finance, Taxation & Policy Evaluation**
 
-**Labour Economics**
-* Wage dynamics and inequality
-* Intergenerational mobility
-* Labour-supply estimation
-* Human capital accumulation
-* Migration analysis
-* Unemployment insurance design
-* Active labour-market policies
+* **Tax System Modelling & Simulation.** Complete Swedish tax-benefit system parameterisation including: income tax (state, municipal, church), earned-income tax credit (jobbskatteavdrag), basic deduction (grundavdrag), pension deductions, 3:12 dividend rules for closely-held firms, surtax (statlig inkomstskatt) thresholds. Household-level microsimulation under static and behavioural frameworks. Marginal effective tax rate (METR) computation and visualisation. Tax progressivity measurement (Kakwani, Suits indices). Revenue projections under hypothetical reform scenarios.
 
-**Biomedical & Healthcare**
-* Clinical data analysis
-* Medical imaging (especially MRI, CT)
-* Genomics and NGS analysis
-* Proteomics and mass spectrometry
-* Electronic health records
-* Clinical trial design
-* Drug safety monitoring
-* Precision medicine
+* **Transfer Programme Analysis.** Comprehensive coverage of Swedish welfare transfers: housing allowances (bostadsbidrag, bostadstillägg), child allowances (barnbidrag), parental insurance (föräldrapenning), sickness benefits (sjukpenning), social assistance (försörjningsstöd), study aid (CSN). Programme eligibility determination from administrative rules. Benefit takeup analysis distinguishing information barriers, stigma, and administrative costs. Labour supply effects at intensive (hours conditional on work) and extensive (participation) margins. Lifetime transfer distribution and lifetime net benefit estimation.
 
-**Environmental & Climate**
-* Climate data analysis
-* Urban planning analytics
-* Disaster risk assessment
-* Renewable energy modelling
-* Carbon accounting
-* Sustainable development metrics
+* **Incidence Analysis.** Distribution of tax burden and benefit receipt across income distribution. Equivalised household income concepts and adult equivalence scales. Distributional accounting tracing who bears tax incidence (statutory versus economic incidence). General equilibrium considerations and factor market adjustments. Temporal incidence over lifecycle and across generations (intergenerational incidence).
 
-**International Relations & Governance**
-* Multilateral policy coordination
-* Treaty compliance monitoring
-* Security and defence analysis
-* UN processes and mechanisms
-* EU governance frameworks
-* OSCE conventions
-* Nordic cooperation structures
+* **Tax Avoidance & Compliance.** Detection of aggressive tax planning using administrative data. Corporate profit-shifting patterns in ownership networks. Transfer pricing analysis within multinational groups. Income-shifting responses to tax incentives (e.g., labour-to-capital reclassification). Bunching analysis identifying behavioural responses at eligibility thresholds and tax brackets. Revenue loss estimation from identified avoidance patterns.
 
-**Machine Learning in Production**
-* Model deployment strategies
-* MLOps best practices
-* A/B testing frameworks
-* Feature engineering pipelines
-* Data drift monitoring
-* Model versioning
-* Explainability & interpretability
-* Privacy-preserving ML (federated learning, differential privacy)
+* **Distributional Reform Analysis.** Quantifying inequality and welfare consequences of tax-transfer reforms. Static (no behavioural response) and behavioural microsimulation. Elasticity parameterisation from quasi-experimental variation. Welfare aggregation using social welfare functions. Pareto-efficiency assessment and redistribution-efficiency tradeoffs. Equity-efficiency frontier construction for policy optimisation.
+
+**Labour Economics, Wages & Intergenerational Mobility**
+
+* **Wage Inequality & Decomposition.** Two-way fixed effects models decomposing earnings variance into worker, firm, and match components. Assortative matching quantification. Worker-firm sorting and wages variation. Wage trend decomposition into composition (worker/firm characteristics) and returns (price) changes. Recentred-influence-function regression for quantile-specific inequality. Occupational wage premiums and structural change contributions.
+
+* **Intergenerational Economic Mobility.** Rank-rank regression estimating intergenerational elasticity of income. Transition matrices measuring mobility across income deciles. Lifetime income measurement addressing lifecycle bias and measurement error. Multi-generational analysis (grandparent-grandchild correlation). Sibling correlations quantifying family effects. Decomposition of mobility into education, labour market, and inherited wealth channels.
+
+* **Labour Supply Estimation.** Structural labour supply models with discrete choice (participation, hours). Elasticity of labour supply to wages (compensated and uncompensated). Intertemporal substitution (life-cycle labour supply). Household bargaining models in family settings. Bunching estimation around tax-benefit kinks. Incidence analysis of labour taxes and transfers.
+
+* **Human Capital & Skill Premia.** Returns to education (Mincer equation and IV estimation). Skill-biased technological change measuring wage premium evolution. Comparative advantage and worker sorting on skills. Field of study returns and occupational choice. Training programme evaluation and treatment effect heterogeneity.
+
+* **Labour Market Dynamics.** Worker flows between employment, unemployment, and inactivity. Job creation and destruction. Worker reallocation and productivity. Duration in unemployment and job search models. Wage growth decomposition into worker growth and job changes. Occupational mobility and career progression.
+
+* **Social Insurance Design.** Unemployment insurance replacement rate, duration, and eligibility. Moral hazard and adverse selection in social insurance. Income-smoothing and consumption-smoothing functions. Work incentives and labour supply responses. Optimal insurance design balancing income protection and work incentives. International comparisons of insurance adequacy.
+
+**Biomedical Informatics, Healthcare & Precision Medicine**
+
+* **Clinical Data Analysis.** Electronic health record (EHR) processing and integration. Clinical phenotyping from unstructured notes. Time-to-event analysis (survival analysis) with censoring. Patient stratification and risk prediction models. Temporal pattern discovery in clinical trajectories. Missing data handling in clinical contexts (MCAR/MAR assumptions).
+
+* **Medical Imaging Analysis.** Structural magnetic resonance imaging (MRI) analysis including T1/T2-weighted sequences. Computed tomography (CT) image processing. Segmentation and registration techniques. Radiomics feature extraction from imaging. Deep learning for automated image interpretation (U-Net for segmentation, CNN for classification). Explainability in medical imaging (Grad-CAM, attention visualisation).
+
+* **Genomics & Variant Analysis.** Next-generation sequencing (NGS) analysis pipelines. Whole-exome (WES) and whole-genome sequencing (WGS). Variant calling and quality filtering. Annotation with databases (ClinVar, gnomAD, COSMIC). Functional prediction (in-silico tools). Copy number variation (CNV) detection. Polygenic risk score construction. GWAS (genome-wide association study) interpretation.
+
+* **Proteomics & Mass Spectrometry.** LC-MS/MS (liquid chromatography-tandem mass spectrometry) data analysis. Peptide identification and protein quantification. Differential abundance testing (limma, MSstats). Missing value imputation in proteomics. Normalisation and batch effect correction. Pathway and functional enrichment analysis.
+
+* **Federated Learning for Healthcare.** Privacy-preserving collaborative model training across multiple institutions. Differential privacy mechanisms. Secure aggregation protocols. Local differential privacy. Heterogeneous data distribution handling. Communication-efficient algorithms. Clinical validation across federation. Regulatory compliance (GDPR, HIPAA).
+
+* **Clinical Trial Design & Analysis.** Randomisation and blinding procedures. Sample size calculation and power analysis. Intent-to-treat versus per-protocol analysis. Missing data handling under MCAR/MAR. Subgroup analysis and heterogeneous treatment effects. Multiplicity correction and interim analysis. Bayesian adaptive trials and response-adaptive randomisation.
+
+**Computational Infrastructure, DevOps & Systems**
+
+* **High-Performance Computing.** GPU acceleration (CUDA, cuDNN) for deep learning. Distributed training across multiple GPUs/nodes. Profiling and optimisation (memory, compute). Mixed precision training (FP16/FP32). Quantisation and pruning for model compression. JAX automatic differentiation and compilation. PyTorch distributed data parallel and distributed training.
+
+* **Cloud Infrastructure.** AWS (EC2, S3, Lambda, RDS, SageMaker). Google Cloud (Compute Engine, BigQuery, Vertex AI). Azure (Virtual Machines, Databricks). Containerisation with Docker. Kubernetes orchestration and scaling. Infrastructure-as-code (Terraform, CloudFormation). Cost optimisation and resource monitoring.
+
+* **MLOps & Production Systems.** Model versioning and registry (MLflow). Experiment tracking and hyperparameter management. Automated retraining pipelines. Model monitoring and data drift detection. A/B testing frameworks for model deployment. Feature stores for feature management. Model governance and regulatory compliance.
+
+**International Relations, Governance & Policy**
+
+* **Multilateral Governance.** UN processes and committee structures. EU decision-making mechanisms. OSCE conventions and compliance monitoring. Nordic cooperation frameworks. Treaty negotiation and compliance assessment. Diplomatic reporting and correspondence. Parliamentary committee procedures.
+
+* **Policy Coordination.** Cross-border policy harmonisation. Regulatory alignment and mutual recognition. Best-practice benchmarking across jurisdictions. Comparative policy analysis. Legislative process support and drafting. Stakeholder consultation and engagement.
+
+* **Security & Defence.** Defence posture assessment and NATO interoperability. Air operations and tactical doctrine. Military technology evaluation. Conflict analysis and geopolitical assessment. Strategic studies and scenario analysis. Arms control and verification mechanisms.
+
+**Machine Learning in Production & Operations**
+
+* **Model Deployment Architecture.** Blue-green deployment strategies for zero-downtime updates. Canary deployments limiting blast radius of problematic models. Shadow deployment for offline model evaluation against production traffic. Container orchestration (Kubernetes) for scalable deployment. API-based model serving (TensorFlow Serving, KServe). Batch prediction pipelines for offline scoring. Real-time inference with latency requirements.
+
+* **MLOps & Model Lifecycle Management.** Experiment tracking and metadata management (MLflow). Model registry maintaining versioned artefacts. Automated model retraining on schedule or trigger. Feature store architecture for consistent feature definition. Model monitoring dashboards tracking performance metrics. Alert systems for performance degradation. Model rollback procedures for rapid remediation. Governance tracking model lineage and ownership.
+
+* **A/B Testing & Online Evaluation.** Randomised controlled experiments for model comparison. Statistical power calculation and sample size determination. Multiple testing correction. Heterogeneous treatment effects by user segment. Switchback designs for time-series data. Quasi-experiment designs when randomisation unavailable (propensity score matching, interrupted time-series). Novelty effect and learning curve accounting.
+
+* **Feature Engineering & Feature Management.** Domain-knowledge feature design. Automated feature discovery via statistical tests. Feature importance ranking (permutation, SHAP). Multicollinearity diagnosis. Categorical encoding strategies (one-hot, target encoding). Temporal feature engineering for time-series. Feature normalisation and scaling. Feature store centralisation ensuring training-serving consistency. Feature leakage prevention and temporal validity.
+
+* **Data Quality & Drift Monitoring.** Data quality monitoring (missing values, outliers, distribution shift). Statistical tests for distribution change (Kolmogorov-Smirnov, Wasserstein). Feature drift detection and alerting. Label drift in supervised settings. Concept drift and temporal trends. Automated retraining triggering on drift detection. Ground truth collection and feedback loops. Data quality incident response procedures.
+
+* **Model Versioning & Reproducibility.** Model checkpointing during training. Version control of model architecture and hyperparameters. Dependency tracking (PyTorch version, CUDA version, etc.). Reproducible model evaluation against held-out test sets. Model comparison and benchmarking across versions. Reproducibility testing on different hardware (GPU, CPU) and operating systems.
+
+* **Explainability & Interpretability.** SHAP (SHapley Additive exPlanations) for model-agnostic feature importance. LIME (Local Interpretable Model-agnostic Explanations) for local explanations. Permutation feature importance for global explanations. Partial dependence plots for feature-outcome relationships. Individual conditional expectation (ICE) plots. Saliency maps for neural networks (gradient, guided backpropagation). Attention weight visualisation. Bias detection and fairness assessment across demographic groups.
+
+* **Privacy-Preserving Machine Learning.** Federated learning enabling model training without centralised data. Differential privacy mechanisms (Laplace, Gaussian mechanisms). Local differential privacy for client-side computation. Secure aggregation protocols. Homomorphic encryption for encrypted computation. Data minimisation and privacy-by-design. Synthetic data generation via generative models (diffusion, VAE, GAN). Privacy impact assessment and compliance documentation (GDPR, HIPAA).
 
 ### Research & Methodological Practices
 
-**Research Design & Execution**
-* Experimental design (RCTs, field experiments)
-* Quasi-experimental design (RDD, DID, IV)
-* Observational study design
-* Pre-registration and pre-analysis plans
-* Protocol documentation
-* Reproducible research workflows
-* Open science practices
-* Data management plans
+**Research Design & Causal Inference Architecture**
+
+* **Experimental Design (RCTs & Field Experiments).** Randomised controlled trial design with randomisation mechanisms (block randomisation, stratification). Power analysis and sample size determination. Treatment effect heterogeneity pre-specification. Intention-to-treat versus per-protocol analysis. Attrition and non-compliance handling. Compliance assessment and LATE estimation under IV assumptions. Field experiment logistics and cost-effectiveness analysis.
+
+* **Quasi-Experimental Design.** Regression discontinuity design around eligibility thresholds. Difference-in-differences estimation with staggered treatment adoption. Synthetic control methods constructing counterfactual units. Instrumental variable specifications with relevance and exogeneity checks. Bunching analysis detecting behavioural responses to policy discontinuities. Sensitivity analysis quantifying robustness to assumption violations.
+
+* **Observational Study Design.** Causal inference from observational data under confounding. Confounder identification and backdoor criterion. Matching methods (nearest neighbour, caliper, covariate balance). Propensity score methods (weighting, stratification, matching, regression adjustment). Multiple imputation for missing data under MCAR/MAR assumptions. Directed acyclic graphs (DAGs) for confounder selection.
+
+* **Pre-Registration & Analysis Plans.** Pre-registration on OSF (Open Science Framework) before analysis commencing. Detailed specification of: (1) hypotheses and estimands, (2) sample definition, (3) variable construction, (4) statistical models, (5) sensitivity analyses, (6) exclusion criteria. Distinction between confirmatory and exploratory analyses. Protocol adherence and deviation documentation. Registered report format for journal submission.
+
+* **Computational Reproducibility.** Version control (Git) for all code and documentation. Seeded random number generation for deterministic simulation results. Dependency specification (requirements.txt, environment.yml, renv.lock) enabling exact environment replication. Makefile or snakemake workflows documenting analysis pipeline. Docker containerisation for cross-platform reproducibility. Continuous integration testing ensuring code functionality.
+
+* **Open Science Practices.** Code and data availability on GitHub/OSF under open licenses. Pre-print publication on arXiv prior to journal submission. Open peer review participation. Replication studies and negative result publication. Transparent reporting of all findings (not cherry-picking). Acknowledgment of limitations and failure cases. Community feedback incorporation.
 
 **Statistical Reporting**
 * Publication-ready tables and figures
@@ -2144,19 +2390,35 @@ Gradient boosting, deep state-space models, conformal prediction, quantile regre
 
 ### PhD Studies (In Progress)
 **Doctor of Philosophy -- Systems and Molecular Biomedicine**  
-*University of Luxembourg (LCSB & DHML)* | Feb 2025 -- Jan 2028  
-FNR AFR Fellowship '25 | Guillaume Dupaix Award
+*University of Luxembourg, Luxembourg Centre for Systems Biomedicine (LCSB) & Disease Hypothesis Modelling Lab (DHML)* | Feb 2025 -- Jan 2028  
+**Funding:** FNR AFR (Fonds National de la Recherche Luxembourg -- Aide à la Formation-Recherche) Fellowship 2025  
+**Distinction:** Guillaume Dupaix Award (competitive award recognising research excellence)
 
-*Thesis Title:* "Computational Models of Cellular Signaling for Predictive Biomedicine"
+**Doctoral Thesis Title:** "Computational Models of Cellular Signaling for Predictive Biomedicine: Integrating Multi-Omics Data for Patient Stratification and Therapeutic Target Identification"
 
-*Research Focus*
-* Multi-omics data integration across 1200+ patient samples
-* Signaling network modelling (140+ nodes, 350+ parameters)
-* Flux-balance analysis (2500+ metabolic reactions)
-* Gene expression prediction (22000+ gene profiles)
-* ML algorithm development (0.88 AUC-ROC accuracy)
-* Automated data-normalization pipelines
-* Clinical hypothesis translation
+**Research Programme Overview**
+
+The research programme develops computational systems biology approaches for precision medicine applications, integrating genomic, proteomic, transcriptomic, and imaging data to construct predictive models of patient disease phenotypes and treatment response.
+
+**Technical Research Foci**
+
+* **Multi-Omics Data Integration.** Developing methods for integrating high-dimensional data across multiple biological modalities (genomics, transcriptomics, proteomics, metabolomics). Working with 1200+ patient-derived samples with complete molecular profiles. Addressing technical challenges including cross-platform batch effects, missing data patterns, and feature heterogeneity. Implementing canonical correlation analysis (CCA), multiple factor analysis (MFA), and deep multi-view learning frameworks.
+
+* **Cellular Signalling Network Modelling.** Constructing mechanistic models of cell signalling pathways as directed graphs. Integrating literature-curated pathway databases with patient-specific mutation data. Parameterisation via literature mining, perturbation experiments, and Bayesian inference. Network containing 140+ molecular nodes (proteins, genes, metabolites) and 350+ biochemical interactions. Boolean network and ordinary differential equation (ODE) models for pathway dynamics.
+
+* **Metabolic Network Analysis.** Constraint-based flux balance analysis (FBA) of human metabolism. Genome-scale metabolic models encompassing 2500+ biochemical reactions. Integration of patient-specific metabolomic data for model personalisation. Flux variability analysis and pathway essentiality assessment. Metabolic reprogramming in disease contexts (cancer, diabetes).
+
+* **Gene Expression Prediction.** Supervised learning models predicting genome-wide gene expression (22000+ genes) from genomic and pathway features. Deep learning architectures (neural networks, graph neural networks) on gene regulatory networks. Cross-validated predictive accuracy (0.88 AUC-ROC). Expression quantitative trait loci (eQTL) analysis identifying genetic drivers. Regulatory element importance and pathway-level predictions.
+
+* **Machine Learning Innovation.** Developing novel machine learning methodologies for systems biology applications. Explainable AI methods providing mechanistic interpretability (attention weights, saliency maps). Bayesian approaches for uncertainty quantification and small-sample inference. Graph neural networks on biological networks. Transfer learning from public datasets to patient cohorts.
+
+* **Data Quality & Preprocessing.** Designing automated data-normalisation pipelines handling cross-platform technical variation. Batch effect correction (ComBat, SVA, RUVSeq). Quality control metrics and outlier detection. Missing value imputation preserving biological structure. Dimensionality reduction (PCA, VAE) for exploratory analysis.
+
+* **Clinical Hypothesis Translation.** Translating computational findings into testable clinical hypotheses. Patient stratification based on predicted molecular phenotypes. Treatment response prediction enabling precision medicine. Biomarker discovery and validation. Mechanistic hypothesis generation from network models. Collaboration with clinical teams on hypothesis testing.
+
+**Thesis Contributions**
+
+The doctoral thesis integrates these components into unified framework enabling: (1) patient phenotyping from multi-omics data, (2) mechanistic disease model specification, (3) treatment response prediction, (4) therapeutic target identification, and (5) precision medicine application. Full technical documentation and code released publicly upon completion.
 
 ### Master's Degree
 **Master of Science -- Statistics and Machine Learning**  
@@ -2353,7 +2615,93 @@ All repositories include:
 ## Contact & Connect
 
 **Location:** Stockholm, Sweden  
-**Email:** Available upon request  
-**LinkedIn:** [@Gustav Olaf Yunus Laitinen-Fredriksson Lundström Imanov](https://www.linkedin.com/in/olaflaitinen)  
-**GitHub:** [@olaflaitinen](https://github.com/olaflaitinen)  
-**Personal Website:** Available upon request
+**Primary Email:** olaf.laitinen@su.se  
+**Secondary Emails:** olaf.laitinen@liu.se | yunus.imanov@metropolia.fi  
+**ORCID:** [0009-0006-5184-0810](https://orcid.org/0009-0006-5184-0810)  
+**LinkedIn:** [Gustav Olaf Yunus Laitinen-Fredriksson Lundström Imanov](https://www.linkedin.com/in/olaflaitinen)  
+**GitHub:** [@olaflaitinen](https://github.com/olaflaitinen)
+
+---
+
+## Specialized Applications & Case Studies
+
+### Policy Evaluation & Fiscal Analysis
+
+**Tax Reform Impact Assessment.** Comprehensive evaluation frameworks quantifying distributional, revenue, and behavioural consequences of tax policy changes. Applications include: (1) earned-income tax credit (jobbskatteavdrag) expansions and labour supply responses, (2) corporate tax interest-deduction limitations and profit-shifting changes, (3) wealth tax elimination and asset allocation effects, (4) individual holding company (3:12) dividend rules and income reclassification. Methodological approaches combine causal inference (difference-in-differences, synthetic control) with behavioural microsimulation. Outputs include revenue projections, inequality impacts, and deadweight loss estimation.
+
+**Welfare Programme Incidence.** Detailed analysis of Swedish welfare transfer programmes measuring: take-up rates across eligible populations, labour supply responses at intensive and extensive margins, long-term income consequences, and lifetime distributional effects. Programmes analysed include unemployment insurance, housing allowances, child benefits, parental insurance, sickness benefits, and social assistance. Analysis addresses behavioural responses (job search, human capital investment, household formation) and institutional barriers (information, stigma, administrative complexity).
+
+**Intergenerational Mobility Analysis.** Multi-generational register analysis tracing income and wealth trajectories across family lineages. Rank-rank regression estimating intergenerational elasticity. Transition matrices measuring income mobility across deciles. Decomposition analysis isolating education, labour market, and inheritance contributions. Mechanisms research identifying causal drivers of mobility using quasi-experimental variation (school reform timing, regional policy variation).
+
+### Healthcare & Biomedical Applications
+
+**Federated Learning for Clinical Data.** Privacy-preserving collaborative model training across hospital networks without centralised data sharing. Applications to: (1) diagnostic model development on patient cohorts spanning multiple institutions, (2) treatment response prediction with heterogeneous populations, (3) adverse event detection from electronic health records. Technical implementation emphasizes differential privacy, secure aggregation, and statistical validity under heterogeneous data distributions.
+
+**Multi-Omics Integration & Patient Stratification.** Patient phenotyping from integrated genomic, transcriptomic, proteomic, and imaging data. Computational methods include: graph neural networks on molecular interaction networks, probabilistic graphical models for conditional independence structure, deep learning for representation learning. Applications: cancer patient subtyping for treatment selection, disease progression risk prediction, biomarker discovery for clinical validation.
+
+**Medical Image Analysis.** Deep learning for automated medical image interpretation (segmentation, classification, detection). Applications include: (1) structural brain abnormality detection in MRI, (2) lung nodule characterisation in CT, (3) cancer lesion segmentation. Emphasis on uncertainty quantification and explainability (Grad-CAM, attention visualisation) for clinical trust. Validation on independent test sets and clinical decision support integration.
+
+### Security & Intelligence Applications
+
+**Threat Detection & Anomaly Identification.** Unsupervised and semi-supervised machine learning for threat signal detection in unstructured intelligence data. Methods include: isolation forests for novelty detection, graph neural networks for relational network analysis, sequence models for temporal pattern discovery. Applications to cybersecurity (intrusion detection), financial crime (fraud detection), security intelligence (threat pattern identification). Emphasis on false-positive control (conformal prediction) to manage analyst workload.
+
+**Secure Computation & Air-Gapped Environments.** Development and deployment of machine learning systems operating under extreme security constraints (offline, air-gapped, classified environments). Technical approaches include: pre-trained model deployment with local inference, reduced-bandwidth updates, quantisation for memory constraints. MLOps adaptation for offline environments (manual versioning, restricted logging).
+
+### Environmental & Urban Applications
+
+**Climate Risk Assessment & Disaster Prediction.** Spatiotemporal deep learning models (convolutional LSTM, attention mechanisms) for weather-driven disaster risk prediction (flooding, wildfires). Integration of climate projections with urban vulnerability data. Community-level disaster risk assessment and early warning systems. Uncertainty quantification through ensemble methods and probabilistic forecasting.
+
+**Urban Planning & Housing Accessibility.** Spatial analysis of affordable housing availability. Multi-objective optimisation for housing site selection under regulatory constraints. Spatio-temporal models for gentrification risk and housing stability prediction. Urban growth models and infrastructure planning support.
+
+---
+
+## Computational Resources & Infrastructure
+
+### Secure Data Access & Governance
+
+Access to Swedish administrative registers through Statistics Sweden (Statistiska Centralbyrån, SCB) secure MONA partition. Compliant analysis procedures under strict data governance. Microdata access agreements with embedded security and confidentiality requirements. Output checking procedures preventing disclosure of sensitive information. Data destruction protocols upon project completion.
+
+### Research Computing Environment
+
+**Primary Development Environment:** Ubuntu 24.04 LTS with GPU support (NVIDIA CUDA 12+, cuDNN)  
+**Version Control:** Git with GitHub hosting  
+**Package Management:** Conda/Mamba for Python, Cargo for Rust, Apt for system packages  
+**Containerisation:** Docker with DockerHub registry, Singularity for HPC systems  
+**Distributed Computing:** Ray, Dask, Spark for parallel computation  
+**High-Performance Libraries:** JAX, NumPy, SciPy, Intel MKL optimisation  
+**Development Tools:** VS Code with comprehensive extensions, JupyterLab for interactive analysis  
+**Documentation:** Quarto for literate programming, MkDocs for technical documentation  
+**Citation Management:** Zotero with BibTeX export
+
+### Research Outputs & Dissemination
+
+**Pre-print Publishing:** arXiv and OSF Preprints  
+**Data Repositories:** Zenodo for long-term archival, GitHub for code  
+**Publication Venues:** Peer-reviewed journals in economics (Journal of Political Economy, Quarterly Journal of Economics, Journal of Human Resources), computer science (NeurIPS, ICML, ICLR), and interdisciplinary outlets (Nature, Science)  
+**Replication Materials:** Complete code, data, and documentation accompanying all publications  
+**Institutional Repositories:** University of Luxembourg, Linköping University, Stockholm University repositories
+
+---
+
+## Future Research Directions
+
+### Near-Term (12-24 months)
+
+* Expansion of intergenerational mobility analysis to multi-decade longitudinal data incorporating health, education, and employment trajectories
+* Development of causal graph neural network methods for ownership network analysis and tax avoidance detection
+* Federated learning applications to Nordic health registries enabling cross-national clinical research
+* Reinforcement learning for welfare state simulation and optimal policy design
+
+### Medium-Term (2-4 years)
+
+* Large-scale computational biology systems integrating single-cell genomics, spatial transcriptomics, and imaging data
+* Development of foundation models for Swedish administrative data enabling transfer learning
+* Policy evaluation using synthetic control and causal forest methods on high-dimensional register data
+* Integration of natural language processing for policy document analysis and evidence synthesis
+
+### Long-Term Research Agenda
+
+* Scaling privacy-preserving machine learning to multi-institutional research networks
+* Developing explainable AI methods for high-stakes policy decisions
+* International collaboration on comparative public finance and welfare policy research
+* Translational research bridging computational biomedicine with clinical implementation
