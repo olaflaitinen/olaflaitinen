@@ -218,7 +218,7 @@
 
 ---
 
-### `[0x08]` CONFERENCES, PREPRINTS & WORK IN PROGRESS (2026)
+### `[0x08]` CONFERENCES & PREPRINTS (2026)
 
 ```text
 /*
