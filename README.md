@@ -305,60 +305,6 @@
  *  [16] "When Does Cheap Physics Help? Gated Multi-Fidelity Physics-Informed Networks with Provable Sample Savings and Conformal Guarantees."
  *       Laitinen-Imanov, O. Y., Turhan, R. I., Jafarli, I. (2026).
  *       DOI: 10.48550/arXiv.2602.01176   |   URL: https://arxiv.org/abs/2602.01176
- *
- *  ════════════════════════════════════════════════════════════════════════════
- *  [IN PREPARATION]
- *  ════════════════════════════════════════════════════════════════════════════
- *
- *  [17] "Scaling Laws for Test-Time Compute: A Unified Theory of Sequential and Parallel Inference Scaling in Reasoning Models."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [18] "Variance-Reduced Policy Optimization for Reinforcement Learning from Verifiable Rewards with Provable Convergence Guarantees."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [19] "Memory as Inference: A Variational Framework for Persistent Memory Consolidation in Long-Horizon Language Agents."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [20] "Certified Machine Unlearning for Large Language Models via Influence-Bounded Weight-Space Projection."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [21] "Low-Rank Attention Manifolds: Provably Accurate KV-Cache Compression for Long-Context Inference."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [22] "Hybrid State-Space and Attention Architectures with Provable Associative Recall over Unbounded Contexts."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [23] "Optimal Transport Alignment of Reasoning Trajectories for Sample-Efficient Distillation of Large Reasoning Models."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [24] "Asymmetric Federated Reinforcement Learning for Privacy-Preserving Fine-Tuning of Language Agents Across Heterogeneous Clients."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [25] "Symplectic Neural Operators: Structure-Preserving Learning of Stiff Multiscale Hamiltonian Dynamics."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
- *
- *  [26] "Mixed-Precision Iterative Refinement on Low-Precision Tensor Cores: Convergence Theory and Backward Error Bounds."
- *       Manuscript in preparation.
- *       Laitinen-Imanov, O. Y., et al. (2026).
- *       DOI: —   |   URL: —
  */
 ```
 
