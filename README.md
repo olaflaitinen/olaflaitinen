@@ -283,56 +283,64 @@
  *       Laitinen-Imanov, O. Y., Abdullayeva, N. (2026).
  *       DOI: 10.48550/arXiv.2605.21002   |   URL: https://arxiv.org/abs/2605.21002
  *
+ *  [12] "A Transport Geometry of Benign Overfitting."
+ *       Laitinen-Imanov, O. Y., Turhan, R. I., Jafarli, I. (2026).
+ *       DOI: 10.48550/arXiv.2604.08625   |   URL: https://arxiv.org/abs/2604.08625
+ *
+ *  [13] "When Does Cheap Physics Help? Gated Multi-Fidelity Physics-Informed Networks with Provable Sample Savings and Conformal Guarantees."
+ *       Laitinen-Imanov, O. Y., Turhan, R. I., Jafarli, I. (2026).
+ *       DOI: 10.48550/arXiv.2602.01176   |   URL: https://arxiv.org/abs/2602.01176
+ *
  *  ════════════════════════════════════════════════════════════════════════════
  *  [IN PREPARATION]
  *  ════════════════════════════════════════════════════════════════════════════
  *
- *  [12] "Scaling Laws for Test-Time Compute: A Unified Theory of Sequential and Parallel Inference Scaling in Reasoning Models."
+ *  [14] "Scaling Laws for Test-Time Compute: A Unified Theory of Sequential and Parallel Inference Scaling in Reasoning Models."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [13] "Variance-Reduced Policy Optimization for Reinforcement Learning from Verifiable Rewards with Provable Convergence Guarantees."
+ *  [15] "Variance-Reduced Policy Optimization for Reinforcement Learning from Verifiable Rewards with Provable Convergence Guarantees."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [14] "Memory as Inference: A Variational Framework for Persistent Memory Consolidation in Long-Horizon Language Agents."
+ *  [16] "Memory as Inference: A Variational Framework for Persistent Memory Consolidation in Long-Horizon Language Agents."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [15] "Certified Machine Unlearning for Large Language Models via Influence-Bounded Weight-Space Projection."
+ *  [17] "Certified Machine Unlearning for Large Language Models via Influence-Bounded Weight-Space Projection."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [16] "Low-Rank Attention Manifolds: Provably Accurate KV-Cache Compression for Long-Context Inference."
+ *  [18] "Low-Rank Attention Manifolds: Provably Accurate KV-Cache Compression for Long-Context Inference."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [17] "Hybrid State-Space and Attention Architectures with Provable Associative Recall over Unbounded Contexts."
+ *  [19] "Hybrid State-Space and Attention Architectures with Provable Associative Recall over Unbounded Contexts."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [18] "Optimal Transport Alignment of Reasoning Trajectories for Sample-Efficient Distillation of Large Reasoning Models."
+ *  [20] "Optimal Transport Alignment of Reasoning Trajectories for Sample-Efficient Distillation of Large Reasoning Models."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [19] "Asymmetric Federated Reinforcement Learning for Privacy-Preserving Fine-Tuning of Language Agents Across Heterogeneous Clients."
+ *  [21] "Asymmetric Federated Reinforcement Learning for Privacy-Preserving Fine-Tuning of Language Agents Across Heterogeneous Clients."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [20] "Symplectic Neural Operators: Structure-Preserving Learning of Stiff Multiscale Hamiltonian Dynamics."
+ *  [22] "Symplectic Neural Operators: Structure-Preserving Learning of Stiff Multiscale Hamiltonian Dynamics."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [21] "Mixed-Precision Iterative Refinement on Low-Precision Tensor Cores: Convergence Theory and Backward Error Bounds."
+ *  [23] "Mixed-Precision Iterative Refinement on Low-Precision Tensor Cores: Convergence Theory and Backward Error Bounds."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
