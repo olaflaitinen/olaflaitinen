@@ -236,16 +236,31 @@
  *
  *  [02] "Hypotheses, Not Methods: What Machine Unlearning Can Give Back to the Study of Human Unlearning."
  *       3rd International Congress on Data Science and Information Technologies (INFTEC'26).
- *       Laitinen-Imanov, O. Y., et al. (2026).
+ *       Laitinen-Imanov, O. Y., Gunalp, O., Tugrul, A. T., Erisken, D., Turhan, R. I., Turhan, T. C., Pehlivan, S. (2026).
  *       DOI: —   |   URL: —
  *
- *  [03] "EKG Skalograflarının CLIP Tabanlı Sıfır-Atışlı Sınıflandırmada Spektrogramlara Üstünlüğü."
+ *  [03] "From Evidence Sufficiency to Abstention: A Conceptual Framework for Biomedical RAG Decision Support."
+ *       3rd International Congress on Data Science and Information Technologies (INFTEC'26).
+ *       Gunalp, O., Laitinen-Imanov, O. Y., Turhan, R. I., Erisken, D., Turhan, T. C. (2026).
+ *       DOI: —   |   URL: —
+ *
+ *  [04] "Spatiotemporal Transferability of Open-Data Machine Learning Models for Precipitation pH Prediction."
+ *       3rd International Congress on Data Science and Information Technologies (INFTEC'26).
+ *       Tugrul, A. T., Gunalp, O., Erisken, D., Laitinen-Imanov, O. Y., Turhan, R. I., Turhan, T. C. (2026).
+ *       DOI: —   |   URL: —
+ *
+ *  [05] "Beyond Neuronal Plasticity: Microglia as a Bounded Biological Regularization Layer for Long-Term Organoid Intelligence."
+ *       3rd International Congress on Data Science and Information Technologies (INFTEC'26).
+ *       Gunalp, O., Laitinen-Imanov, O. Y., Akyol, A., Turhan, R. I., Erisken, D., Turhan, T. C. (2026).
+ *       DOI: —   |   URL: —
+ *
+ *  [06] "EKG Skalograflarının CLIP Tabanlı Sıfır-Atışlı Sınıflandırmada Spektrogramlara Üstünlüğü."
  *       [The Superiority of ECG Scalograms over Spectrograms in CLIP-Based Zero-Shot Classification]
  *       2026 34th Signal Processing and Communications Applications Conference (SIU), İstanbul, Türkiye, pp. 1–4.
  *       Fidan, M., Kulali, D. U., Laitinen-Imanov, O. Y. (2026).
  *       DOI: 10.1109/SIU71813.2026.11637094   |   URL: https://doi.org/10.1109/SIU71813.2026.11637094
  *
- *  [04] "To Retrieve or to Memorize? Analyzing the Cost-Benefit Tradeoff of Weight-Time vs. Context-Time Memory in Multi-Session Agents."
+ *  [07] "To Retrieve or to Memorize? Analyzing the Cost-Benefit Tradeoff of Weight-Time vs. Context-Time Memory in Multi-Session Agents."
  *       Conference on Language Modeling (COLM 2026).
  *       Workshop: Context Beyond the Window: Persistent Knowledge in Language Models.
  *       Laitinen-Imanov, O. Y., Turhan, R. I. (2026).
@@ -255,39 +270,39 @@
  *  [RESEARCH PREPRINTS]
  *  ════════════════════════════════════════════════════════════════════════════
  *
- *  [05] "Energy-Efficient Neuromorphic Computing for Edge AI: A Framework with Adaptive Spiking Neural Networks and Hardware-Aware Optimization."
+ *  [08] "Energy-Efficient Neuromorphic Computing for Edge AI: A Framework with Adaptive Spiking Neural Networks and Hardware-Aware Optimization."
  *       Laitinen-Imanov, O. Y., Kulali, D. U., Yilmaz, T., Erisken, D., Turhan, R. I. (2026).
  *       DOI: 10.48550/arXiv.2602.02439   |   URL: https://arxiv.org/abs/2602.02439
  *
- *  [06] "Mechanistic Analysis of Catastrophic Forgetting in Large Language Models During Continual Fine-Tuning."
+ *  [09] "Mechanistic Analysis of Catastrophic Forgetting in Large Language Models During Continual Fine-Tuning."
  *       Laitinen-Imanov, O. Y. (2026).
  *       DOI: 10.48550/arXiv.2601.18699   |   URL: https://arxiv.org/abs/2601.18699
  *
- *  [07] "Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility."
+ *  [10] "Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility."
  *       Laitinen-Imanov, O. Y. (2026).
  *       DOI: 10.48550/arXiv.2603.05581   |   URL: https://arxiv.org/abs/2603.05581
  *
- *  [08] "Autonomous AI Agents for Real-Time Affordable Housing Site Selection: Multi-Objective Reinforcement Learning Under Regulatory Constraints."
+ *  [11] "Autonomous AI Agents for Real-Time Affordable Housing Site Selection: Multi-Objective Reinforcement Learning Under Regulatory Constraints."
  *       Laitinen-Imanov, O. Y., Erisken, D., Kulali, D. U., Yilmaz, T., Turhan, R. I. (2026).
  *       DOI: 10.48550/arXiv.2602.03940   |   URL: https://arxiv.org/abs/2602.03940
  *
- *  [09] "Transparency-First Medical Language Models: Datasheets, Model Cards, and End-to-End Data Provenance for Clinical NLP."
+ *  [12] "Transparency-First Medical Language Models: Datasheets, Model Cards, and End-to-End Data Provenance for Clinical NLP."
  *       Laitinen-Imanov, O. Y., Yilmaz, T., Tugrul, A. T., Zaman, M. N., Gunalp, O., et al. (2026).
  *       DOI: 10.48550/arXiv.2601.19191   |   URL: https://arxiv.org/abs/2601.19191
  *
- *  [10] "Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound Plane Classification: A Systematic Review."
+ *  [13] "Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound Plane Classification: A Systematic Review."
  *       Laitinen-Imanov, O. Y., Gunalp, O. (2026).
  *       DOI: 10.48550/arXiv.2601.00990   |   URL: https://arxiv.org/abs/2601.00990
  *
- *  [11] "Verifiable Provenance and Watermarking for Generative AI: An Evidentiary Framework for International Operational Law and Domestic Courts."
+ *  [14] "Verifiable Provenance and Watermarking for Generative AI: An Evidentiary Framework for International Operational Law and Domestic Courts."
  *       Laitinen-Imanov, O. Y., Abdullayeva, N. (2026).
  *       DOI: 10.48550/arXiv.2605.21002   |   URL: https://arxiv.org/abs/2605.21002
  *
- *  [12] "A Transport Geometry of Benign Overfitting."
+ *  [15] "A Transport Geometry of Benign Overfitting."
  *       Laitinen-Imanov, O. Y., Turhan, R. I., Jafarli, I. (2026).
  *       DOI: 10.48550/arXiv.2604.08625   |   URL: https://arxiv.org/abs/2604.08625
  *
- *  [13] "When Does Cheap Physics Help? Gated Multi-Fidelity Physics-Informed Networks with Provable Sample Savings and Conformal Guarantees."
+ *  [16] "When Does Cheap Physics Help? Gated Multi-Fidelity Physics-Informed Networks with Provable Sample Savings and Conformal Guarantees."
  *       Laitinen-Imanov, O. Y., Turhan, R. I., Jafarli, I. (2026).
  *       DOI: 10.48550/arXiv.2602.01176   |   URL: https://arxiv.org/abs/2602.01176
  *
@@ -295,52 +310,52 @@
  *  [IN PREPARATION]
  *  ════════════════════════════════════════════════════════════════════════════
  *
- *  [14] "Scaling Laws for Test-Time Compute: A Unified Theory of Sequential and Parallel Inference Scaling in Reasoning Models."
+ *  [17] "Scaling Laws for Test-Time Compute: A Unified Theory of Sequential and Parallel Inference Scaling in Reasoning Models."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [15] "Variance-Reduced Policy Optimization for Reinforcement Learning from Verifiable Rewards with Provable Convergence Guarantees."
+ *  [18] "Variance-Reduced Policy Optimization for Reinforcement Learning from Verifiable Rewards with Provable Convergence Guarantees."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [16] "Memory as Inference: A Variational Framework for Persistent Memory Consolidation in Long-Horizon Language Agents."
+ *  [19] "Memory as Inference: A Variational Framework for Persistent Memory Consolidation in Long-Horizon Language Agents."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [17] "Certified Machine Unlearning for Large Language Models via Influence-Bounded Weight-Space Projection."
+ *  [20] "Certified Machine Unlearning for Large Language Models via Influence-Bounded Weight-Space Projection."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [18] "Low-Rank Attention Manifolds: Provably Accurate KV-Cache Compression for Long-Context Inference."
+ *  [21] "Low-Rank Attention Manifolds: Provably Accurate KV-Cache Compression for Long-Context Inference."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [19] "Hybrid State-Space and Attention Architectures with Provable Associative Recall over Unbounded Contexts."
+ *  [22] "Hybrid State-Space and Attention Architectures with Provable Associative Recall over Unbounded Contexts."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [20] "Optimal Transport Alignment of Reasoning Trajectories for Sample-Efficient Distillation of Large Reasoning Models."
+ *  [23] "Optimal Transport Alignment of Reasoning Trajectories for Sample-Efficient Distillation of Large Reasoning Models."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [21] "Asymmetric Federated Reinforcement Learning for Privacy-Preserving Fine-Tuning of Language Agents Across Heterogeneous Clients."
+ *  [24] "Asymmetric Federated Reinforcement Learning for Privacy-Preserving Fine-Tuning of Language Agents Across Heterogeneous Clients."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [22] "Symplectic Neural Operators: Structure-Preserving Learning of Stiff Multiscale Hamiltonian Dynamics."
+ *  [25] "Symplectic Neural Operators: Structure-Preserving Learning of Stiff Multiscale Hamiltonian Dynamics."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
  *
- *  [23] "Mixed-Precision Iterative Refinement on Low-Precision Tensor Cores: Convergence Theory and Backward Error Bounds."
+ *  [26] "Mixed-Precision Iterative Refinement on Low-Precision Tensor Cores: Convergence Theory and Backward Error Bounds."
  *       Manuscript in preparation.
  *       Laitinen-Imanov, O. Y., et al. (2026).
  *       DOI: —   |   URL: —
